@@ -1,0 +1,26 @@
+{
+  "name": "devoxx-france-2017",
+  "version": "1.0.0",
+  "description": "Devoxx France 2017 presentations",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/linsolas/devoxx-france-2017.git"
+  },
+  "keywords": [
+    "DevoxxFrance"
+  ],
+  "author": "Romain Linsolas, Cyril Lakech",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/linsolas/devoxx-france-2017/issues"
+  },
+  "homepage": "https://github.com/linsolas/devoxx-france-2017#readme",
+  "devDependencies": {
+    "font-awesome": "^4.7.0",
+    "reveal.js": "^3.4.1"
+  }
+}

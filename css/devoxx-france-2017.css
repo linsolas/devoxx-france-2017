@@ -1,0 +1,12 @@
+.blur, .blur-more {
+  background-color: rgba(0, 0, 0, .33);
+  border-radius: 5px;
+  padding: 25px !important;
+}
+.blur-more {
+  background-color: rgba(0, 0, 0, .66);
+}
+
+i.fa-twitter {
+  color: #0084b4;
+}
