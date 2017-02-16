@@ -10,3 +10,7 @@
 i.fa-twitter {
   color: #0084b4;
 }
+
+.reveal ul {
+  list-style-type: none;
+}
