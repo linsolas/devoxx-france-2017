@@ -14,3 +14,14 @@ i.fa-twitter {
 .reveal ul {
   list-style-type: none;
 }
+
+ul.fa > li > i.fa:first-of-type {
+  min-width: 50px;
+  color: #999;
+}
+
+.reveal section img.raw {
+  border: 0;
+  box-shadow: none;
+  background: transparent;
+}
