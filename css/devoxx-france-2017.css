@@ -25,3 +25,18 @@ ul.fa > li > i.fa:first-of-type {
   box-shadow: none;
   background: transparent;
 }
+
+.flex {
+  display: flex;
+  flex-direction: row;
+}
+.flex > * {
+  flex: 1;
+}
+
+.pro {
+  color: #35bd5b !important;
+}
+.con {
+  color: #f17100 !important;
+}
