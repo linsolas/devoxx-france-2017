@@ -11,7 +11,8 @@ i.fa-twitter {
   color: #0084b4;
 }
 
-.reveal ul {
+.reveal ul,
+.reveal ul ul {
   list-style-type: none;
 }
 
