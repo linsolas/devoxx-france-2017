@@ -41,3 +41,18 @@ ul.fa > li > i.fa:first-of-type {
 .con {
   color: #f17100 !important;
 }
+
+blockquote.quoted:before, blockquote.quoted:after {
+  font: normal normal normal 32px/1 FontAwesome;
+  color: #ccc;
+}
+blockquote.quoted:before {
+  content: "\f10d";
+}
+blockquote.quoted:after {
+  content: "\f10e";
+}
+
+.important {
+  color: #f17100;
+}
