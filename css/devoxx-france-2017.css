@@ -87,3 +87,82 @@ blockquote.quoted:after {
 .notes .rank-1 { color: #f17100; }
 .notes .rank-2 { color: #009bcd; }
 .notes .rank-3 { color: #35bd5b; }
+
+/**************************/
+/* DEVOXX FRANCE TEMPLATE */
+/**************************/
+
+.footer {
+  position:absolute;
+  bottom: 0px;
+  width: 100%;
+  height: 32px;
+  z-index: 100;
+}
+
+.footer img {
+  position: absolute;
+  top: 0px;
+  right: 0px;
+}
+
+.footer p {
+  margin: 0px;
+  text-align: left;
+  padding-left: 10px;
+  font-size: 25px;
+  font-weight: bold
+}
+
+.reveal .slide-number {
+  margin: 0 auto;
+  left: 50%;
+  right: 50%;
+  width: 30px;
+  text-align: center;
+}
+
+.reveal .controls {
+  height: 50px;
+  width: 50px;
+  bottom: 50px;
+}
+.reveal .controls button {
+  border-width: 12px;
+}
+
+.reveal .controls .navigate-up {
+  border-bottom-width: 12px;
+  left: 8px;
+  top: -15px;
+}
+.reveal .controls .navigate-up.enabled {
+  border-bottom-color: #057bf3;
+}
+
+.reveal .controls .navigate-down {
+  border-top-width: 12px;
+  left: 8px;
+  top: 41px;
+}
+.reveal .controls .navigate-down.enabled {
+  border-top-color: #057bf3;
+}
+
+.reveal .controls .navigate-left {
+  border-right-width: 12px;
+  top: 13px;
+  left: -20px;
+}
+.reveal .controls .navigate-left.enabled {
+  border-right-color: #057bf3;
+}
+
+.reveal .controls .navigate-right {
+  border-left-width: 12px;
+  top: 13px;
+  left: 36px;
+}
+.reveal .controls .navigate-right.enabled {
+  border-left-color: #057bf3;
+}
