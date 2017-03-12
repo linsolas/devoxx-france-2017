@@ -57,6 +57,10 @@ blockquote.quoted:after {
   color: #f17100;
 }
 
+i.fa.fa-money {
+  color: #85bb65;
+}
+
 /* Notes */
 .notes {
   position: fixed;
