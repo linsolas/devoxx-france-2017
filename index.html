@@ -43,7 +43,10 @@
       history: true,
       center: true,
       slideNumber: true,
-      transition: 'convex' // 'slide', // none/fade/slide/convex/concave/zoom
+      transition: 'convex', // 'slide', // none/fade/slide/convex/concave/zoom
+      dependencies: [
+        { src: 'js/notes/notes.js', async: true }
+      ]
     });
   </script>
 </body>

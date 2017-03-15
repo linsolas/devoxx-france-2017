@@ -1,18 +1,18 @@
 (function() {
   'use strict';
 
-  function convertNotes() {
-    // Check all HTML node with `data-notes="x,y"` attribute, where:
+  function convertRatings() {
+    // Check all HTML node with `data-ratings="x,y"` attribute, where:
     //  - `x` is the rank for "implementation" ("Mise en oeuvre")
     //  - `y` is the rank for "interest" ("Intérêt")
-    const notes = document.querySelectorAll('[data-notes]');
-    for (let note of notes) {
-      let ranks = note.getAttribute('data-notes').split(',');
+    const ratings = document.querySelectorAll('[data-ratings]');
+    for (let rating of ratings) {
+      let ranks = rating.getAttribute('data-ratings').split(',');
       let div = document.createElement('div');
-      div.classList.add('notes');
-      // If `data-notes-class="x y"` is defined, we add the CSS classes to the DIV.
+      div.classList.add('ratings');
+      // If `data-ratings-class="x y"` is defined, we add the CSS classes to the DIV.
       // Useful to add "fragment fade-up" for example...
-      let frag = note.getAttribute('data-notes-class');
+      let frag = rating.getAttribute('data-ratings-class');
       if (frag !== null) {
         div.classList.add(...frag.split(' '));
       }
@@ -45,9 +45,9 @@
       div.appendChild(header);
       div.appendChild(body);
 
-      note.appendChild(div);
+      rating.appendChild(div);
     }
   }
 
-  convertNotes();
+  convertRatings();
 })();
