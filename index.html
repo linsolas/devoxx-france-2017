@@ -22,6 +22,14 @@
 
   <link rel="import" href="./chapters/13-conclusion.html"             role="slide">
 
+  <script>
+  	var link = document.createElement( 'link' );
+  	link.rel = 'stylesheet';
+  	link.type = 'text/css';
+  	link.href = window.location.search.match( /print-pdf/gi ) ? 'css/print/pdf.css' : 'css/print/paper.css';
+  	document.getElementsByTagName( 'head' )[0].appendChild( link );
+  </script>
+  
   <title>10 méthodes pour rendre heureux le développeur en entreprise<br>la 7ème va vous étonner !</title>
 </head>
 <body>
