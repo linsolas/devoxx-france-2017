@@ -7,6 +7,12 @@
   background-color: rgba(0, 0, 0, .66);
 }
 
+.clarify {
+  background-color: rgba(255, 255, 255, .33);
+  border-radius: 5px;
+  padding: 25px !important;
+}
+
 i.fa-twitter {
   color: #0084b4;
 }
