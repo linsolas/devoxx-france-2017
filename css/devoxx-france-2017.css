@@ -110,6 +110,23 @@ i.fa.fa-money {
 .ratings .rank-2 { color: #009bcd; }
 .ratings .rank-3 { color: #35bd5b; }
 
+.footer .company-logo {
+  left: 0;
+  right: 0;
+  bottom: 10px;
+  margin: 0 auto;
+  width: 200px;
+  height: 30px;
+  position: fixed;
+}
+
+.footer .company-logo img {
+  position: relative;
+}
+
+.reveal .progress span {
+  background: #e60028;
+}
 /**************************/
 /* DEVOXX FRANCE TEMPLATE */
 /**************************/
@@ -138,9 +155,9 @@ i.fa.fa-money {
 
 .reveal .slide-number {
   margin: 0 auto;
-  left: 50%;
-  right: 50%;
-  width: 30px;
+  width: 20px;
+  right: 25px;
+  bottom: 64px;
   text-align: center;
 }
 
