@@ -50,6 +50,7 @@
   <script src="lib/js/HTMLImports.min.js"></script>
   <script src="js/presentation.js"></script>
   <script src="js/devoxx-france-2017.js"></script>
+  <script src="js/konami.js"></script>
   <script>
     Reveal.initialize({
       controls: true,
@@ -62,6 +63,15 @@
         { src: 'js/notes/notes.js', async: true }
       ]
     });
+    var great = function() {
+      document.querySelector('#romain').src='images/romainLOL.png';
+      document.querySelector('#cyril').src='images/cyrilLOL.png';
+      document.querySelector('#axa').src='';
+      document.querySelector('#sg').src='';
+      document.querySelector('#great').style='display: inline';
+      document.querySelector('.company-logo').style='display: none'
+    };
+    new Konami(great);
   </script>
   <script>
     (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
