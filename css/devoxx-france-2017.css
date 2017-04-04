@@ -60,7 +60,7 @@ blockquote.quoted:after {
 }
 
 .important {
-  color: #f17100;
+  color: #f17100 !important;
 }
 
 i.fa.fa-money {
