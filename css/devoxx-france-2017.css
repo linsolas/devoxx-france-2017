@@ -85,7 +85,7 @@ i.fa.fa-money {
   color: gold;
 }
 
-.chapter-small-number, .chapter-small-number-7 {
+.chapter-small-number, .chapter-small-number-7, .intro-number-10 {
   border-radius: 100px;
   display: inline-block;
   font-size: 24px;
@@ -93,12 +93,16 @@ i.fa.fa-money {
   width: 48px;
   text-align: center;
 }
+.intro-number-10 {
+  height: 70px;
+  width: 70px;
+}
 .chapter-small-number {
   background-color: rgba(241, 113, 0, .25);
   border: solid 5px #f17100 !important;
   color: #f17100;
 }
-.chapter-small-number-7 { /* C'est en OR, on est donc forcément étonné ! */
+.chapter-small-number-7, .intro-number-10 { /* C'est en OR, on est donc forcément étonné ! */
   background-color: rgba(255, 215, 0, .25);
   border: solid 5px gold !important;
   color: gold;
