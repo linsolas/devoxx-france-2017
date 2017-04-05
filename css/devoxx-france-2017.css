@@ -85,6 +85,25 @@ i.fa.fa-money {
   color: gold;
 }
 
+.chapter-small-number, .chapter-small-number-7 {
+  border-radius: 100px;
+  display: inline-block;
+  font-size: 24px;
+  height: 48px;
+  width: 48px;
+  text-align: center;
+}
+.chapter-small-number {
+  background-color: rgba(241, 113, 0, .25);
+  border: solid 5px #f17100 !important;
+  color: #f17100;
+}
+.chapter-small-number-7 { /* C'est en OR, on est donc forcément étonné ! */
+  background-color: rgba(255, 215, 0, .25);
+  border: solid 5px gold !important;
+  color: gold;
+}
+
 /* Ratings */
 .ratings {
   position: fixed;
