@@ -29,13 +29,18 @@
         }
       }
     }
+
+    initiliazeReveal();
   }
 
   function activate() {
     if (supportsImports()) {
       console.log('HTML Import supported!');
     } else {
-      console.log('HTML Import not supported!');
+      console.log('HTML Import not supported, using Polyfill then...');
+      window.addEventListener('HTMLImportsLoaded', function(e) {
+        importPartials();
+      });
       return;
     }
 
