@@ -140,10 +140,9 @@ i.fa.fa-money {
 .ratings .rank-3 { color: #35bd5b; }
 
 .footer .company-logo {
-  left: 0;
   right: 0;
   bottom: 10px;
-  margin: 0 auto;
+  margin: 0;
   width: 300px;
   height: 30px;
   position: fixed;
