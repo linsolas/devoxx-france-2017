@@ -20,7 +20,29 @@ De l'autre côté du mirroir - des entreprises donc - il devient ainsi compliqu�
 
 ## Investir dès le recrutement
 
+C'est la première image que l'entreprise va donner au candidat alors si le process de recrutement n'est pas adapté aux développeurs: Next, on zappe cette entreprise et on passe à une autre.
+Les	problèmes	de	recrutement sont la 2ème cause d’échec	d’un	projet	(la	1ère étant que	le	projet	ne sert	à	rien) alors autant prendre ce sujet au sérieux.
+Mais alors, comment adapter le process de recrutement aux besoins des développeurs ?
+• Il faut partager la	vision, les objectifs de l'entreprise à moyen / long terme pour que la personnes comprenne dans quelle contexte se situe l'entreprise et quels sont les grands enjeux à venir. Il faut également partager les valeurs de l'entreprise, celles auxquelles on doit se raccrocher quand on doute, celles qui doivent porter l'état d'esprit à garder en tête au quotidien. Les candidats doivent se retrouver dans ses valeurs et y adhérer.
+• Il faut également décrire le cadre de travail et de l'organisation entre les équipes. Quelle est l'ambiance de travail, les méthodes, le fonctionnement classique des projets.
+• Il faut parler	salaire de manière ouverte.	Il	existe	un	marché dont les statistiques sont publiées régulièrement.	Le	salaire	proposé	doit	être	en	adéquation avec le marché. C'est simple pourtant! Alors pourquoi est-ce que ce sujet est toujours évité ?
+• Il faut parler	du	code ou plutôt des pratiques utilisées, des	outils,	des langages et technologies les plus répandus ou en cours de déploiement. Il faut s'assurer que les souhaits de la personne sont en phase avec les pratiques de l'entreprise.
+• Puis il faut insister sur les soft skills, sur ses qualités humaines: On passe assez peu de temps à écrire du code mais on passe beaucoup de temps à échanger, collaborer alors autant s'assurer que ces aptitudes chez les candidat(e)s.
+• On pourra aggrémenter le process de recrutement avec un QCM technique ou du Pair Programming afin d'avoir une mesure du niveau de maitrise du développement.
 
+Tout cela permet d'impliquer les devs dans le process pour qu'ils soient engagés et responsabilisés car après tout, ils vont travailler avec avec les personnes recrutées tôt où tard donc c'est également important pour eux de s'assurer de leur compatibilité professionnelle et c'est une bonne manière de confirmer l'expérience du candidat auprès d'une personne qui a le même métier.
+Du coup, cela nécessite	qu’un	développeur	soit	présent	au	recrutement au minimum, mais même si cela implique une perte	du	temps	passé sur	le	projet, sur le long terme l'entreprise s'y retrouver car cela permet d'éviter d'investir dans une relation si elle est vouée à l'échec.
+
+Attention de ne pas tomber dans les travers des offres improbables où on cherche des profils impossibles voir risibles: "Je recherche un ninja du digital en mode rock-star DevSecOps et évangeliste avec 10 d'expérience sur Kotlin pour un grand groupe international à l'esprit startup et à taille humaine" ... #facepalm
+C'est rare les moutons à 5 pattes et même si ca existait, les postes qui permettent de pleinement exploiter autant de compétences sont rares aussi et il y aura forcément des déçu(e)s au bout de la route en démarrant sur ce terrain glissant. A proscrire donc.
+
+A	éviter	également; faire	coder	les	candidats	sur	un	tableau	blanc	à	la virgule	prêt pour que tout compile "dans la tête". Cette mode/blague est dépassée.
+Maintenant, il	existe	des	outils comme par exemple Coding	Game	qui est utilisé	chez	Axa et Société Générale pour évaluer le niveau technique des candidat(e)s.
+Attention, le	tableau	blanc	peut	toujours être utilisé	pour	échanger	sur une	problématique, pour écrire un algorythme en pseudocode ou pour décrire une architecture.
+Ce qui est vraiment intéressant c'est de proposer	au	développeur	de	s’immerger	dans	l’équipe	pendant quelques heures, et de l’impliquer	dans	une	séance	de	code	review	ou	de	pair	programming. Faire passer ses premiers tests unitaires au vert ensemble, c'est une bonne manière de démarrer une collaboration efficace !
+Et sans oublié un basic; on peut simplement proposer boire	un verre de manière	informelle	en dehors du contexte de l'entreprise pour parler franchement de ce qui va bien ou pas dans l'entreprise.
+
+Il vaut mieux un refus du candidat que de recruter une personne qui va se sentir tromper sur la marchandise après quelques mois passés dans l'entreprise. On investi beaucoup sur les nouveaux recrutés pour qu'ils soient opérationnels alors si c'est pour les voir partir, c'est déceptif pour tout le monde et très très couteux !
 
 
 ## Proposer un vrai plan de carrière
