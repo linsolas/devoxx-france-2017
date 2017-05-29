@@ -113,10 +113,12 @@ Les règles 8 et 9 de ce test résument parfaitement ce que nous venons de dire 
 ## Organiser sa façon de travailler
 
 On peut avoir une belle carrière face à soi, disposer d'un environnement de travail stimulant et d'une machine de compétition, il est nécessaire de savoir s'organiser au sein de son équipe pour travailler efficacement.
-Nous ne reviendrons pas en détail sur l'intérêt des méthodes agiles.
+Nous ne reviendrons pas en détail sur l'intérêt des méthodes agiles, elles ont fait leurs preuves depuis quelques années, et rare sont aujourd'hui les projets qui n'y font plus appel.
 
-Les *feature teams* ont été démocratisées par
-Cette organisation se définit par une petite équipe - généralement autour de 6 à 8 personnes - aux spécialisations complémentaires dont le but est de pouvoir développer une fonctionnalité de bout en bout.
+**TODO**
+
+Les *feature teams* ont été démocratisées par **TODO**.
+Ce type d'organisation se caractèrise par une petite équipe - généralement autour de 6 à 8 personnes - aux spécialisations complémentaires dont le but est de prendre en charge le développement d'une fonctionnalité de bout en bout.
 Cette équipe, idéalement co-localisée, s'inscrit également dans la durée, permettant ainsi de mieux connaître ses équipiers et ainsi travailler avec une plus grande efficacité.
 
 **TODO Romain**
@@ -144,6 +146,8 @@ Il faut beaucoup de perseverance pour créer une culture d'entreprise qui soit p
 
 ## Contribuer à l'open-source
 
+L'open-source est extrêmement répandu et apprécié par les développeurs.
+
 **TODO Romain**
 
 ## Participer à des événements
@@ -159,14 +163,27 @@ Pour l'hôte - et donc la société, les avantages sont multiples : cela représ
 Pour l'expert(e), aussi appelé(e) *bagger*, c'est l'opportunité de se faire connaître, de rôder une présentation - utile en amont d'une conférence pour la répéter - ou encore exercer ces talents d'orateur, ce qui est souvent plus facile à faire en petit comité d'une dizaine de personnes que lors d'une conférence devant trois cent participants.
 Si vous êtes intéressés par ce type d'événements, il suffit de vous rendre sur le site recensant toutes les personnes disposées à présenter des sujets sur ce format de BBL, http://www.brownbaglunch.fr/ Ce sont ainsi plus de 250 femmes et hommes présentes sur tout le territoire français !
 
+Un autre moyen pour les entreprises d'avoir une part active au sein des communautés est l'hébergement de meetups.
+Les meetups, qui doivent leurs noms au site Internet éponyme, est le rassemblement récurrent de passionnés 
+Si les meetups sont gérés par une communauté dédiée, ce sont les entreprises qui les hébergent.
+Petites startups ou grosses entreprises, c'est un moyen simple de s'offrir de la visibilité auprès d'une communauté 
 
-Les meetups
 
-Le hackathon
+Les hackathons sont très en vogue auprès des entreprises.
+Ce sont chaque année des dizaines d'événements de ce type qui sont mis sur place à destination de développeurs, d'entrepreneurs ou d'innovateurs.
+Un hackathon est un concours de développement collaboratifs qui met en concurrence une dizaine d'équipes en moyenne pendant un, deux ou trois jours.
+Les entreprises qui mettent en place ce type d'événements donnent généralement un thème, ou certaines contraintes aux candidats, par exemple le fait d'utiliser les APIs fournies par la société.
+Au terme du hackathon, les équipes présentent leurs réalisations à un jury, qui finit par élire les projets gagnants.
+
+Si les hackathons ont clairement un intérêt pour les entreprises, il est très important que ces dernières offrent une véritable compensation aux participants.
+Considérer les hackathons comme de la main d'oeuvre pratiquement gratuite risque de créer l'effet inverse de celui escompté, et ainsi de mettre la société dans une situation délicate.
+Pour éviter ce fameux effet *bad buzz* il est ainsi préférable de prévoir de véritables récompenses pour les participants, l'idéal serait même de pouvoir incuber une poignée de projets pour leur permettre de développer concrètement leurs idées.
 
 Les conférences internes
 
-Sponsoring de conférences
+Une dernière solution 
+Le métier du développement informatique jouit d'une chance rare, c'est le nombre très important de conférences présentes, sur de nombreux thèmes.
+Devenir le sponsor d'une conférence offre de nombreux atouts aux entreprises. Il s'agit en premier lieu de s'offrir une bonne visibilité voire une amélioration de leur image de marque auprès des développeurs, facilitant ainsi leur recrutement. Cela permet également d'envoyer de nombreux collaborateurs à ces conférences, ce qu'ils apprécient très souvent !
 
 
 ## Conclusion
