@@ -45,9 +45,34 @@ Et sans oublié un basic; on peut simplement proposer boire	un verre de manière
 Il vaut mieux un refus du candidat que de recruter une personne qui va se sentir tromper sur la marchandise après quelques mois passés dans l'entreprise. On investi beaucoup sur les nouveaux recrutés pour qu'ils soient opérationnels alors si c'est pour les voir partir, c'est déceptif pour tout le monde et très très couteux !
 
 
-## Proposer un vrai plan de carrière
+## Proposer une carrière aux devs
 
+Evitons d'avoir des devs qui s'ennuient et travaille principalement parce qu'il faut bien remplir le frigo ! Proposons leur de co-construire leur avenir et de passer un bout de chemin ensemble ! Trop de développeur sont désengagés dans leur travail et pourrait être beaucoup plus épanouis dans leur carrière, ce qui améliorerai leur productivité.
 
+Pour faire	rester	le	développeur dans l'entreprise, il faut lui	proposer	une	expérience	durable dans laquelle il va pouvoir évoluer dans le temps.
+Les évolutions possible	sont:
+-en fonction de l'expertise	technique qui va de novice à juinor puis sénior et enfin expertise
+-en fonction de l'influence et du leadership,
+-en fonction de la maitrise de technologies complémentaires en passant de dev mobile, dev APIs, NodeJS, Java, OPS .NET, UX, dev web...
+-en fonction de la maitrise des métiers de l'entreprise, en cumulant des connaissances dans différents domaines métiers de l'entreprise.
+-et les évolutions plus classiques en tant que manager de projets et/ou de personnes ou architecte !
+
+Toutes ses évolutions du profil de développeur peuvent être clairement identifiées et valorisées dans l'enterprise ce qui permet aux développeurs de se voir évoluer dans le temps. Cela sera également utile pour l'entreprise afin de voir dans quels domaines/technos il y a une carence / abondance de compétences.
+
+Une des manières les plus sures pour obtenir l'attention des développeurs est de leur proproser de vivre des	expériences	extra	ordinaires. Il faut que son quotidien soit varié, que les projets soient parfois stratégiques, parfois innovants, si possible les 2 et rarement ennuyeux. Varions les plaisirs et évitons de cumuler trop de développements similaires d'applications de type formulaires web qui stockent en base de données.
+
+«	Développeurs,	apprendre	est	notre	métier », Damien	Cavaillès
+Pour rester employable, un développeur doit apprendre sans cesse et suivre l'évolutions des ecosystèmes. Si on veut garder les développeurs et en attirer d'autres, il faut leur proposer une carrière avec l'assurance de ne pas être laissé sur le côté sous prétexte d'enchainer les projets en mode rush, sans possiblité d'apprendre, de s'améliorer. Laissez assez de temps aux développeurs pour qu'ils puissent produire tout en apprennant, sinon ils iront apprendre ailleurs, où ils le feront sur leur temps perso, ou en temps masqué imputé sur les projets...
+
+Soit on investit sur la formation des développeurs, cela a un cout mais cela peut créer une cercle vertueux où l'entreprise, les développeurs et les clients/utilisateurs s'y retrouvent car la qualité doit s'améliorer dans ces conditions.
+Soit on n'investit pas dans la formation des développeurs mais ce choix stratégique implique qu'on aura beaucoup de difficultés à garder les meilleurs éléments qui seront chassés sans relache et que le recrutement sera également un calvaire.
+
+On est d'accord qu'il faut que les développeurs apprennnent à apprendre... et une manière efficace de le faire, est d'apprendre à apprendre aux autres, d'apprendre à enseigner, car non seulement cela permet d'apprendre à plusieurs personnes mais le formateur va également apprendre beaucoup dans ce processus d'apprentissage.
+
+"Donner des cours et des présentations a changé ma vie professionnelle.
+C'est un terrain d'auto-apprentissage inépuisable qui stimule les connaissances et savoir-faire liés à la technique mais aussi aux relations humaines."  @hsablonniere
+
+Il faut encourager	les	développeurs	à	donner	des	cours	et	des	présentations, des BBLs et il faut valoriser ce travail.
 
 
 ## Créer un environnement stimulant
