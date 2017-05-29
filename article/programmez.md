@@ -4,7 +4,7 @@
 
 ### Cyril Lakech
 
-
+Cyril Lakech est développeur et tech leader chez AXA France où il a pour mission d'animer la communauté des développeurs nottament.
 
 ### Romain Linsolas
 
@@ -122,7 +122,18 @@ Cette équipe, idéalement co-localisée, s'inscrit également dans la durée, p
 **TODO Romain**
 
 
-## Le Software Craftsmanship à la rescousse
+## Le Software Craftsmanship FTW
+
+Un développeur veut s'épanouir dans son travail. Il veut apprendre tout le temps. Mais comment ? On s'améliorant continuellement, en apprenant, en se couchant chaque soit plus fort et intelligent que la veille. Tout en produisant des service utiles et utilisés ! #challenge
+
+Software Craftsmanship kézako ?
+Not ONLY Agile ! L'agilité est souvent utilisée pour améliorer l'efficacité du delivery et on se retrouve à livrer vite des applications non fonctionnelles, bugguées, difficiles à maintenir. Le craft arrive à la rescousse en patchant le manifest agile pour rappeler que les logiciels doivent être bien conçus, qu'il faut ajouter de la valeur quand on fait évoluer un soft et qu'on doit devenir une communauté de professionnels qui s'entraide et pas seulement s'affecter des cartes dans un kanban ou encore que la relation avec le métier n'est pas simplement sur le mode client fournisseur mais bien un partenariat vertueux !
+
+La liste des choses à faire est infinie mais l'idée est d'être fier du travail réalisé et d'apprendre chaque jour. S'entrainer et s'entrainer toujours. Mentorer, partager, apprendre... Vous pouvez mettre en oeuvre des pratiques telles que BDD, TDD, ATDD, vous pouvez vous assurer de respecter les préceptes du clean code avec les principes DRY, SOLID, KISS, ou mettre en oeuvre des architectures ES/CQRS quand cela est nécessaire, et aussi utisez des langages ou des frameworks pour améliorer l'expressivité du code et faciliter sa maintenance... Raise the bar !
+
+Faisons en sorte que les personnes apprennent assez pour qu'elles puissent quitter l'entreprise, qu'elles restent employables, si elles restent parce qu'elle ne peut pas partir car leurs compétences ne sont pas recherchées, c'est un échec pour tout le monde. Traitons les de manière à ce qu'elles n'ai pas envie de quitter l'entreprise car elles y retrouvent tout ce dont elles ont besoin !
+
+Il faut beaucoup de perseverance pour créer une culture d'entreprise qui soit proche des valeurs et pratiques craftman mais sur ce long chemin vous apprendrez beaucoup, la qualité de vos produits s'améliorera et une fois que vous y aurez gouter vous ne pourrez plus vous en passer !
 
 
 ## L'ouverture technologique
