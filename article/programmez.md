@@ -44,7 +44,7 @@ Une dernière chose, et non des moindres, il est important que les membres de l'
 Pour en finir sur le recrutement, un point crucial à respecter est la transparence et la franchise sur la société et l'équipe qu'il viendrait à rejoindre. Si, après quelques semaines ou quelques mois passé avec vous, il s'aperçoit d'une quelconque supercherie, cela risque de le décevoir, de le démotiver. Il existe alors un risque important qu'il quitte le navire, ce qui nous ferait tomber dans le travers dont on évoquait au début du chapitre, à savoir qu'un mauvais recruteur est extrêmement coûteux pour l'entreprise.
 
 
-## Proposer une carrière aux devs
+## Proposer une carrière aux développeurs
 
 Il arrive que les développeurs s'ennuient et finissent par venir travailler simplement pour remplir le frigo. Ce n'est souhaitable ni pour eux ni pour l'entreprise. Il convient de leur offrir la possibilité de construire leur avenir afin de pouvoir les fideliser au sein de la société. Nombreux sont les développeurs qui se sentent désengagés, déresponsabilisés dans leur travail, alors qu'ils pourraient être épanouis dans leur carrière — ce qui aurait également l'avantage non négligeable d'améliorer leur productivité.
 
@@ -123,16 +123,22 @@ Cette équipe, idéalement co-localisée, s'inscrit également dans la durée, p
 
 ## Le Software Craftsmanship FTW
 
-Un développeur veut s'épanouir dans son travail. Il veut apprendre tout le temps. Mais comment ? On s'améliorant continuellement, en apprenant, en se couchant chaque soit plus fort et intelligent que la veille. Tout en produisant des service utiles et utilisés ! #challenge
+Un développeur veut pouvoir s'épanouir dans son travail et apprendre en permanence.
+Comment l'amener à cet épanouissement ? Comment lui permettre de s'améliorer continuellement et qu'il puisse prendre conscience qu'il devient meilleur chaque jour ?
+La réponse à ces questions tient en deux mots, le *Software Craftsmanship*, qui pourrait se traduire par le développement artisanal.
+L'agilité semblait être la solution à tous les maux du développement logiciel, et s'il est vrai que cela a considérablement améliorer la situation, cela ne suffit plus.
+L'agilité est souvent utilisée pour améliorer l'efficacité des livraisons et le résultat est que l'on se retrouve à livrer plus vite des applications parfois non fonctionnelles, défectibles et difficiles à maintenir.
+Le *Software Craftsmanship* ne se définit pas comme un remplaçant de l'agilité, mais plutôt une extension à celle-ci, en rappelant que les logiciels doivent être bien conçus, et que chaque nouveau développement doit clairement apporter de la valeur au produit final.
+Il rappelle également que les développeurs font partie d'une communauté de professionnels qui savent s'entraider, et que la relation avec le métier n'est pas simplement basée sur le mode client - fournisseur mais doit plutôt représenter un partenariat vertueux.
 
-Software Craftsmanship kézako ?
-Not ONLY Agile ! L'agilité est souvent utilisée pour améliorer l'efficacité du delivery et on se retrouve à livrer vite des applications non fonctionnelles, bugguées, difficiles à maintenir. Le craft arrive à la rescousse en patchant le manifest agile pour rappeler que les logiciels doivent être bien conçus, qu'il faut ajouter de la valeur quand on fait évoluer un soft et qu'on doit devenir une communauté de professionnels qui s'entraide et pas seulement s'affecter des cartes dans un kanban ou encore que la relation avec le métier n'est pas simplement sur le mode client fournisseur mais bien un partenariat vertueux !
+Le *Software Craftsmanship* porte en soi une valeur importante, celle de l'idée que l'on doit être fier du travail réalisé collectivement et de l'apprentissage permanent.
+Concrètement, de nombreuses pratiques peuvent être mises en œuvre, telles que le *TDD* (*Test Driven Development*), le *BDD* (*Behavior Driven Development*), la mise en application des préceptes du *clean code* (code propre) avec ses principes *DRY* (*Don't Repeat Yourself*), *KISS* (*Keep It Simple, Stupid*) ou encore *SOLID* (acronyme représentant les cinq principes de bases de la programmation orientée objet).
+L'envie ici n'est pas d'ajouter de multiples acronymes barbares sur son CV, mais plutôt de savoir adapter sa façon de travailler pour produire du code plus clair, plus expressif et dont la maintenance en sera facilitée.
 
-La liste des choses à faire est infinie mais l'idée est d'être fier du travail réalisé et d'apprendre chaque jour. S'entrainer et s'entrainer toujours. Mentorer, partager, apprendre... Vous pouvez mettre en oeuvre des pratiques telles que BDD, TDD, ATDD, vous pouvez vous assurer de respecter les préceptes du clean code avec les principes DRY, SOLID, KISS, ou mettre en oeuvre des architectures ES/CQRS quand cela est nécessaire, et aussi utiliser des langages ou des frameworks pour améliorer l'expressivité du code et faciliter sa maintenance... Raise the bar !
+Il faut beaucoup de persévérance pour créer une culture d'entreprise qui soit proche des valeurs et des pratiques du *Software Craftsmanship*.
+Ce processus est long, mais à travers lui vous apprendrez beaucoup, la qualité de vos livrables s'améliorera et il sera alors difficile de revenir en arrière tant les bénéfices sont nombreux !
 
-Faisons en sorte que les personnes apprennent assez pour qu'elles puissent quitter l'entreprise, qu'elles restent employables, si elles restent parce qu'elle ne peut pas partir car leurs compétences ne sont pas recherchées, c'est un échec pour tout le monde. Traitons les de manière à ce qu'elles n'ai pas envie de quitter l'entreprise car elles y retrouvent tout ce dont elles ont besoin !
-
-Il faut beaucoup de perseverance pour créer une culture d'entreprise qui soit proche des valeurs et pratiques craftsmanship mais sur ce long chemin vous apprendrez beaucoup, la qualité de vos produits s'améliorera et une fois que vous y aurez gouter vous ne pourrez plus vous en passer !
+Richard Branson, fameux entrepreneur et fondateur de Virgin, a parfaitement résumé la situation qui nous intéresse ici, sans pour autant se limiter au monde de l'informatique, en disant ceci : « formez vos collaborateurs afin qu'ils puissent partir, mais traitez les suffisament bien pour qu'ils n'aient pas envie de le faire ».
 
 
 ## L'ouverture technologique
@@ -161,9 +167,9 @@ Pour l'expert(e), aussi appelé(e) *bagger*, c'est l'opportunité de se faire co
 Si vous êtes intéressés par ce type d'événements, il suffit de vous rendre sur le site recensant toutes les personnes disposées à présenter des sujets sur ce format de BBL, http://www.brownbaglunch.fr/ Ce sont ainsi plus de 250 femmes et hommes présentes sur tout le territoire français !
 
 Un autre moyen pour les entreprises d'avoir une part active au sein des communautés est l'hébergement de meetups.
-Les meetups, qui doivent leurs noms au site Internet éponyme, est le rassemblement récurrent de passionnés 
+Les meetups, qui doivent leurs noms au site Internet éponyme, est le rassemblement récurrent de passionnés
 Si les meetups sont gérés par une communauté dédiée, ce sont les entreprises qui les hébergent.
-Petites startups ou grosses entreprises, c'est un moyen simple de s'offrir de la visibilité auprès d'une communauté 
+Petites startups ou grosses entreprises, c'est un moyen simple de s'offrir de la visibilité auprès d'une communauté
 
 
 Les hackathons sont très en vogue auprès des entreprises.
@@ -173,12 +179,12 @@ Les entreprises qui mettent en place ce type d'événements donnent généraleme
 Au terme du hackathon, les équipes présentent leurs réalisations à un jury, qui finit par élire les projets gagnants.
 
 Si les hackathons ont clairement un intérêt pour les entreprises, il est très important que ces dernières offrent une véritable compensation aux participants.
-Considérer les hackathons comme de la main d'oeuvre pratiquement gratuite risque de créer l'effet inverse de celui escompté, et ainsi de mettre la société dans une situation délicate.
+Considérer les hackathons comme de la main d'œuvre pratiquement gratuite risque de créer l'effet inverse de celui escompté, et ainsi de mettre la société dans une situation délicate.
 Pour éviter ce fameux effet *bad buzz* il est ainsi préférable de prévoir de véritables récompenses pour les participants, l'idéal serait même de pouvoir incuber une poignée de projets pour leur permettre de développer concrètement leurs idées.
 
 Les conférences internes
 
-Une dernière solution 
+Une dernière solution
 Le métier du développement informatique jouit d'une chance rare, c'est le nombre très important de conférences présentes, sur de nombreux thèmes.
 Devenir le sponsor d'une conférence offre de nombreux atouts aux entreprises. Il s'agit en premier lieu de s'offrir une bonne visibilité voire une amélioration de leur image de marque auprès des développeurs, facilitant ainsi leur recrutement. Cela permet également d'envoyer de nombreux collaborateurs à ces conférences, ce qu'ils apprécient très souvent !
 
@@ -190,3 +196,5 @@ Devenir le sponsor d'une conférence offre de nombreux atouts aux entreprises. I
 
 [1] https://www.joelonsoftware.com/2000/08/09/the-joel-test-12-steps-to-better-code/ et https://fr.wikipedia.org/wiki/Test_de_Jo%C3%ABl
 [2] lire Programmez! #175 de juin 2014
+
+Citation de Richard Branson: https://twitter.com/richardbranson/status/449220072176107520
