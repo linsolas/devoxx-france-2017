@@ -56,20 +56,20 @@ Ainsi, pour fidéliser le développeur dans l'entreprise, il faut lui proposer u
 * développer sa maîtrise des domaines métiers de l'entreprise ;
 * s'orienter vers des rôles d'architectes techniques ou fonctionnels.
 
-Toutes ces évolutions du profil de développeur peuvent être clairement identifiées et valorisées dans l'enterprise, ce qui permet aux développeurs d'avoir une vision long terme de leur carrière. Cela sera également utile pour l'entreprise afin de voir dans quels domaines et technologies il y a une carence ou une abondance de compétences parmi ses effectifs.
+Toutes ces évolutions du profil de développeur peuvent être clairement identifiées et valorisées dans l'entreprise, ce qui permet aux développeurs d'avoir une vision long terme de leur carrière. Cela sera également utile pour l'entreprise afin de voir dans quels domaines et technologies il y a une carence ou une abondance de compétences parmi ses effectifs.
 
-L'une des manières les plus sûres pour obtenir l'attention des développeurs est de leur proposer de vivre des expériences extra-ordinaires. Il faut que leur quotidien soit varié, en alternant des projets stratégiques avec des projets innovants, ponctués parfois des projets plus classiques. Varier les plaisirs et casser la routine permettra aux développeurs de se sentir valorisés, et ainsi de les motiver d'avantage.
+L'une des manières les plus sûres pour obtenir l'attention des développeurs est de leur proposer de vivre des expériences extraordinaires. Il faut que leur quotidien soit varié, en alternant des projets stratégiques avec des projets innovants, ponctués parfois des projets plus classiques. Varier les plaisirs et casser la routine permettra aux développeurs de se sentir valorisés, et ainsi de les motiver davantage.
 
 Un autre aspect à ne pas négliger est la formation, l'apprentissage. Pour paraphraser Damien Cavaillès — indépendant et créateur du site JeChercheUnDev : « Développeurs, apprendre est notre métier ».
 Pour rester employable, un développeur doit apprendre sans cesse et suivre l'évolutions des technologies. Si l'on veut garder les développeurs et en attirer d'autres, il faut leur proposer une carrière où ils auront l'assurance d'être en mesure d'apprendre continuellement, de s'améliorer. Laisser assez de temps aux développeurs pour qu'ils puissent produire tout en apprenant devient alors un critère important à leurs yeux, sans quoi ils iront apprendre ailleurs, ou le feront en cachette sur le temps imputé aux projets sur lesquels ils travaillent. Dans de telles conditions, personne n'en sort gagnant !
 
 A bien y regarder, il n'y a que deux possibilités ici.
 
-* Soit l'entreprise investit sur la formation des développeurs. Cela représente bien entendu un coût — certains diront plutôt un investissement, mais aura en contrepartie l'avantage de créer une cercle vertueux où l'entreprise, les développeurs ainsi que les clients et utilisateurs s'y retrouveront au vu de l'amélioration notable de la qualité des productions.
+* Soit l'entreprise investit sur la formation des développeurs. Cela représente bien entendu un coût — certains diront plutôt un investissement, mais aura en contrepartie l'avantage de créer un cercle vertueux où l'entreprise, les développeurs ainsi que les clients et utilisateurs s'y retrouveront au vu de l'amélioration notable de la qualité des productions.
 * Soit l'entreprise n'investit pas dans la formation de ses développeurs. Ce choix stratégique va nécessairement impliquer à moyen terme une difficulté accrue à conserver les meilleurs éléments au sein des effectifs, et à rendre le recrutement encore plus difficile.
 
 De leur côté, les développeurs doivent apprendre à apprendre, ce qui n'est pas aussi facile qu'il n'y parait. Une manière intéressante et efficace de le faire est d'apprendre à enseigner. Partager sa passion est souvent une caractéristique reconnue d'un bon développeur, mais cela a aussi de nombreux autres atouts. Hubert Sablonnière (@hsablonniere), un développeur web et orateur apprécié disait que de « donner des cours et des présentations a changé ma vie professionnelle. C'est un terrain d'auto-apprentissage inépuisable qui stimule les connaissances et savoir-faire liés à la technique mais aussi aux relations humaines. »
-Quant les développeurs émettent ce souhait, il est primordial de les encourager à donner des cours, des présentations, des *Brown Bag Lunches*, tout en valorisant ce travail.
+Quand les développeurs émettent ce souhait, il est primordial de les encourager à donner des cours, des présentations, des *Brown Bag Lunches*, tout en valorisant ce travail.
 
 
 ## Créer un environnement stimulant
@@ -77,25 +77,25 @@ Quant les développeurs émettent ce souhait, il est primordial de les encourage
 La carrière du développeur est désormais entre de bonnes mains, il faut maintenant s'affairer à lui proposer un environnement de travail qui soit propice à la concentration et à l'efficacité.
 L'open-space, très présent dans les entreprises, n'est clairement pas adapté à ces contraintes : bruyant, source de déconcentration et de stress, souvent dépourvu d'âme, on lui préfèrera les bureaux flexibles.
 Ces lieux permettent de casser la routine du bureau traditionnel en offrant des espaces adaptés à un moment précis : de petits espaces intimes pour permettre de suivre une conférence téléphonique sans être dérangé, de petites zones confortables pour de petits meetings, et ainsi de suite.
-L'intérêt des espaces de détente est souvent minimisé par les sociétés, alors qu'il s'agit-là d'un lieu important, véritable exutoire pour le développeur qui aura passé une matinée entière à dénicher le bug dans son code Angular !
+L'intérêt des espaces de détente est souvent minimisé par les sociétés, alors qu'il s'agit là d'un lieu important, véritable exutoire pour le développeur qui aura passé une matinée entière à dénicher le bug dans son code Angular !
 
 Si cette configuration des lieux est souvent la signature de quelques géants du web ou de certaines startups, les grandes entreprises s'y mettent également, y voyant clairement un investissement incontournable et un atout séduction auprès de potentiels candidats à recruter. À titre d'exemple, Société Générale a ouvert en 2016 de nouveaux locaux à Val de Fontenay en respectant scrupuleusement ces consignes.
 
 L'espace de travail est lui aussi trop souvent mal considéré. Il ne suffit plus d'une simple chaise et un coin de table pour travailler.
 Les développeurs pouvant passer près de dix heures par jour à leur poste, il devient dès lors primordial de s'assurer de leur confort, et par voie de conséquence, de leur santé !
-Nous pourrions citer comme amélioration le fameux bureau debout, qui offre la possibilité de travailler aussi bien assis que debout. Il va de soi qu'une véritable chaise bien confortable ira de paire avec ce bureau.
+Nous pourrions citer comme amélioration le fameux bureau debout, qui offre la possibilité de travailler aussi bien assis que debout. Il va de soi qu'une véritable chaise bien confortable ira de pair avec ce bureau.
 
 Le télétravail est paradoxalement encore mal établi dans les grandes entreprises, alors que le métier du développement informatique s'y prête parfaitement !
 C'est pourtant là un critère de plus en plus important lorsqu'un(e) candidat(e) cherche un poste.
 Pour certaines personnes, l'absence — ou l'interdiction — du télétravail est même devenu un critère éliminatoire.
 Nous n'allons pas retracer ici les nombreux avantages que procure ce mode de travail, mais ces derniers sont encore plus mis en exergue pour les métiers du développement.
-Travailler chez soi permet en effet de disposer d'un plus grand calme, d'une meilleur concentration et donc d'augmenter la productivité.
+Travailler chez soi permet en effet de disposer d'un plus grand calme, d'une meilleure concentration et donc d'augmenter la productivité.
 Bien entendu, cela nécessite de la part du télétravailleur une certaine rigueur organisationnelle.
 Il est primordial de pouvoir s'isoler, de créer un environnement spécifique pour le télétravail afin de limiter les perturbations extérieures, mais également pour marquer — physiquement et psychologiquement — une véritable frontière entre le professionnel et le personnel.
 
 Arrêtons-nous maintenant sur une pièce maîtresse et vitale du développeur : la machine.
 Elle est souvent source de crispation : trop lente, trop limitée, peu adaptée au développement, mal configurée... les critiques ne manquent pas !
-Hormis l'aspect de la sécurité qui est très chère aux grandes sociétés, c'est très souvent le prix qui sert d'excuse afin de s'opposer à un matériel de meilleur qualité.
+Hormis l'aspect de la sécurité qui est très chère aux grandes sociétés, c'est très souvent le prix qui sert d'excuse afin de s'opposer à un matériel de meilleure qualité.
 Pourtant un calcul simple permet de révéler la supercherie : si l'on considère un prestataire à 600€ par jour (soit un tarif courant sur la région parisienne), et si ce dernier perd une heure par jour à cause de son matériel peu performant, alors la perte induite peut avoisiner les 15,000€ par an !
 Admettons-le, même une excellente machine n'atteindra jamais de tels tarifs.
 
