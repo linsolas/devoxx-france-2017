@@ -147,6 +147,37 @@ Richard Branson, fameux entrepreneur et fondateur de Virgin, a parfaitement rés
 
 ## L'ouverture technologique
 
+Comment faire pour gérer des technologies utilisées dans l'entreprise d'une manière qui soit adaptée aux développeurs ?
+
+Les développeurs ont tendance à collectionner les langages, les frameworks et les plateformes. Ils se lassent vite et ont souvent envie de tester de nouvelles choses.
+
+Du coup, afin d'éviter de changer trop souvent de technologies et pour s'assurer d'aucune dérive, des murs sont érigés par l'entreprise afin de graver dans le marbre les technologies qui sont autorisées ou non sur les projets. Il est alors souvent difficile en tant que développeur de pouvoir en utiliser d'autres et ce problème de communication entraine des frustrations qui déclenche des guerres internes ou des démissions de développeurs. Pourtant l'écosystème du développeur évolue à grande vitesse et on peut rapidement se retrouver avec une stack technologique dépassée si on n'y prête pas attention.
+
+Alors comment allier flexibilité et contrôle des technologies utilisées ?
+
+Il existe un concept de radar technologique rendu populaire par Thoughworks qui permet de classer les technologies en 4 catégories qui sont Programming Languages and Frameworks, Tools, Platforms et Techniques. Pour chaque catégories, l'étape d'évolution de la technologie est représentée par sa position dans un des 4 anneaux qui sont Adopt, Trial, Assess, Hold.
+
+Pour plus d'informations: https://www.thoughtworks.com/radar
+
+Ce concept de radar peut être appliqué en fonction de la vision d'une entreprise en particulier et on peut alors publier la liste des technologies sous cette forme. Cela permet de communiquer clairement la vision et l'usage des différentes technologies.
+
+Ensuite, si les développeurs souhaitent utiliser une nouvelle technologie alors un représentant de leur communauté peut la présenter à un collège de personnes ayant des profils divers et complémentaires au sein de l'IT: architecte, OPS, responsable sécurité, développeur ou un profil d'expert dans un domaine en lien avec le sujet.
+
+Après une présentation de la technologie, elle est passée au crible:
+Quelles sont ses forces et ses faiblesses ? Des risques ou des opportunités ?
+Quelle est l'expérience de la communauté avec cette technologie ?
+Quels sont les coûts induits ?
+...
+
+En fonction des discussions, le collège défini des critères de validations pour utiliser cette technologie.
+
+Ensuite, on peut la tester sur un projet pilote ou bien la refuser temporairement.
+
+Une fois ce projet pilote terminé, un retour d'expérience sera partagé avec ce même collège afin de dresser un bilan et de définir la prochaine évolution de cette technologie au sein du radar. Soit elle est mise de côté car inadaptée, soit on la considère comme étant assez intéressante pour l'utiliser sur d'autres projets.
+
+Plusieurs mois plus tard, après plusieurs usages de cette technologies, il pourra être opportun d'échanger à nouveau sur ce sujet afin de déployer globalement cette technologie dans l'entreprise... ou pas, en fonction des retours d'expérience encore une fois.
+
+Avec cette méthode, on communiquer clairement sur les technologies utilisées dans l'entreprise et on permet aux développeurs d'avoir une emprise sur ce radar en y contribuant.
 
 ## Créer des communautés
 
