@@ -48,13 +48,13 @@ Pour en finir sur le recrutement, un point crucial à respecter est la transpare
 
 Il arrive que les développeurs s'ennuient et finissent par venir travailler simplement pour remplir le frigo. Ce n'est souhaitable ni pour eux ni pour l'entreprise. Il convient de leur offrir la possibilité de construire leur avenir afin de pouvoir les fideliser au sein de la société. Nombreux sont les développeurs qui se sentent désengagés, déresponsabilisés dans leur travail, alors qu'ils pourraient être épanouis dans leur carrière — ce qui aurait également l'avantage non négligeable d'améliorer leur productivité.
 
-Ainsi, pour fidéliser le développeur dans l'entreprise, il faut lui proposer une expérience durable dans laquelle il va pouvoir évoluer dans le temps. Il est fini le temps où le métier de développeur était considéré comme une passerelle avant le métier de manager ou chef de projets. Aujourd'hui, de multiples alternatives existent :
+Ainsi, pour fidéliser le développeur dans l'entreprise, il faut lui proposer une expérience durable dans laquelle il va pouvoir évoluer dans le temps. Il est fini le temps où le métier de développeur était considéré comme une passerelle avant le métier de manager ou chef de projets. Aujourd'hui, de multiples alternatives existent.
 
-* évoluer sur son niveau d'expertise technique, avec ses multiples palliers tels que novice, junior, sénior et enfin expert ;
-* profiter de sa capacité d'influence et de leadership, par exemple pour occuper des postes d'évangélistes ;
-* parfaire sa maîtrise des technologies complémentaires, telles que le développement web, *back-end* (avec Java, .Net, etc.), d'UX, etc. ;
-* développer sa maîtrise des domaines métiers de l'entreprise ;
-* s'orienter vers des rôles d'architectes techniques ou fonctionnels.
+* Faire évoluer sur son niveau d'expertise technique, avec ses multiples palliers tels que novice, junior, sénior et enfin expert.
+* Profiter de sa capacité d'influence et de leadership, par exemple pour occuper des postes d'évangélistes.
+* Parfaire sa maîtrise des technologies complémentaires, telles que le développement web, *back-end* (avec Java, .Net, etc.), d'UX, etc.
+* Développer sa maîtrise des domaines métiers de l'entreprise.
+* S'orienter vers des rôles d'architectes techniques ou fonctionnels.
 
 Toutes ces évolutions du profil de développeur peuvent être clairement identifiées et valorisées dans l'entreprise, ce qui permet aux développeurs d'avoir une vision long terme de leur carrière. Cela sera également utile pour l'entreprise afin de voir dans quels domaines et technologies il y a une carence ou une abondance de compétences parmi ses effectifs.
 
@@ -74,37 +74,41 @@ Quand les développeurs émettent ce souhait, il est primordial de les encourage
 
 ## Créer un environnement stimulant
 
-La carrière du développeur est désormais entre de bonnes mains, il faut maintenant s'affairer à lui proposer un environnement de travail qui soit propice à la concentration et à l'efficacité.
-L'open-space, très présent dans les entreprises, n'est clairement pas adapté à ces contraintes : bruyant, source de déconcentration et de stress, souvent dépourvu d'âme, on lui préfèrera les bureaux flexibles.
-Ces lieux permettent de casser la routine du bureau traditionnel en offrant des espaces adaptés à un moment précis : de petits espaces intimes pour permettre de suivre une conférence téléphonique sans être dérangé, de petites zones confortables pour de petits meetings, et ainsi de suite.
-L'intérêt des espaces de détente est souvent minimisé par les sociétés, alors qu'il s'agit là d'un lieu important, véritable exutoire pour le développeur qui aura passé une matinée entière à dénicher le bug dans son code Angular !
+La carrière du développeur étant désormais entre de bonnes mains, il faut maintenant s'affairer à lui proposer un environnement de travail qui soit propice à la concentration et à l'efficacité.
+L'open-space, très présent dans les entreprises, n'est clairement pas adapté à ces contraintes : bruyant, source de déconcentration et de stress, généralement dépourvu d'âme, on lui préfèrera les bureaux flexibles.
+Ces lieux viennent casser la routine créée par le bureau traditionnel en offrant des espaces adaptés aux besoins du moment.
+On adoptera ainsi les petits espaces intimes pour suivre une conférence téléphonique sans être dérangé, on privilégiera les petites zones confortables pour les meetings en petit comité, et ainsi de suite.
+L'intérêt des espaces de détente est aussi minimisé par les sociétés, alors qu'il s'agit là d'un lieu important, véritable exutoire pour le développeur qui aura passé une matinée entière à dénicher le bug dans son programme ! C'est aussi un lieu idéal pour souder les équipes, où chacun pourra mieux découvrir ses partenaires professionnels.
 
-Si cette configuration des lieux est souvent la signature de quelques géants du web ou de certaines startups, les grandes entreprises s'y mettent également, y voyant clairement un investissement incontournable et un atout séduction auprès de potentiels candidats à recruter. À titre d'exemple, Société Générale a ouvert en 2016 de nouveaux locaux à Val de Fontenay en respectant scrupuleusement ces consignes.
+Si cette configuration des lieux est souvent la signature des géants du web ou des startups, les grandes entreprises commencent elles-aussi à s'y mettre, y voyant clairement un investissement incontournable et un atout séduction auprès de potentiels candidats à recruter. À titre d'exemple, Société Générale a ouvert en 2016 ses nouveaux locaux à Val de Fontenay en respectant scrupuleusement cet état d'esprit.
 
-L'espace de travail est lui aussi trop souvent mal considéré. Il ne suffit plus d'une simple chaise et un coin de table pour travailler.
-Les développeurs pouvant passer près de dix heures par jour à leur poste, il devient dès lors primordial de s'assurer de leur confort, et par voie de conséquence, de leur santé !
-Nous pourrions citer comme amélioration le fameux bureau debout, qui offre la possibilité de travailler aussi bien assis que debout. Il va de soi qu'une véritable chaise bien confortable ira de pair avec ce bureau.
+L'espace de travail est lui aussi souvent mal considéré. Il ne suffit plus d'une simple chaise et un coin de table pour travailler.
+Les développeurs pouvant passer près de dix heures par jour à leur poste, il devient dès lors primordial de leur assurer un confort certain, et par voie de conséquence, de soigner leur santé !
+À cet égard, on pourra opter pour le « bureau debout », offrant la possibilité de travailler aussi bien assis que debout et ainsi de changer régulièrement de posture de travail. Il va de soi qu'une véritable chaise bien confortable va de pair avec ce bureau.
 
 Le télétravail est paradoxalement encore mal établi dans les grandes entreprises, alors que le métier du développement informatique s'y prête parfaitement !
-C'est pourtant là un critère de plus en plus important lorsqu'un(e) candidat(e) cherche un poste.
-Pour certaines personnes, l'absence — ou l'interdiction — du télétravail est même devenu un critère éliminatoire.
-Nous n'allons pas retracer ici les nombreux avantages que procure ce mode de travail, mais ces derniers sont encore plus mis en exergue pour les métiers du développement.
-Travailler chez soi permet en effet de disposer d'un plus grand calme, d'une meilleure concentration et donc d'augmenter la productivité.
+C'est pourtant là un critère de plus en plus important lorsqu'un candidat cherche un nouveau poste, au point où cela représente, pour certains d'entre eux, un critère éliminatoire en cas d'absence de télétravail.
+Nous n'allons pas retracer ici les nombreux avantages que procure ce mode de travail, mais ces derniers sont encore plus mis en exergue pour les métiers du développement : travailler chez soi offre un plus grand confort en partie grâce au calme, une meilleure concentration et donc une augmentation de la productivité.
 Bien entendu, cela nécessite de la part du télétravailleur une certaine rigueur organisationnelle.
-Il est primordial de pouvoir s'isoler, de créer un environnement spécifique pour le télétravail afin de limiter les perturbations extérieures, mais également pour marquer — physiquement et psychologiquement — une véritable frontière entre le professionnel et le personnel.
+Il est primordial d'être en mesure de s'isoler, de créer un environnement spécifique afin de limiter les perturbations extérieures, mais également pour marquer — physiquement et psychologiquement — une véritable frontière entre le milieu professionnel et celui personnel.
 
 Arrêtons-nous maintenant sur une pièce maîtresse et vitale du développeur : la machine.
-Elle est souvent source de crispation : trop lente, trop limitée, peu adaptée au développement, mal configurée... les critiques ne manquent pas !
+Elle est fréquemment source de nombreuses crispations : trop lente, trop limitée, peu adaptée au développement, mal configurée... les critiques ne manquent décidément pas !
 Hormis l'aspect de la sécurité qui est très chère aux grandes sociétés, c'est très souvent le prix qui sert d'excuse afin de s'opposer à un matériel de meilleure qualité.
-Pourtant un calcul simple permet de révéler la supercherie : si l'on considère un prestataire à 600€ par jour (soit un tarif courant sur la région parisienne), et si ce dernier perd une heure par jour à cause de son matériel peu performant, alors la perte induite peut avoisiner les 15,000€ par an !
+Pourtant un calcul très simple permet de montrer qu'il n'en est rien : si l'on considère qu'un prestataire est facturé 600€ par jour — ce qui correspond à un tarif tout à fait honnête sur la région parisienne, et si ce dernier vient à perdre une heure quotidiennement à cause de son matériel peu performant, alors la perte induite peut avoisiner les 15,000€ par an !
 Admettons-le, même une excellente machine n'atteindra jamais de tels tarifs.
 
 Cette même logique s'applique aux logiciels mis à disposition de ses développeurs.
+Il est de plus en plus contre productif d'imposer un logiciel unique à toutes ses équipes, on préfèrera opter pour une solution standard, tout en laissant le choix à chacun d'opter pour ses outils privilégiés.
+Après tout, un développeur qui maîtrise parfaitement un outil risquera d'être perdu, et donc moins productif, si on vient à lui en imposer un autre. 
+
 Joël Spolsky, célèbre entrepreneur et co-fondateur de Stack Exchange et Trello, écrivait en 2000 le très connu "Test de Joël" [1] permettant à un candidat d'évaluer le niveau de qualité et de maturité de l'équipe de développement qu'il pourrait rejoindre.
-Les règles 8 et 9 de ce test résument parfaitement ce que nous venons de dire au cours de ce chapitre :
+Les huitième et neuvième règles de ce test résument parfaitement ce que nous venons de dire au cours de ce chapitre :
 
 * Les programmeurs ont-ils un environnement de travail calme ?
 * Disposez-vous des meilleurs outils que vous puissiez vous payer ?
+
+Il ne faut donc pas faire l'économie d'un bon environnement de travail pour le développeur, ce dernier vous le rendra par une productivité et une motivation accrue !
 
 
 ## Organiser sa façon de travailler
