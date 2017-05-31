@@ -125,7 +125,7 @@ Cette équipe, idéalement co-localisée, s'inscrit également dans la durée, p
 **TODO Romain**
 
 
-## Le Software Craftsmanship FTW
+## Le Software Craftsmanship à la rescousse
 
 Un développeur veut pouvoir s'épanouir dans son travail et apprendre en permanence.
 Comment l'amener à cet épanouissement ? Comment lui permettre de s'améliorer continuellement et qu'il puisse prendre conscience qu'il devient meilleur chaque jour ?
@@ -184,7 +184,12 @@ Avec cette méthode, on communiquer clairement sur les technologies utilisées d
 
 ## Contribuer à l'open-source
 
-L'open-source est extrêmement répandu et apprécié par les développeurs.
+L'open-source est extrêmement répandue et apprécié par les développeurs.
+Bon nombre d'entre eux y participent d'ailleurs plus ou moins activement.
+
+Si les entreprises basent nombre de leurs projets sur des solutions open-source, le voyage inverse, qui consiste pour ces entreprises à contribuer en retour, est souvent moins populaire et plus délicat.
+Les principaux freins à cette contribution sont d'abord liés à des considération de sécurité (il y a toujours une certaine frilosité à sortir du code), mais aussi légale (savoir à qui revient la propriété intellectuelle de la contribution par exemple).
+
 
 **TODO Romain**
 
