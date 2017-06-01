@@ -147,37 +147,41 @@ Richard Branson, fameux entrepreneur et fondateur de Virgin, a parfaitement rés
 
 ## L'ouverture technologique
 
-Comment faire pour gérer des technologies utilisées dans l'entreprise d'une manière qui soit adaptée aux développeurs ?
+Réussir à gérer les technologies utilisées dans l'entreprise d'une manière qui soit adaptée aux développeurs n'est pas chose facile. Ces derniers sont réputés comme des collectionneurs de langages, de frameworks et de plateformes.
+Ils se lassent vite et ont souvent envie de tester les dernières évolutions à la mode.
 
-Les développeurs ont tendance à collectionner les langages, les frameworks et les plateformes. Ils se lassent vite et ont souvent envie de tester de nouvelles choses.
+Afin d'éviter un changement trop fréquent de technologies et pour limiter autant que faire se peut les dérives, des murs ont été érigés par nombre d'entreprises qui gravent dans le marbre ce qui est autorisé sur les projets et ce qui ne l'est pas.
+Les développeurs se trouvent alors en grande difficulté dès que se présente le besoin d'utiliser de nouvelles solutions, et ce problème de communication entraine généralement des frustrations, voire dans certains cas extrêmes des démissions de développeurs.
+De telles limitations ne sont pas souhaitables tant l'écosystème du développeur évolue à grande vitesse, car le risque de se retrouver rapidement des choix technologiques dépassés est important.
 
-Du coup, afin d'éviter de changer trop souvent de technologies et pour s'assurer d'aucune dérive, des murs sont érigés par l'entreprise afin de graver dans le marbre les technologies qui sont autorisées ou non sur les projets. Il est alors souvent difficile en tant que développeur de pouvoir en utiliser d'autres et ce problème de communication entraine des frustrations qui déclenche des guerres internes ou des démissions de développeurs. Pourtant l'écosystème du développeur évolue à grande vitesse et on peut rapidement se retrouver avec une stack technologique dépassée si on n'y prête pas attention.
+La question se pose alors de savoir comment allier flexibilité et contrôle des technologies utilisées.
 
-Alors comment allier flexibilité et contrôle des technologies utilisées ?
+Il existe un concept de radar technologique, rendu populaire par la société Thoughtworks[2] qui vient classer les technologies en quatre catégories que sont les langages de programmation, les outils, les plateformes et enfin les pratiques.
+Chacune de ces catégories est ensuite divisée en quatre anneaux qui représentent un certain niveau de fiabilité et d'intérêt.
+Cela commence au niveau de plus haute fiabilité, « *Adopt* », dénotant les techniques, outils, pratique et langages qui sont estimés comme pouvant être viables pour un déploiement en entreprise.
+Viennent ensuite les niveaux « *Trail* », « *Assess* » et enfin « *Hold* ».
 
-Il existe un concept de radar technologique rendu populaire par Thoughworks qui permet de classer les technologies en 4 catégories qui sont Programming Languages and Frameworks, Tools, Platforms et Techniques. Pour chaque catégories, l'étape d'évolution de la technologie est représentée par sa position dans un des 4 anneaux qui sont Adopt, Trial, Assess, Hold.
+Le concept derrière ce genre de radar peut être appliqué en fonction de la vision d'une entreprise et on peut alors publier la liste des technologies sous cette forme.
+Il s'agit-là d'un bon moyen de communiquer clairement sur la vision et l'usage des différentes technologies.
 
-Pour plus d'informations: https://www.thoughtworks.com/radar
+Bien entendu, ce radar a pour vocation d'évoluer, et pas simplement au bon vouloir de quelques décideurs.
+Lorsqu'un développeur souhaite utiliser une nouvelle technologie, il prend contact avec un représentant de la communauté dédiée (par exemple la communauté web si l'on parle du dernier framework front-end à la mode).
+Le but est ici de préparer une présentation de cette technologie face à un collège de personnes ayant des profils divers et complémentaires au sein de l'IT de la société : architectes, opérateurs, responsables de la sécurité, développeurs ou experts dans un domaine en lien avec le sujet en question.
 
-Ce concept de radar peut être appliqué en fonction de la vision d'une entreprise en particulier et on peut alors publier la liste des technologies sous cette forme. Cela permet de communiquer clairement la vision et l'usage des différentes technologies.
-
-Ensuite, si les développeurs souhaitent utiliser une nouvelle technologie alors un représentant de leur communauté peut la présenter à un collège de personnes ayant des profils divers et complémentaires au sein de l'IT: architecte, OPS, responsable sécurité, développeur ou un profil d'expert dans un domaine en lien avec le sujet.
-
-Après une présentation de la technologie, elle est passée au crible:
-Quelles sont ses forces et ses faiblesses ? Des risques ou des opportunités ?
+Le rôle de ce collectif est d'évaluer ce qui lui est présenté, en se posant les bonnes questions.
+Quelles sont ses forces et ses faiblesses ?
+Est-ce que cela présente avant tout des risques ou des opportunités ?
 Quelle est l'expérience de la communauté avec cette technologie ?
 Quels sont les coûts induits ?
-...
+Et ainsi de suite.
 
-En fonction des discussions, le collège défini des critères de validations pour utiliser cette technologie.
+Si la technologie passe cette étape, elle peut être validée pour une seconde phase qui va la mettre en conditions réelles, sur un projet pilote par exemple.
+Une fois ce dernier terminé — ou suffisamment avancé, un retour d'expérience est partagé avec ce même collège afin de dresser un bilan et de définir la prochaine évolution de cette technologie au sein du radar : soit elle est mise de côté car inadaptée ou présentant trop de risques, soit on la considère comme étant assez intéressante pour qu'elle puisse être utilisée sur d'autres projets.
 
-Ensuite, on peut la tester sur un projet pilote ou bien la refuser temporairement.
+Là encore, cette validation n'est pas figée dans le marbre.
+Elle sera remise en questions régulièrement, soit pour être déployée encore plus largement au sein de l'entreprise, soit pour commencer à la déprécier.
 
-Une fois ce projet pilote terminé, un retour d'expérience sera partagé avec ce même collège afin de dresser un bilan et de définir la prochaine évolution de cette technologie au sein du radar. Soit elle est mise de côté car inadaptée, soit on la considère comme étant assez intéressante pour l'utiliser sur d'autres projets.
-
-Plusieurs mois plus tard, après plusieurs usages de cette technologies, il pourra être opportun d'échanger à nouveau sur ce sujet afin de déployer globalement cette technologie dans l'entreprise... ou pas, en fonction des retours d'expérience encore une fois.
-
-Avec cette méthode, on communiquer clairement sur les technologies utilisées dans l'entreprise et on permet aux développeurs d'avoir une emprise sur ce radar en y contribuant.
+Cette méthode du radar technologique permet donc non seulement de communiquer aisément et clairement sur les technologies utilisées dans l'entreprise, mais elle offre également la possibilité aux développeurs d'avoir une emprise sur ce radar en y contribuant directement.
 
 ## Créer des communautés
 
@@ -199,7 +203,7 @@ La notion de partage est extrêmement forte dans le monde du développement info
 Il suffit de voir le nombre de conférences qui existent pour s'en convaincre : rien que sur Paris, ce sont des dizaines de conférences, de rencontres, de réunions ouvertes qui ont lieu chaque semaine.
 Les entreprises ont leurs rôles à jouer à ce niveau-là aussi.
 
-Le *Brown Bag Lunch* — ou plus simplement *BBL* — représente le moyen le plus accessible d'amener la connaissance au sein d'une société [2].
+Le *Brown Bag Lunch* — ou plus simplement *BBL* — représente le moyen le plus accessible d'amener la connaissance au sein d'une société [3].
 Le concept est très simple et peut se résumer ainsi : il s'agit d'une présentation technique réalisée à l’heure du déjeuner par un(e) expert(e) dans son domaine.
 Le terme de *brown bag* fait à ce propos référence au fameux sac en papier marron que l’on utilise pour transporter son déjeuner sur son lieu de travail.
 Pour l'hôte — et donc la société, les avantages sont multiples : cela représente une veille technologique très accessible, très variée tant les sujets proposés lors des BBL sont vastes, cela permet à ses collaborateurs de découvrir de nouveaux langages, outils ou méthodes de développement.
@@ -235,6 +239,7 @@ Devenir le sponsor d'une conférence offre de nombreux atouts aux entreprises. I
 
 
 [1] https://www.joelonsoftware.com/2000/08/09/the-joel-test-12-steps-to-better-code/ et https://fr.wikipedia.org/wiki/Test_de_Jo%C3%ABl
-[2] lire Programmez! #175 de juin 2014
+[2] https://www.thoughtworks.com/radar
+[3] lire Programmez! #175 de juin 2014
 
 Citation de Richard Branson: https://twitter.com/richardbranson/status/449220072176107520
