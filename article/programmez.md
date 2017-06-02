@@ -114,7 +114,9 @@ Il ne faut donc pas faire l'économie d'un bon environnement de travail pour le 
 ## Organiser sa façon de travailler
 
 On peut avoir une belle carrière face à soi, disposer d'un environnement de travail stimulant et d'une machine de compétition, il est nécessaire de savoir s'organiser au sein de son équipe pour travailler efficacement.
-Nous ne reviendrons pas en détail sur l'intérêt des méthodes agiles, elles ont fait leurs preuves depuis quelques années, et rare sont aujourd'hui les projets qui n'y font plus appel.
+Nous ne reviendrons pas en détail sur l'intérêt des méthodes agiles, elles ont fait leurs preuves depuis quelques années, et rares sont aujourd'hui les projets qui n'y font plus appel.
+Les équipes adaptent ces méthodologies à leur propre contexte, leurs propres besoins.
+
 
 **TODO**
 
@@ -123,6 +125,7 @@ Ce type d'organisation se caractèrise par une petite équipe — généralement
 Cette équipe, idéalement co-localisée, s'inscrit également dans la durée, permettant ainsi de mieux connaître ses équipiers et ainsi travailler avec une plus grande efficacité.
 
 **TODO Romain**
+
 
 
 ## Le Software Craftsmanship à la rescousse
@@ -188,14 +191,32 @@ Cette méthode du radar technologique permet donc non seulement de communiquer a
 
 ## Contribuer à l'open-source
 
-L'open-source est extrêmement répandue et apprécié par les développeurs.
-Bon nombre d'entre eux y participent d'ailleurs plus ou moins activement.
+L'open-source est un fondamental dans le développement logiciel.
+Les développeurs y sont particulièrement attachés, leur travail a toujours été grandement facilité par l'incroyable richesse des solutions open-source, certains d'entre eux y participent même très activement.
+Si les entreprises basent nombre de leurs projets sur des solutions issues de ces communautés, le voyage inverse, qui consiste pour ces entreprises à y contribuer en retour, est souvent moins fréquent.
+Pourquoi ? Les principaux freins à cette contribution sont d'abord liés à des considération de sécurité : il y a toujours une certaine frilosité à vouloir sortir du code, et il devient parfois nécessaire de mettre en place des mécanismes pour s'assurer qu'il n'y a aucune fuite de données critiques. Mais ce sont également des contraintes légales qui sont parfois opposées à ces contributions : à qui revient la propriété intellectuelle de la contribution ? Comment gérer le cas d'une équipe composée en partie de prestataire et donc d'une autre société ?
 
-Si les entreprises basent nombre de leurs projets sur des solutions open-source, le voyage inverse, qui consiste pour ces entreprises à contribuer en retour, est souvent moins populaire et plus délicat.
-Les principaux freins à cette contribution sont d'abord liés à des considération de sécurité (il y a toujours une certaine frilosité à sortir du code), mais aussi légale (savoir à qui revient la propriété intellectuelle de la contribution par exemple).
+Malgré ces obstacles, la participation d'une entreprise à l'open-source est très bénéfique.
+C'est tout d'abord un formidable vecteur d'apprentissage.
+En étudiant le code développé par d'autres personnes, on apprend de nouvelles approches, de nouvelles techniques.
+En montrant le code que l'on produit à d'autres, on apprend également par les contributions, les corrections et les commentaires qui sont faits à son endroit.
 
+C'est aussi un bon moyen de faire évoluer ses produits, grâce aux contributions externes.
+Si cet aspect revêt un caractère éminemment positif, cela peut également devenir chronophage : il faut prendre du temps pour analyser les *Pull Requests* (les contributions faites par des personnes extérieures à l'équipe), mais également pour en assurer le support.
+Fort heureusement, il existe un certain nombre de mécanismes automatisés pour faire un premier tri dans les contributions, comme des robots qui vont scanner le code pour s'assurer du bon respect des conventions de codage, de l'écriture des tests, et ainsi de suite.
 
-**TODO Romain**
+C'est enfin une piste de recrutement.
+Si une entreprise participe activement au développement d'une solution open-source, elle va nécessairement attirer l'attention des personnes ayant recours à cette solution, et potentiellement ces dernières pourraient être intéressées à rejoindre la compagnie.
+A l'inverse, une société peut détecter des contributeurs importants sur les solutions open-source stratégiques pour elle et tenter de les recruter. Bien entendu, dans pareilles circonstances, le candidat en question sera très vigilant sur la façon dont la société contribue à l'open-source.
+Vouloir recruter un contributeur à l'open-source puis lui refuser le droit de continuer ces contributions une fois au sein de l'entreprise n'aurait en effet aucun sens, et le recrutement sans doute voué à l'échec !
+
+S'il est compliqué dans un premier temps de contribuer à l'open-source, une alternative devrait toutefois être tentée, celle de l'*inner-source*.
+Il s'agit d'appliquer les pratiques et la notion du partage de l'open-source, mais au sein de l'entreprise, le code restant alors cloisonné au sein du système d'information de celle-ci.
+Différents outils peuvent être utilisés dans ce but : Github Entreprise, des repositories privés sur Github.com, GitLab, etc.
+L'important est de partager le code produit par son équipe au sein de toute l'entreprise.
+Même si le public touché est bien moindre qu'au travers de l'open-source, les bénéfices d'apprentissage cités précédemment restent valides.
+C'est également un excellent moyen d'éviter la redondance de développement, puisqu'on évitera ainsi plus facile de créer une fonctionnalité qui aura pu être développée précédemment par une autre équipe.
+
 
 ## Participer à des événements
 
