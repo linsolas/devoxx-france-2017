@@ -100,7 +100,7 @@ Admettons-le, même une excellente machine n'atteindra jamais de tels tarifs.
 
 Cette même logique s'applique aux logiciels mis à disposition de ses développeurs.
 Il est de plus en plus contre productif d'imposer un logiciel unique à toutes ses équipes, on préfèrera opter pour une solution standard, tout en laissant le choix à chacun d'opter pour ses outils privilégiés.
-Après tout, un développeur qui maîtrise parfaitement un outil risquera d'être perdu, et donc moins productif, si on vient à lui en imposer un autre. 
+Après tout, un développeur qui maîtrise parfaitement un outil risquera d'être perdu, et donc moins productif, si on vient à lui en imposer un autre.
 
 Joël Spolsky, célèbre entrepreneur et co-fondateur de Stack Exchange et Trello, écrivait en 2000 le très connu "Test de Joël" [1] permettant à un candidat d'évaluer le niveau de qualité et de maturité de l'équipe de développement qu'il pourrait rejoindre.
 Les huitième et neuvième règles de ce test résument parfaitement ce que nous venons de dire au cours de ce chapitre :
@@ -188,6 +188,17 @@ Cette méthode du radar technologique permet donc non seulement de communiquer a
 
 ## Créer des communautés
 
+Une fois qu'on a décloisonné l'entreprise et qu'on s'est réorganisé en feature teams autonomes, il reste encore un besoin primordial à combler chez le développeur: pouvoir se retrouver avec ses pairs pour trouver de l'aide, aider les autres et contribuer aux besoins communs de sa communauté. Un peu comme avec une famille sur laquelle on peut compter, les développeurs ont cette envie de se regrouper avec d'autres développeurs ayant les mêmes appétences ou le même rôle. Dans son équipe, un développeur est peut être le seul ayant un profil de dev web par exemple, alors vers qui peut il se tourner si il a besoin d'aide et que ses collègues ne peuvent pas l'aider? Comment peut on confronter ses idées à d'autres experts du même domaine ? Sur stackoverflow ?!
+
+Créer des communautés de pratiques dans l'entreprise va permettre d'améliorer la solidarité (entre feature teams) et va apporter de la cohérence dans le système d'information en augmentant l'intelligence collective dans le domaine de chaque communauté et en incitant à la réutilisation de composants communs. En contrepartie, cela impliquera une certaine organisation à mettre en place. On a rien, sans rien.
+
+Les exemples de communautés ne manques pas. Il est préférable de laisser les développeurs créer les communautés dont ils ont besoin. Par exemple, on peut créer des communautés technologiques comme Java, .NET, Front-end, Mobile, NodeJS ou encore des communautés de pratiques comme Crafts(wo)manship, API ou des communautés de rôles comme Tech Leaders, Scrum Masters. Toute initiative de création de communauté doit être encouragée, la seule chose qui compte étant qu'elle soit utile aux développeurs et qu'elle soit vivante !
+
+Pour mettre en places ces communautés, il faut leur donner un cadre, une vision, des valeurs et qu'elle s'inscrivent dans le plan d'évolution de l'entreprise pour y contribuer. Il faut identifier des volontaires et des leaders pour bootstrapper et animer les communautés. Et pour vivre ces communautés vont avoir besoin de temps et d'espace pour échanger, se retrouver, collaborer. Par exemple, les participants peuvent avoir quelques heures par mois pour simplement suivre une communauté, voir quelques heures par semaines pour pouvoir contribuer à des projets transverses et jusqu'à 1 journée par semaine pour l'animer. On ne peut pas demander aux participants de contribuer aux communautés sur leur temps libre, uniquement pendant la pause déjeuner, le soir ou les weekends.
+Des BOFs, des points de rencontres réguliers entre membres d'une même communauté pourront être organisés pour partager des présentations, débattre de sujets stratégiques, prendre des décisions, définir des bonnes pratiques ou tout autre tâches nécessaires à la vie du groupe.
+Pour être efficaces, il faut mettre à disposition des outils collaboratifs comme par exemple Github, Confluence, Slack ou Jira pour aider les communautés à co-construire, à partager, à s'organiser.
+
+ Par exemple, en ce moment chez AXA, la communauté NodeJS est en train de réaliser un kit de démarrage qui aidera les futures équipes en charge de créer de nouveaux projets avec cette stack technique. Ce kit permet d'avoir un exemple intégré dans le système d'information de l'entreprise, comprenant les bonnes pratiques de développement, le déploiement dans le cloud utilisé chez AXA, des composants transverses de log, de diagnostique, de monitoring, etc... A terme, cela va faciliter le déploiement de NodeJS et permettre d'augmenter le nombre de projets qui utilisent cette plateforme.
 
 ## Contribuer à l'open-source
 
