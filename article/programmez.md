@@ -184,7 +184,9 @@ Une fois ce dernier terminé — ou suffisamment avancé, un retour d'expérienc
 Là encore, cette validation n'est pas figée dans le marbre.
 Elle sera remise en questions régulièrement, soit pour être déployée encore plus largement au sein de l'entreprise, soit pour commencer à la déprécier.
 
-Cette méthode du radar technologique permet donc non seulement de communiquer aisément et clairement sur les technologies utilisées dans l'entreprise, mais elle offre également la possibilité aux développeurs d'avoir une emprise sur ce radar en y contribuant directement.
+Cette méthode du radar technologique permet donc non seulement de communiquer largement et clairement sur les technologies utilisées dans l'entreprise, mais elle offre également la possibilité aux développeurs d'avoir une emprise sur ce radar en y contribuant directement.
+
+Il existe d'autres principes pour s'ouvrir aux évolutions des technologies. Par exemples, il est possible de laisser libre chaque feature team de gérer les langages, plateformes, outils et pratiques utilisés tout en imposant un certain niveau de qualité à atteindre, des APIs d'échanges à respecter des règles de fonctionnement; comme s'intégrer pleinement dans le SI, publier une documentation, respecter certains SLA et niveau de support, etc. Ce principe de fonctionnement est en place chez certains géants du web. Les équipes y gagnent en autonomie et en flexibilité mais il faut s'assurer du bon respect des règles de vie en communauté pour que la cohérence du SI reste gérable dans le temps sans devenir un point noir qui phagocyte vos futurs évolutions fonctionnelles.
 
 ## Créer des communautés
 
