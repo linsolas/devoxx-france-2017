@@ -108,24 +108,7 @@ Les huitième et neuvième règles de ce test résument parfaitement ce que nous
 * Les programmeurs ont-ils un environnement de travail calme ?
 * Disposez-vous des meilleurs outils que vous puissiez vous payer ?
 
-Il ne faut donc pas faire l'économie d'un bon environnement de travail pour le développeur, ce dernier vous le rendra par une productivité et une motivation accrue !
-
-
-## Organiser sa façon de travailler
-
-On peut avoir une belle carrière face à soi, disposer d'un environnement de travail stimulant et d'une machine de compétition, il est nécessaire de savoir s'organiser au sein de son équipe pour travailler efficacement.
-Nous ne reviendrons pas en détail sur l'intérêt des méthodes agiles, elles ont fait leurs preuves depuis quelques années, et rares sont aujourd'hui les projets qui n'y font plus appel.
-Les équipes adaptent ces méthodologies à leur propre contexte, leurs propres besoins.
-
-
-**TODO**
-
-Les *feature teams* ont été démocratisées par **TODO**.
-Ce type d'organisation se caractèrise par une petite équipe — généralement autour de 6 à 8 personnes — aux spécialisations complémentaires dont le but est de prendre en charge le développement d'une fonctionnalité de bout en bout.
-Cette équipe, idéalement co-localisée, s'inscrit également dans la durée, permettant ainsi de mieux connaître ses équipiers et ainsi travailler avec une plus grande efficacité.
-
-**TODO Romain**
-
+Il ne faut donc pas faire l'économie d'un bon environnement de travail pour le développeur, ce dernier vous le rendra par une productivité et une motivation accrues !
 
 
 ## Le Software Craftsmanship à la rescousse
@@ -146,6 +129,19 @@ Il faut beaucoup de persévérance pour créer une culture d'entreprise qui soit
 Ce processus est long, mais à travers lui vous apprendrez beaucoup, la qualité de vos livrables s'améliorera et il sera alors difficile de revenir en arrière tant les bénéfices sont nombreux !
 
 Richard Branson, fameux entrepreneur et fondateur de Virgin, a parfaitement résumé la situation qui nous intéresse ici, sans pour autant se limiter au monde de l'informatique, en disant ceci : « formez vos collaborateurs afin qu'ils puissent partir, mais traitez les suffisament bien pour qu'ils n'aient pas envie de le faire ».
+
+## Travailler mieux
+
+L'objectif du *Software Craftsmanship* est de produire du code avec une qualité toujours accrue, et cela en partie parce que la responsabilité du développeur est de plus en plus souvent engagée.
+En effet, la mise en production peut se faire par les équipes mêmes qui ont développé le produit, ou à défaut en coordination directe avec eux.
+Sans cela, il ne faut pas espérer les responsabiliser. En cas de défaut, le développeur pourrait alors se décharger sur les opérateurs qui ont mis en production sa réalisation. Cette approche, mise en exergue par le mouvement *DevOps*, permet au contraire aux développeurs de voir les fonctionnalités dans leur ensemble, de l'idéation à la mise en production.
+En plus de donner plus de responsabilité aux développeurs, cela permet de donner plus de visibilité à leur travail, ce qui ne manquera pas de les rendre fiers de ce qui a pu être accompli pour en arriver là.
+
+Maintenant que les développeurs réalisent de belles applications qu'ils mettent en production, il reste un dernier point et non des moindres : savoir donner du sens à leur travail.
+Participer à une énième application de type *CRUD* ou une application sans intérêt risque de lasser les équipes qui y sont associées.
+A ce propos, créer une application qui ne sert à rien, ou qui n'est utile à personne est généralement reconnue comme étant la première cause d'échec des startups.
+N'oublions pas non plus l'un des grands attraits de cette profession, à savoir qu'il est possible de travailler dans des domaines extrêmement variés : du domaine bancaire au domaine scientifique, en passant par les voyages, les services, aucun milieu n'est épargné.
+Ainsi, ne pas intéresser le développeur au métier sous-jacent présente de nombreux risques, dont celui de la lassitude de ce dernier, qui n'hésitera pas à quitter votre société pour vivre des aventures passionnantes ailleurs.
 
 
 ## L'ouverture technologique
