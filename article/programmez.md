@@ -4,9 +4,13 @@
 
 ### Cyril Lakech
 
+![Cyril Lakech](cyril-lakech.png "Cyril Lakech")
+
 Cyril Lakech est développeur et leader technique chez AXA France où il a pour mission d’animer la communauté des développeurs notamment.
 
 ### Romain Linsolas
+
+![Romain Linsolas](romain-linsolas.png "Romain Linsolas")
 
 Romain Linsolas travaille chez Société Générale comme leader technique d’une équipe élaborant les outils de développement d’applications web pour toute la banque d’investissement, ainsi qu’animateur du programme de transformation numérique de la banque.
 
@@ -81,6 +85,12 @@ On adoptera ainsi les petits espaces intimes pour suivre une conférence télép
 L’intérêt des espaces de détente est aussi minimisé par les sociétés, alors qu’il s’agit là d’un lieu important, véritable exutoire pour le développeur qui aura passé une matinée entière à dénicher le bug dans son programme ! C’est aussi un lieu idéal pour souder les équipes, où chacun pourra mieux découvrir ses partenaires professionnels.
 
 Si cette configuration des lieux est souvent la signature des géants du web ou des startups, les grandes entreprises commencent elles-aussi à s’y mettre, y voyant clairement un investissement incontournable et un atout séduction auprès de potentiels candidats à recruter. À titre d’exemple, Société Générale a ouvert en 2016 ses nouveaux locaux à Val de Fontenay en respectant scrupuleusement cet état d’esprit.
+
+
+![Les Dunes, nouveaux locaux de Société Générale](les-dunes.jpg "Les Dunes, nouveaux locaux de Société Générale")
+
+*Les Dunes, nouveaux locaux de Société Générale*
+
 
 L’espace de travail est lui aussi souvent mal considéré. Il ne suffit plus d’une simple chaise et un coin de table pour travailler.
 Les développeurs pouvant passer près de dix heures par jour à leur poste, il devient dès lors primordial de leur assurer un confort certain, et par voie de conséquence, de soigner leur santé !
@@ -159,6 +169,12 @@ Il existe un concept de radar technologique, rendu populaire par la société Th
 Chacune de ces catégories est ensuite divisée en quatre anneaux qui représentent un certain niveau de fiabilité et d’intérêt.
 Cela commence au niveau de plus haute fiabilité, « *Adopt* », dénotant les techniques, outils, pratique et langages qui sont estimés comme pouvant être viables pour un déploiement en entreprise.
 Viennent ensuite les niveaux « *Trail* », « *Assess* » et enfin « *Hold* ».
+
+
+![La partie langages du radar de Thoughtworks](thoughtworks-radar.png "La partie langages du radar de Thoughtworks")
+
+*La partie langages du radar de Thoughtworks*
+
 
 Le concept derrière ce genre de radar peut être appliqué en fonction de la vision d’une entreprise et on peut alors publier la liste des technologies sous cette forme.
 Il représente également un bon moyen de communiquer clairement sur la vision et l’usage des différentes technologies.
@@ -264,6 +280,11 @@ Si les meetups sont gérés par une communauté dédiée, ce sont les entreprise
 Petites startups ou grosses entreprises, c’est un moyen simple de s’offrir de la visibilité auprès d’une communauté
 
 
+![Meetup Docker hébergé chez Société Générale](meetup-docker.png "Meetup Docker hébergé chez Société Générale")
+
+*Meetup Docker hébergé chez Société Générale*
+
+
 Les hackathons sont très en vogue auprès des entreprises.
 Ce sont chaque année des dizaines d’événements de ce type qui sont mis sur place à destination de développeurs, d’entrepreneurs ou d’innovateurs.
 Un hackathon est un concours de développement collaboratifs qui met en concurrence une dizaine d’équipes en moyenne pendant un, deux ou trois jours.
@@ -298,6 +319,8 @@ La mise en place de ces différents éléments ne résoudra sans doute pas tous 
 
 
 
-* [1] https://fr.wikipedia.org/wiki/Test_de_Joël
-* [2] https://www.thoughtworks.com/radar
-* [3] lire Programmez! #175 de juin 2014
+[1] https://www.joelonsoftware.com/2000/08/09/the-joel-test-12-steps-to-better-code/ et https://fr.wikipedia.org/wiki/Test_de_Jo%C3%ABl
+[2] https://www.thoughtworks.com/radar
+[3] lire Programmez! #175 de juin 2014
+
+Citation de Richard Branson: https://twitter.com/richardbranson/status/449220072176107520
