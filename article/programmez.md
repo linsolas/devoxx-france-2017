@@ -1,6 +1,6 @@
-# Article programmez!
+# Rendre les développeurs heureux en entreprise, c’est possible
 
-## Biographies
+## Les auteurs
 
 ### Cyril Lakech
 
@@ -283,11 +283,21 @@ Devenir le sponsor d’une conférence offre de nombreux atouts aux entreprises.
 
 ## Conclusion
 
+Nous avons pu voir au travers de cet article de nombreuses pistes pour améliorer le quotidien des développeurs, et ainsi les rendre plus heureux, et par voie de conséquence, plus productifs.
+Si toutes ces pistes ne sont pas applicables chez vous immédiatement, que ce soit par manque de temps, d’argent ou de volonté, il faut en retenir trois des aspects les plus importants.
+Tout d’abord, se rendre compte que de petites actions peuvent avoir de grandes conséquences.
+Offrir un environnement stimulant et productif — avec un matériel adapté au développement par exemple — permettra aux développeurs de se sentir en bonnes conditions pour réaliser leur travail, ce qui n’est pas à négliger.
+
+Ensuite, il est absolument indispensable de considérer le développeur en tant que tel.
+Il est loin le temps où ce métier était un tremplin vers le métier de maanger ou chef de projet.
+D’autres pistes existent, qui permettent aux personnes qui le souhaitent de rester proches de la techniques, tout en ayant une considération managériale en adéquation.
+
+Enfin, il est fortement conseillé d’offrir aux développeurs un milieu proche de celui qu’il peut connaître à l’extérieur de la société : participation à l’open-source, communautés regroupant des experts dans les mêmes domaines que lui, et ainsi de suite.
+
+La mise en place de ces différents éléments ne résoudra sans doute pas tous les problèmes, mais cela contribuera énormément au bien-être des développeurs, qui se sentiront bien plus attachés à leur entreprise.
 
 
 
-* [1] https://www.joelonsoftware.com/2000/08/09/the-joel-test-12-steps-to-better-code/ et https://fr.wikipedia.org/wiki/Test_de_Jo%C3%ABl
+* [1] https://fr.wikipedia.org/wiki/Test_de_Joël
 * [2] https://www.thoughtworks.com/radar
 * [3] lire Programmez! #175 de juin 2014
-
-Citation de Richard Branson: https://twitter.com/richardbranson/status/449220072176107520
