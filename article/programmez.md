@@ -272,10 +272,10 @@ Le concept est très simple et peut se résumer ainsi : on invite un(e) expert(e
 Le terme de *brown bag* fait à ce propos référence au fameux sac en papier marron que l’on utilise pour transporter son déjeuner sur son lieu de travail.
 Pour l’hôte — et donc la société, les avantages sont multiples : cela représente une veille technologique très accessible, très variée tant les sujets proposés lors des BBL sont vastes et cela permet à ses collaborateurs de découvrir de nouveaux langages, outils ou méthodes de développement.
 Pour l’expert(e), aussi appelé(e) *bagger*, c’est l’opportunité de se faire connaître, de rôder une présentation — utile en amont d’une conférence pour la répéter — ou encore d’exercer ses talents d’orateur, ce qui est souvent plus facile à faire en petit comité d’une dizaine de personnes que lors d’une conférence devant trois cents participants.
-Si vous êtes intéressés par ce type d’événements, il suffit de vous rendre sur le site recensant toutes les personnes disposées à présenter des sujets sur ce format de BBL, http://www.brownbaglunch.fr. Ce ne sont pas moins de 250 femmes et hommes sur tout le territoire français qui s'y sont déjà inscrits !
+Si vous êtes intéressés par ce type d’événements, il suffit de vous rendre sur le site recensant toutes les personnes disposées à présenter des sujets sur ce format de BBL, http://www.brownbaglunch.fr. Ce ne sont pas moins de 250 femmes et hommes sur tout le territoire français qui s’y sont déjà inscrits !
 
 Un autre moyen pour les entreprises d’avoir une part active au sein des communautés est l’hébergement de meetups.
-Un meetup, qui doit son nom au site Internet éponyme, est le rassemblement récurrent de passionnés autour d'un sujet.
+Un meetup, qui doit son nom au site Internet éponyme, est le rassemblement récurrent de passionnés autour d’un sujet.
 Si les meetups eux-mêmes sont gérés par des communautés dédiées, ce sont les entreprises qui les hébergent.
 Petites startups ou grosses entreprises, c’est un moyen simple de s’offrir de la visibilité auprès d’un ensemble de personnes ayant un attrait commun.
 Sur la place parisienne, il y a plus de cent meetups dédiés à la technologie qui rassemblent au moins mille inscrits chacun. De quoi largement trouver son bonheur !
@@ -293,11 +293,14 @@ Au terme du hackathon, les équipes présentent leurs réalisations à un jury, 
 
 Si les hackathons ont clairement un intérêt pour les entreprises, il est très important que ces dernières offrent une véritable compensation aux participants.
 Considérer les hackathons comme de la main d’œuvre pratiquement gratuite risque de créer l’effet inverse de celui escompté, et ainsi de mettre la société dans une situation délicate.
-Pour éviter ce fameux effet *bad buzz* il est préférable de prévoir de véritables récompenses pour les participants, l’idéal serait même d'être en mesure d'incuber une poignée de projets pour leur permettre de concrétiser les projets qu'ils auront ébauchés lors de l'événement.
+Pour éviter ce fameux effet *bad buzz* il est préférable de prévoir de véritables récompenses pour les participants, l’idéal serait même d’être en mesure d’incuber une poignée de projets pour leur permettre de concrétiser les projets qu’ils auront ébauchés lors de l’événement.
 
-Les conférences internes **TODO**
+Un autre type d’événement qui intéresse beaucoup les développeurs sont les conférences internes.
+L’entreprise organise un événement — généralement sur une journée — essentiellement à destination de ses collaborateurs.
+C’est l’occasion d’intégrer les nouveaux membres en leur imprégnant les valeurs de l’entreprise, de faire découvrir de nouvelles technologies, de lancer de nouvelles carrières d’orateurs... Bref, beaucoup de bonnes choses, mais qui ont cependant une complexité et un prix non négligeables.
 
-S'il n'est pas toujours facile de monter sa propre conférence interne, une autre approche bien plus accessible consiste à ponsoriser des événements, des conférences.
+
+S’il n’est pas toujours facile de monter sa propre conférence interne, une autre approche bien plus accessible consiste à ponsoriser des événements, des conférences.
 Le métier du développement informatique jouit en effet d’une chance rare qui est le grand nombre de conférences sur de nombreux thèmes.
 Devenir le sponsor d’une conférence offre de nombreux atouts aux entreprises. Il s’agit en premier lieu de s’offrir une bonne visibilité voire une amélioration de leur image de marque auprès des développeurs, facilitant ainsi leur recrutement. Cela permet également d’envoyer de nombreux collaborateurs à ces conférences, ce qu’ils apprécient très souvent !
 
