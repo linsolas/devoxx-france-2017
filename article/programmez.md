@@ -12,7 +12,7 @@ Cyril Lakech est développeur et leader technique chez AXA France où il a pour 
 
 ![Romain Linsolas](romain-linsolas.png "Romain Linsolas")
 
-Romain Linsolas travaille chez Société Générale comme leader technique d’une équipe élaborant les outils de développement d’applications web pour toute la banque d’investissement, ainsi qu’animateur du programme de transformation numérique de la banque.
+Romain Linsolas travaille chez Société Générale comme leader technique d’une équipe élaborant les outils de développement d’applications web pour toute la banque d’investissement.
 
 
 ## Introduction
@@ -23,8 +23,8 @@ De l’autre côté du miroir — des entreprises donc — il devient ainsi comp
 
 ## Investir dès le recrutement
 
-Le recrutement est la première image que l’entreprise donne au candidat, il est donc primordial que celle-ci soit bonne; sans quoi, ce dernier vous ignorera tout simplement et passera à autre chose.
-Il apparait qu’un mauvais recrutement est la deuxième cause d’échec d’un projet — la première étant l’inutilité d’un projet — alors autant prendre ce sujet avec le sérieux qu’il mérite.
+Le recrutement est la première image que l’entreprise donne au candidat, il est donc primordial que celle-ci soit bonne, sans quoi ce dernier vous ignorera tout simplement et passera à autre chose.
+Il apparait qu’un mauvais recrutement est la deuxième cause d’échec d’un projet — la première étant son inutilité — alors autant prendre ce sujet avec le sérieux qu’il mérite.
 La question se pose alors de savoir adapter le processus de recrutement aux besoins des développeurs. En voici quelques pistes.
 
 * Il faut partager la vision et les objectifs de l’entreprise à moyen et long termes afin que le candidat puisse être en mesure de comprendre le contexte de l’entreprise, ainsi que de voir se dessiner les grands enjeux à venir. Il est nécessaire de partager les valeurs premières de l’entreprise, celles auxquelles on doit se raccrocher quand on doute, celles qui portent l’état d’esprit des collaborateurs au quotidien. Il est vital que le candidat se retrouve dans ces valeurs et consente y adhérer.
@@ -32,20 +32,24 @@ La question se pose alors de savoir adapter le processus de recrutement aux beso
 * Le sujet du salaire doit être abordé de manière ouverte. Il existe un marché dont les statistiques sont publiées régulièrement. Le salaire proposé doit être en adéquation avec ce marché et avec la mission. Cela semble évident, pourtant le sujet est généralement évoqué tardivement, et souvent de façon peu directe.
 * Pour intéresser le développeur, rien de mieux que de parler du code, des pratiques mises en place, des outils, des langages et des technologies les plus répandus ou à l’étude. Il faut s’assurer que les souhaits de la personne sont en phase avec les pratiques de l’entreprise. Si l’entreprise pratique massivement les revues de code et les pratiques agiles, assurez-vous que les candidats acceptent ce genre de pratiques qui peuvent être déroutantes pour certaines personnes.
 * Les *soft skills* sont un autre point sur lequel il apparait important d’insister lors de l’entretien. Au-delà des compétences techniques, de bonnes qualités humaines sont tout simplement indispensables. Concrètement, un développeur passera peu de temps à écrire du code, il sera bien souvent occupé à échanger et à collaborer avec d’autres personnes. Il devient alors critique de s’assurer au cours des entretiens que le candidat dispose bien de ces aptitudes.
-* On pourra agrémenter le processus de recrutement avec un test technique ou du *pair programming* — développer avec l’assistance d’une personne déjà en place au sein de l’équipe — afin d’avoir une mesure du niveau de maitrise technique du candidat. Ces épreuves sont parfois redoutées par des personnes un peu anxieuses, mais sont généralement appréciées par les candidats, ravis d’être évalués par un pair sur des cas concrets.
+* On pourra agrémenter le processus de recrutement avec un test technique ou du *pair programming* — c’est-à-dire de développer avec l’assistance d’une personne déjà en place au sein de l’équipe — afin d’avoir une mesure du niveau de maitrise technique du candidat. Ces épreuves sont parfois redoutées par des personnes un peu anxieuses, mais sont généralement appréciées par les candidats, ravis d’être évalués par un pair sur des cas concrets.
 
-On le devine au vu de cette liste, il apparait important d’impliquer les développeurs directement dans le processus de recrutement, ceci afin de les engager et de les responsabiliser. Après tout, ce sont bien eux qui vont travailler avec les nouvelles recrues, alors autant s’assurer directement de leur compatibilité professionnelle. Rencontrer des développeurs durant ce processus est toujours bien perçu par les candidats, mais cela ne va pas sans inconvénients. Cela impose par exemple aux développeurs de l’équipe de développement de passer du temps à réaliser ces entretiens, à en faire un suivi, et ainsi de suite. On peut le voir comme du temps perdu — car non imputé sur le projet pour lequel il travaille — mais sur le long terme, l’entreprise est tout de même gagnante, un bon recrutement étant un véritable investissement sur l’avenir.
+On le devine au vu de cette liste, il apparait important d’impliquer les développeurs directement dans le processus de recrutement, ceci afin de les engager et de les responsabiliser. Après tout, ce sont bien eux qui vont travailler avec les nouvelles recrues, alors autant s’assurer directement de leur compatibilité professionnelle. Rencontrer des développeurs durant ce processus est toujours bien perçu par les candidats, mais cela ne va pas sans inconvénients. Cela impose par exemple aux développeurs de l’équipe de passer du temps à réaliser ces entretiens, à en faire un suivi, et ainsi de suite. On peut le voir comme du temps perdu — car non imputé sur le projet pour lequel il travaille — mais sur le long terme, l’entreprise est tout de même gagnante, un bon recrutement étant un véritable investissement sur l’avenir.
 
-On l’a évoqué, le marché est aujourd’hui très favorable aux développeurs, ces derniers sont de fait très sollicités par les entreprises en mal de talents. Si certaines d’entre elles vont jouer la carte de l’originalité pour sortir du lot, il faut faire attention à ne pas tomber dans les travers des offres farfelues, voire risibles, où l’on cherche des profils tout simplement impossibles. "Je recherche un ninja du digital en mode rock-star DevSecOps et évangéliste avec 10 d’expérience sur Kotlin pour un grand groupe international à l’esprit startup et à taille humaine". Non seulement ce genre d’offre ne trouvera jamais preneur, mais elle aura surtout le mérite d’irriter le potentiel candidat et de vous décrédibiliser complètement. A proscrire absolument !
+On l’a évoqué, le marché est aujourd’hui très favorable aux développeurs, ces derniers sont de fait très sollicités par les entreprises en mal de talents. Si certaines d’entre elles vont jouer la carte de l’originalité pour sortir du lot, il faut faire attention à ne pas tomber dans les travers des offres farfelues, voire risibles, où l’on cherche des profils tout simplement impossibles. « Je recherche un ninja du digital en mode rock-star DevSecOps et évangéliste avec 10 d’expérience sur Kotlin pour un grand groupe international à l’esprit startup et à taille humaine ». Non seulement ce genre d’offre ne trouvera jamais preneur, mais elle aura surtout le mérite d’irriter le potentiel candidat et de vous décrédibiliser complètement. À proscrire absolument !
 
 Une autre chose qu’il est préférable d’éviter consiste à faire coder un exercice ou un algorithme sur un tableau blanc en ayant la même rigueur qu’un compilateur. Non seulement cela ne mène à rien mais cela risque aussi de faire fuir votre candidat. Le tableau blanc reste une bonne idée s’il est utilisé pour démontrer la façon dont le candidat réfléchit et amène sa solution, éventuellement avec l’aide de pseudo-code.
 Si votre souhait est de voir le candidat à l’œuvre avec du véritable code, il faudra se tourner vers des solutions telles que Codingame, actuellement utilisée chez AXA France et Société Générale.
+
+![Codingame, une plateforme utile pour tester le niveau des candidats](codingame.png)
+
+*Codingame, une plateforme utile pour tester le niveau des candidats*
 
 Quand cela est possible, on peut proposer au candidat de s’immerger directement dans l’équipe pendant quelques heures, de l’impliquer dans une séance de revue de code ou de *pair programming*. Arriver à faire passer ses premiers tests unitaires au vert avec le candidat, c’est une excellente manière de démarrer une collaboration efficace.
 
 Une dernière chose, et non des moindres, il est important que les membres de l’équipe s’entendent bien avec le candidat sur un plan humain. Avoir dans son équipe une fameuse *rock star* du JavaScript, mais qui a un caractère invivable risque de poser plus de problèmes que de solution au sein de l’équipe. Proposer d’aller boire un verre peut être une manière informelle de s’en assurer, et cela aura aussi le mérite de mettre à l’aise le candidat.
 
-Pour en finir sur le recrutement, un point crucial à respecter est la transparence et la franchise sur la société et l’équipe qu’il viendrait à rejoindre. Si, après quelques semaines ou quelques mois passé avec vous, il s’aperçoit d’une quelconque supercherie, cela risque de le décevoir, de le démotiver. Il existe alors un risque important qu’il quitte le navire, ce qui nous ferait tomber dans le travers dont on évoquait au début du chapitre, à savoir qu’un mauvais recrutement est extrêmement coûteux pour l’entreprise.
+Pour en finir sur le recrutement, un point crucial à respecter est la transparence et la franchise sur la société et l’équipe qu’il viendrait à rejoindre. Si, après quelques semaines ou quelques mois passés avec vous, il s’aperçoit d’une quelconque supercherie, cela risque de le décevoir, de le démotiver. Il existe alors un risque important qu’il quitte le navire, ce qui nous ferait tomber dans le travers dont on évoquait au début du chapitre, à savoir qu’un mauvais recrutement est extrêmement coûteux pour l’entreprise.
 
 
 ## Proposer une carrière aux développeurs
@@ -67,7 +71,7 @@ L’une des manières les plus sûres pour obtenir l’attention des développeu
 Un autre aspect à ne pas négliger est la formation, l’apprentissage. Pour paraphraser Damien Cavaillès — co-fondateur de JeChercheUnDev.fr : « Développeurs, apprendre est notre métier ».
 Pour rester employable, un développeur doit apprendre sans cesse et suivre l’évolutions des technologies. Si l’on veut garder les développeurs et en attirer d’autres, il faut leur proposer une carrière où ils auront l’assurance d’être en mesure d’apprendre continuellement, de s’améliorer. Laisser assez de temps aux développeurs pour qu’ils puissent produire tout en apprenant devient alors un critère important à leurs yeux, sans quoi ils iront apprendre ailleurs, ou le feront en cachette sur le temps imputé aux projets sur lesquels ils travaillent. Dans de telles conditions, personne n’en sort gagnant !
 
-A bien y regarder, il n’y a que deux possibilités ici.
+À bien y regarder, il n’y a que deux possibilités.
 
 * Soit l’entreprise investit sur la formation des développeurs. Cela représente bien entendu un coût — certains diront plutôt un investissement, mais aura en contrepartie l’avantage de créer un cercle vertueux où l’entreprise, les développeurs ainsi que les clients et utilisateurs s’y retrouveront au vu de l’amélioration notable de la qualité des productions.
 * Soit l’entreprise n’investit pas dans la formation de ses développeurs. Ce choix stratégique va nécessairement impliquer à moyen terme une difficulté accrue à conserver les meilleurs éléments au sein des effectifs, et à rendre le recrutement encore plus difficile.
@@ -129,7 +133,7 @@ La réponse à ces questions tient en deux mots, le *Software Craftsmanship*, qu
 L’agilité semblait être la solution à tous les maux du développement logiciel, et s’il est vrai que cela a considérablement améliorer la situation, cela ne suffit plus.
 L’agilité est souvent utilisée pour améliorer l’efficacité des livraisons et le résultat est que l’on se retrouve à livrer plus vite des applications parfois non fonctionnelles, défectibles et difficiles à maintenir.
 Le *Software Craftsmanship* ne se définit pas comme un remplaçant de l’agilité, mais plutôt une extension à celle-ci, en rappelant que les logiciels doivent être bien conçus, et que chaque nouveau développement doit clairement apporter de la valeur au produit final.
-Il rappelle également que les développeurs font partie d’une communauté de professionnels qui savent s’entraider, et que la relation avec le métier n’est pas simplement basée sur le mode client - fournisseur mais doit plutôt s'appuyer sur un partenariat vertueux.
+Il rappelle également que les développeurs font partie d’une communauté de professionnels qui savent s’entraider, et que la relation avec le métier n’est pas simplement basée sur le mode client - fournisseur mais doit plutôt s’appuyer sur un partenariat vertueux.
 
 Le *Software Craftsmanship* porte en soi une valeur importante, celle de l’idée que l’on doit être fier du travail réalisé collectivement et de l’apprentissage permanent.
 Concrètement, de nombreuses pratiques peuvent être mises en œuvre, telles que le *TDD* (*Test Driven Development*), le *BDD* (*Behavior Driven Development*), la mise en application des préceptes du *clean code* (code propre) avec ses principes *DRY* (*Don’t Repeat Yourself*), *KISS* (*Keep It Simple, Stupid*) ou encore *SOLID* (acronyme représentant les cinq principes de bases de la programmation orientée objet).
@@ -229,7 +233,7 @@ Pour être efficace, il faut mettre à disposition des outils collaboratifs tels
 
 Un exemple concret : actuellement, la communauté NodeJS d’AXA est en cours de réalisation d’un kit de démarrage qui aidera les futures équipes en charge de créer de nouveaux projets avec ce type de technologie.
 Ce kit permet d’avoir une application blanche prête à être intégrée dans le système d’information de l’entreprise, comprenant les bonnes pratiques de développement, pré-configurée pour être déployée dans le cloud d’AXA, et comprenant des composants transverses de *log*, de diagnostic, de surveillance, et ainsi de suite.
-A terme, cela va faciliter le déploiement de NodeJS et permettre d’augmenter le nombre de projets qui utilisent cette plateforme.
+À terme, cela va faciliter le déploiement de NodeJS et permettre d’augmenter le nombre de projets qui utilisent cette plateforme.
 
 
 ## Contribuer à l’open-source
@@ -250,7 +254,7 @@ Fort heureusement, il existe un certain nombre de mécanismes automatisés pour 
 
 C’est enfin une piste de recrutement.
 Si une entreprise participe activement au développement d’une solution open-source, elle va nécessairement attirer l’attention des personnes ayant recours à cette solution, et potentiellement ces dernières pourraient être intéressées à rejoindre la compagnie.
-A l’inverse, une société peut détecter des contributeurs importants sur les solutions open-source stratégiques pour elle et tenter de les recruter. Bien entendu, dans pareilles circonstances, le candidat en question sera très vigilant sur la façon dont la société contribue à l’open-source.
+À l’inverse, une société peut détecter des contributeurs importants sur les solutions open-source stratégiques pour elle et tenter de les recruter. Bien entendu, dans pareilles circonstances, le candidat en question sera très vigilant sur la façon dont la société contribue à l’open-source.
 Vouloir recruter un contributeur à l’open-source puis lui refuser le droit de continuer ces contributions une fois au sein de l’entreprise n’aurait en effet aucun sens, et le recrutement sans doute voué à l’échec !
 
 S’il est compliqué dans un premier temps de contribuer à l’open-source, une alternative devrait toutefois être tentée, celle de l’*inner-source*.
