@@ -313,7 +313,7 @@ Tout d’abord, se rendre compte que de petites actions peuvent avoir de grandes
 Offrir un environnement stimulant et productif — avec un matériel adapté au développement par exemple — permettra aux développeurs de se sentir en bonnes conditions pour réaliser leur travail, ce qui n’est pas à négliger.
 
 Ensuite, il est absolument indispensable de considérer le développeur en tant que tel.
-Il est loin le temps où ce métier était un tremplin vers le métier de maanger ou chef de projet.
+Il est loin le temps où ce métier était un tremplin vers le métier de manager ou chef de projet.
 D’autres pistes existent, qui permettent aux personnes qui le souhaitent de rester proches de la techniques, tout en ayant une considération managériale en adéquation.
 
 Enfin, il est fortement conseillé d’offrir aux développeurs un milieu proche de celui qu’il peut connaître à l’extérieur de la société : participation à l’open-source, communautés regroupant des experts dans les mêmes domaines que lui, et ainsi de suite.
