@@ -17,19 +17,19 @@ Romain Linsolas travaille chez Société Générale comme leader technique d’u
 
 ## Introduction
 
-Reconnaissons-le, le développeur jouit d’une situation très enviable : il est courtisé de toutes parts et le nombre d’offres d’emploi le concernant peut faire rougir de nombreux autres secteurs d’activité.
-De l’autre côté du miroir — des entreprises donc — il devient ainsi compliqué de réussir à recruter les bonnes personnes, puis de les conserver au sein de leurs effectifs. Nous allons évoquer ici quelques pistes permettant à ces sociétés de proposer un environnement agréable aux développeurs.
+Reconnaissons-le, le développeur jouit d’une situation très enviable : il est courtisé de toutes parts. Le nombre d’offres d’emploi dans le monde du développement peut faire rougir de nombreux autres secteurs d’activité.
+De l’autre côté du miroir — des entreprises donc — il devient ainsi compliqué de réussir à recruter les bonnes personnes, puis de les conserver au sein de leurs effectifs. Nous allons évoquer ici quelques pistes permettant aux entreprises de proposer un environnement agréable aux développeurs.
 
 
 ## Investir dès le recrutement
 
-Le recrutement est la première image que l’entreprise donne au candidat, il est donc primordial que celle-ci soit bonne, sans quoi ce dernier vous ignorera tout simplement et passera à autre chose.
+Le recrutement est la première image que l’entreprise donne au candidat, il est donc primordial que celle-ci soit bonne; sans quoi, ce dernier vous ignorera tout simplement et passera à autre chose.
 Il apparait qu’un mauvais recrutement est la deuxième cause d’échec d’un projet — la première étant l’inutilité d’un projet — alors autant prendre ce sujet avec le sérieux qu’il mérite.
 La question se pose alors de savoir adapter le processus de recrutement aux besoins des développeurs. En voici quelques pistes.
 
 * Il faut partager la vision et les objectifs de l’entreprise à moyen et long termes afin que le candidat puisse être en mesure de comprendre le contexte de l’entreprise, ainsi que de voir se dessiner les grands enjeux à venir. Il est nécessaire de partager les valeurs premières de l’entreprise, celles auxquelles on doit se raccrocher quand on doute, celles qui portent l’état d’esprit des collaborateurs au quotidien. Il est vital que le candidat se retrouve dans ces valeurs et consente y adhérer.
 * Il faut décrire le cadre de travail et la façon dont s’organisent les équipes entre elles : quelle est l’ambiance de travail, quelles méthodes sont appliquées, quel est le fonctionnement classique des projets, et ainsi de suite. Le candidat doit être en capacité d’imaginer son travail au quotidien dans l’entreprise.
-* Le sujet du salaire doit être abordé de manière ouverte. Il existe un marché dont les statistiques sont publiées régulièrement. Le salaire proposé doit être en adéquation avec ce marché. Cela semble évident, pourtant le sujet est généralement évoqué tardivement, et souvent de façon peu directe.
+* Le sujet du salaire doit être abordé de manière ouverte. Il existe un marché dont les statistiques sont publiées régulièrement. Le salaire proposé doit être en adéquation avec ce marché et avec la mission. Cela semble évident, pourtant le sujet est généralement évoqué tardivement, et souvent de façon peu directe.
 * Pour intéresser le développeur, rien de mieux que de parler du code, des pratiques mises en place, des outils, des langages et des technologies les plus répandus ou à l’étude. Il faut s’assurer que les souhaits de la personne sont en phase avec les pratiques de l’entreprise. Si l’entreprise pratique massivement les revues de code et les pratiques agiles, assurez-vous que les candidats acceptent ce genre de pratiques qui peuvent être déroutantes pour certaines personnes.
 * Les *soft skills* sont un autre point sur lequel il apparait important d’insister lors de l’entretien. Au-delà des compétences techniques, de bonnes qualités humaines sont tout simplement indispensables. Concrètement, un développeur passera peu de temps à écrire du code, il sera bien souvent occupé à échanger et à collaborer avec d’autres personnes. Il devient alors critique de s’assurer au cours des entretiens que le candidat dispose bien de ces aptitudes.
 * On pourra agrémenter le processus de recrutement avec un test technique ou du *pair programming* — développer avec l’assistance d’une personne déjà en place au sein de l’équipe — afin d’avoir une mesure du niveau de maitrise technique du candidat. Ces épreuves sont parfois redoutées par des personnes un peu anxieuses, mais sont généralement appréciées par les candidats, ravis d’être évalués par un pair sur des cas concrets.
@@ -39,7 +39,7 @@ On le devine au vu de cette liste, il apparait important d’impliquer les déve
 On l’a évoqué, le marché est aujourd’hui très favorable aux développeurs, ces derniers sont de fait très sollicités par les entreprises en mal de talents. Si certaines d’entre elles vont jouer la carte de l’originalité pour sortir du lot, il faut faire attention à ne pas tomber dans les travers des offres farfelues, voire risibles, où l’on cherche des profils tout simplement impossibles. "Je recherche un ninja du digital en mode rock-star DevSecOps et évangéliste avec 10 d’expérience sur Kotlin pour un grand groupe international à l’esprit startup et à taille humaine". Non seulement ce genre d’offre ne trouvera jamais preneur, mais elle aura surtout le mérite d’irriter le potentiel candidat et de vous décrédibiliser complètement. A proscrire absolument !
 
 Une autre chose qu’il est préférable d’éviter consiste à faire coder un exercice ou un algorithme sur un tableau blanc en ayant la même rigueur qu’un compilateur. Non seulement cela ne mène à rien mais cela risque aussi de faire fuir votre candidat. Le tableau blanc reste une bonne idée s’il est utilisé pour démontrer la façon dont le candidat réfléchit et amène sa solution, éventuellement avec l’aide de pseudo-code.
-Si votre souhait est de voir le candidat à l’œuvre avec du véritable code, il faudra se tourner vers des solutions telles que Codingame, actuellement utilisée chez AXA et Société Générale.
+Si votre souhait est de voir le candidat à l’œuvre avec du véritable code, il faudra se tourner vers des solutions telles que Codingame, actuellement utilisée chez AXA France et Société Générale.
 
 Quand cela est possible, on peut proposer au candidat de s’immerger directement dans l’équipe pendant quelques heures, de l’impliquer dans une séance de revue de code ou de *pair programming*. Arriver à faire passer ses premiers tests unitaires au vert avec le candidat, c’est une excellente manière de démarrer une collaboration efficace.
 
@@ -129,7 +129,7 @@ La réponse à ces questions tient en deux mots, le *Software Craftsmanship*, qu
 L’agilité semblait être la solution à tous les maux du développement logiciel, et s’il est vrai que cela a considérablement améliorer la situation, cela ne suffit plus.
 L’agilité est souvent utilisée pour améliorer l’efficacité des livraisons et le résultat est que l’on se retrouve à livrer plus vite des applications parfois non fonctionnelles, défectibles et difficiles à maintenir.
 Le *Software Craftsmanship* ne se définit pas comme un remplaçant de l’agilité, mais plutôt une extension à celle-ci, en rappelant que les logiciels doivent être bien conçus, et que chaque nouveau développement doit clairement apporter de la valeur au produit final.
-Il rappelle également que les développeurs font partie d’une communauté de professionnels qui savent s’entraider, et que la relation avec le métier n’est pas simplement basée sur le mode client - fournisseur mais doit plutôt représenter un partenariat vertueux.
+Il rappelle également que les développeurs font partie d’une communauté de professionnels qui savent s’entraider, et que la relation avec le métier n’est pas simplement basée sur le mode client - fournisseur mais doit plutôt s'appuyer sur un partenariat vertueux.
 
 Le *Software Craftsmanship* porte en soi une valeur importante, celle de l’idée que l’on doit être fier du travail réalisé collectivement et de l’apprentissage permanent.
 Concrètement, de nombreuses pratiques peuvent être mises en œuvre, telles que le *TDD* (*Test Driven Development*), le *BDD* (*Behavior Driven Development*), la mise en application des préceptes du *clean code* (code propre) avec ses principes *DRY* (*Don’t Repeat Yourself*), *KISS* (*Keep It Simple, Stupid*) ou encore *SOLID* (acronyme représentant les cinq principes de bases de la programmation orientée objet).
@@ -145,12 +145,12 @@ Richard Branson, fameux entrepreneur et fondateur de Virgin, a parfaitement rés
 L’objectif du *Software Craftsmanship* est de produire du code avec une qualité toujours accrue, et cela en partie parce que la responsabilité du développeur est de plus en plus souvent engagée.
 Aujourd’hui, la mise en production se fait souvent par les équipes mêmes qui ont développé le produit, ou à défaut en coordination directe avec eux.
 Sans cela, il ne faut pas espérer les responsabiliser ; en cas de défaut, le développeur pourrait alors se décharger sur les opérateurs qui ont mis en production sa réalisation. Cette approche, mise en exergue par le mouvement *DevOps*, permet ainsi aux développeurs de voir les fonctionnalités dans leur ensemble, de l’idéation à l’utilisation du produit par les utilisateurs finaux.
-Cette approche permet de de donner plus de responsabilité aux développeurs, mais également plus de visibilité à leur travail, ce qui ne manquera pas de les rendre fiers de ce qui a pu être accompli pour en arriver là.
+Cette approche permet de donner plus de responsabilité aux développeurs, mais également plus de visibilité à leur travail, ce qui ne manquera pas de les rendre fiers de ce qui a pu être accompli pour en arriver là.
 
 Maintenant que les développeurs réalisent de belles applications qu’ils mettent eux-mêmes en production, il reste un dernier point et non des moindres : savoir donner du sens à leur travail.
 Participer à une énième application de type *CRUD* ou une application sans intérêt risque de lasser les équipes qui y sont associées.
 Il est important de noter à ce propos que la première cause d’échec des startups est justement de créer une application qui ne sert à rien, ou qui n’est utile à personne !
-N’oublions pas non plus l’un des grands attraits de cette profession, à savoir qu’il est possible de travailler dans des domaines extrêmement variés : du domaine bancaire au domaine scientifique, en passant par les voyages, les services, aucun milieu n’est épargné.
+N’oublions pas non plus l’un des grands attraits de cette profession, à savoir qu’il est possible et aisé de travailler dans des domaines extrêmement variés : du domaine bancaire au domaine scientifique, en passant par les voyages, les services, aucun milieu n’est épargné.
 Ainsi, ne pas réussir à intéresser le développeur au métier sous-jacent c’est prendre le risque de voir ce dernier quitter votre société par lassitude ou fatigue, afin d’aller vivre des aventures passionnantes ailleurs.
 
 
@@ -161,9 +161,9 @@ Ils se lassent vite et ont souvent envie de tester les dernières évolutions à
 
 Afin d’éviter un changement trop fréquent de technologies et pour limiter autant que faire se peut les dérives, des murs ont été érigés par nombre d’entreprises qui gravent dans le marbre ce qui est autorisé sur les projets et ce qui ne l’est pas.
 Les développeurs se trouvent alors en grande difficulté dès que se présente le besoin d’utiliser de nouvelles solutions, et ce problème de communication entraine généralement des frustrations, voire dans certains cas extrêmes des démissions de développeurs.
-De telles limitations ne sont pas souhaitables tant l’écosystème du développeur évolue à grande vitesse, car le risque de se retrouver rapidement des choix technologiques dépassés est important.
+De telles limitations ne sont pas souhaitables tant l’écosystème du développeur évolue à grande vitesse, car le risque de se retrouver rapidement avec des choix technologiques dépassés est important.
 
-La question se pose alors de savoir comment allier flexibilité et contrôle des technologies utilisées.
+La question se pose alors de savoir comment allier flexibilité et maîtrise des technologies utilisées.
 
 Il existe un concept de radar technologique, rendu populaire par la société Thoughtworks[2] qui vient classer les technologies en quatre catégories que sont les langages de programmation, les outils, les plateformes et enfin les pratiques.
 Chacune de ces catégories est ensuite divisée en quatre anneaux qui représentent un certain niveau de fiabilité et d’intérêt.
