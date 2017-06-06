@@ -140,18 +140,18 @@ Ce processus est long, mais à travers lui vous apprendrez beaucoup, la qualité
 
 Richard Branson, fameux entrepreneur et fondateur de Virgin, a parfaitement résumé la situation qui nous intéresse ici, sans pour autant se limiter au monde de l’informatique, en disant ceci : « formez vos collaborateurs afin qu’ils puissent partir, mais traitez-les suffisamment bien pour qu’ils n’aient pas envie de le faire ».
 
-## Travailler mieux
+## Travailler mieux, mais pour quoi ?
 
 L’objectif du *Software Craftsmanship* est de produire du code avec une qualité toujours accrue, et cela en partie parce que la responsabilité du développeur est de plus en plus souvent engagée.
-En effet, la mise en production peut se faire par les équipes mêmes qui ont développé le produit, ou à défaut en coordination directe avec eux.
-Sans cela, il ne faut pas espérer les responsabiliser. En cas de défaut, le développeur pourrait alors se décharger sur les opérateurs qui ont mis en production sa réalisation. Cette approche, mise en exergue par le mouvement *DevOps*, permet au contraire aux développeurs de voir les fonctionnalités dans leur ensemble, de l’idéation à la mise en production.
-En plus de donner plus de responsabilité aux développeurs, cela permet de donner plus de visibilité à leur travail, ce qui ne manquera pas de les rendre fiers de ce qui a pu être accompli pour en arriver là.
+Aujourd’hui, la mise en production se fait souvent par les équipes mêmes qui ont développé le produit, ou à défaut en coordination directe avec eux.
+Sans cela, il ne faut pas espérer les responsabiliser ; en cas de défaut, le développeur pourrait alors se décharger sur les opérateurs qui ont mis en production sa réalisation. Cette approche, mise en exergue par le mouvement *DevOps*, permet ainsi aux développeurs de voir les fonctionnalités dans leur ensemble, de l’idéation à l’utilisation du produit par les utilisateurs finaux.
+Cette approche permet de de donner plus de responsabilité aux développeurs, mais également plus de visibilité à leur travail, ce qui ne manquera pas de les rendre fiers de ce qui a pu être accompli pour en arriver là.
 
-Maintenant que les développeurs réalisent de belles applications qu’ils mettent en production, il reste un dernier point et non des moindres : savoir donner du sens à leur travail.
+Maintenant que les développeurs réalisent de belles applications qu’ils mettent eux-mêmes en production, il reste un dernier point et non des moindres : savoir donner du sens à leur travail.
 Participer à une énième application de type *CRUD* ou une application sans intérêt risque de lasser les équipes qui y sont associées.
-A ce propos, créer une application qui ne sert à rien, ou qui n’est utile à personne est généralement reconnue comme étant la première cause d’échec des startups.
+Il est important de noter à ce propos que la première cause d’échec des startups est justement de créer une application qui ne sert à rien, ou qui n’est utile à personne !
 N’oublions pas non plus l’un des grands attraits de cette profession, à savoir qu’il est possible de travailler dans des domaines extrêmement variés : du domaine bancaire au domaine scientifique, en passant par les voyages, les services, aucun milieu n’est épargné.
-Ainsi, ne pas intéresser le développeur au métier sous-jacent présente de nombreux risques, dont celui de la lassitude de ce dernier, qui n’hésitera pas à quitter votre société pour vivre des aventures passionnantes ailleurs.
+Ainsi, ne pas réussir à intéresser le développeur au métier sous-jacent c’est prendre le risque de voir ce dernier quitter votre société par lassitude ou fatigue, afin d’aller vivre des aventures passionnantes ailleurs.
 
 
 ## L’ouverture technologique
@@ -264,21 +264,21 @@ C’est également un excellent moyen d’éviter la redondance de développemen
 ## Participer à des événements
 
 La notion de partage est extrêmement forte dans le monde du développement informatique.
-Il suffit de voir le nombre de conférences qui existent pour s’en convaincre : rien que sur Paris, ce sont des dizaines de conférences, de rencontres, de réunions ouvertes qui ont lieu chaque semaine.
-Les entreprises ont leurs rôles à jouer à ce niveau-là aussi.
+Il suffit de voir le nombre de conférences qui existent pour s’en convaincre : rien que sur la région parisienne, ce sont des dizaines de conférences, de rencontres, de réunions ouvertes qui ont lieu chaque semaine.
+Les entreprises ont leurs rôles à jouer à ce niveau-là aussi, aussi bien pour leur profit que pour celui de leurs collaborateurs.
 
-Le *Brown Bag Lunch* — ou plus simplement *BBL* — représente le moyen le plus accessible d’amener la connaissance au sein d’une société [3].
-Le concept est très simple et peut se résumer ainsi : il s’agit d’une présentation technique réalisée à l’heure du déjeuner par un(e) expert(e) dans son domaine.
+Le *Brown Bag Lunch* — ou plus simplement *BBL* — représente sans aucun doute le moyen le plus accessible d’apporter la connaissance au sein d’une société [3].
+Le concept est très simple et peut se résumer ainsi : on invite un(e) expert(e) le temps du déjeuner pour venir réaliser une présentation technique dans son domaine.
 Le terme de *brown bag* fait à ce propos référence au fameux sac en papier marron que l’on utilise pour transporter son déjeuner sur son lieu de travail.
-Pour l’hôte — et donc la société, les avantages sont multiples : cela représente une veille technologique très accessible, très variée tant les sujets proposés lors des BBL sont vastes, cela permet à ses collaborateurs de découvrir de nouveaux langages, outils ou méthodes de développement.
-Pour l’expert(e), aussi appelé(e) *bagger*, c’est l’opportunité de se faire connaître, de rôder une présentation — utile en amont d’une conférence pour la répéter — ou encore exercer ces talents d’orateur, ce qui est souvent plus facile à faire en petit comité d’une dizaine de personnes que lors d’une conférence devant trois cent participants.
-Si vous êtes intéressés par ce type d’événements, il suffit de vous rendre sur le site recensant toutes les personnes disposées à présenter des sujets sur ce format de BBL, http://www.brownbaglunch.fr/ Ce sont ainsi plus de 250 femmes et hommes présentes sur tout le territoire français !
+Pour l’hôte — et donc la société, les avantages sont multiples : cela représente une veille technologique très accessible, très variée tant les sujets proposés lors des BBL sont vastes et cela permet à ses collaborateurs de découvrir de nouveaux langages, outils ou méthodes de développement.
+Pour l’expert(e), aussi appelé(e) *bagger*, c’est l’opportunité de se faire connaître, de rôder une présentation — utile en amont d’une conférence pour la répéter — ou encore d’exercer ses talents d’orateur, ce qui est souvent plus facile à faire en petit comité d’une dizaine de personnes que lors d’une conférence devant trois cents participants.
+Si vous êtes intéressés par ce type d’événements, il suffit de vous rendre sur le site recensant toutes les personnes disposées à présenter des sujets sur ce format de BBL, http://www.brownbaglunch.fr. Ce ne sont pas moins de 250 femmes et hommes sur tout le territoire français qui s'y sont déjà inscrits !
 
 Un autre moyen pour les entreprises d’avoir une part active au sein des communautés est l’hébergement de meetups.
-Les meetups, qui doivent leurs noms au site Internet éponyme, est le rassemblement récurrent de passionnés
-Si les meetups sont gérés par une communauté dédiée, ce sont les entreprises qui les hébergent.
-Petites startups ou grosses entreprises, c’est un moyen simple de s’offrir de la visibilité auprès d’une communauté
-
+Un meetup, qui doit son nom au site Internet éponyme, est le rassemblement récurrent de passionnés autour d'un sujet.
+Si les meetups eux-mêmes sont gérés par des communautés dédiées, ce sont les entreprises qui les hébergent.
+Petites startups ou grosses entreprises, c’est un moyen simple de s’offrir de la visibilité auprès d’un ensemble de personnes ayant un attrait commun.
+Sur la place parisienne, il y a plus de cent meetups dédiés à la technologie qui rassemblent au moins mille inscrits chacun. De quoi largement trouver son bonheur !
 
 ![Meetup Docker hébergé chez Société Générale](meetup-docker.png "Meetup Docker hébergé chez Société Générale")
 
@@ -286,19 +286,19 @@ Petites startups ou grosses entreprises, c’est un moyen simple de s’offrir d
 
 
 Les hackathons sont très en vogue auprès des entreprises.
-Ce sont chaque année des dizaines d’événements de ce type qui sont mis sur place à destination de développeurs, d’entrepreneurs ou d’innovateurs.
-Un hackathon est un concours de développement collaboratifs qui met en concurrence une dizaine d’équipes en moyenne pendant un, deux ou trois jours.
-Les entreprises qui mettent en place ce type d’événements donnent généralement un thème, ou certaines contraintes aux candidats, par exemple le fait d’utiliser les APIs fournies par la société.
+Ce sont chaque année des dizaines d’événements de ce type qui sont mis sur pied à destination de développeurs, d’entrepreneurs ou d’innovateurs.
+Un hackathon est un concours de développement collaboratif qui met en concurrence une dizaine d’équipes en moyenne pendant un, deux ou trois jours.
+Les entreprises qui mettent en place ce type d’événements donnent généralement un thème, ou certaines contraintes aux candidats, par exemple le fait d’utiliser les APIs publiques de la société.
 Au terme du hackathon, les équipes présentent leurs réalisations à un jury, qui finit par élire les projets gagnants.
 
 Si les hackathons ont clairement un intérêt pour les entreprises, il est très important que ces dernières offrent une véritable compensation aux participants.
 Considérer les hackathons comme de la main d’œuvre pratiquement gratuite risque de créer l’effet inverse de celui escompté, et ainsi de mettre la société dans une situation délicate.
-Pour éviter ce fameux effet *bad buzz* il est ainsi préférable de prévoir de véritables récompenses pour les participants, l’idéal serait même de pouvoir incuber une poignée de projets pour leur permettre de développer concrètement leurs idées.
+Pour éviter ce fameux effet *bad buzz* il est préférable de prévoir de véritables récompenses pour les participants, l’idéal serait même d'être en mesure d'incuber une poignée de projets pour leur permettre de concrétiser les projets qu'ils auront ébauchés lors de l'événement.
 
-Les conférences internes
+Les conférences internes **TODO**
 
-Une dernière solution
-Le métier du développement informatique jouit d’une chance rare, c’est le nombre très important de conférences présentes, sur de nombreux thèmes.
+S'il n'est pas toujours facile de monter sa propre conférence interne, une autre approche bien plus accessible consiste à ponsoriser des événements, des conférences.
+Le métier du développement informatique jouit en effet d’une chance rare qui est le grand nombre de conférences sur de nombreux thèmes.
 Devenir le sponsor d’une conférence offre de nombreux atouts aux entreprises. Il s’agit en premier lieu de s’offrir une bonne visibilité voire une amélioration de leur image de marque auprès des développeurs, facilitant ainsi leur recrutement. Cela permet également d’envoyer de nombreux collaborateurs à ces conférences, ce qu’ils apprécient très souvent !
 
 
