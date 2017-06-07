@@ -142,7 +142,7 @@ Un développeur veut pouvoir s’épanouir dans son travail et apprendre en perm
 Comment l’amener à cet épanouissement ? Comment lui permettre de s’améliorer continuellement et qu’il puisse prendre conscience qu’il devient meilleur chaque jour ?
 La réponse à ces questions tient en deux mots, le *Software Craftsmanship*, qui pourrait se traduire par le développement artisanal.
 
-L’agilité semblait être la solution à tous les maux du développement logiciel, et s’il est vrai que cela a considérablement améliorer la situation, cela ne suffit plus.
+L’agilité semblait être la solution à tous les maux du développement logiciel, et s’il est vrai que cela a considérablement amélioré la situation, cela ne suffit plus.
 L’agilité est souvent utilisée pour améliorer l’efficacité des livraisons et le résultat est que l’on se retrouve à livrer plus vite des applications parfois non fonctionnelles, défectibles et difficiles à maintenir.
 Le *Software Craftsmanship* ne se définit pas comme un remplaçant de l’agilité, mais plutôt comme une extension à celle-ci, en rappelant que les logiciels doivent être bien conçus, et que chaque nouveau développement doit clairement apporter de la valeur au produit final.
 Il rappelle également que les développeurs font partie d’une communauté de professionnels qui savent s’entraider, et que la relation avec le métier n’est pas simplement basée sur le mode client - fournisseur mais doit plutôt s’appuyer sur un partenariat vertueux.
@@ -226,13 +226,13 @@ Les équipes y gagnent en autonomie et en flexibilité mais il faut s’assurer 
 
 Une fois que l’on a décloisonné l’entreprise, il reste encore un besoin primordial à combler chez le développeur : pouvoir dialoguer avec ses pairs pour trouver de l’aide, aider les autres et contribuer aux besoins communs de sa communauté.
 Un peu à l’image d’une famille sur laquelle on peut compter, les développeurs ont généralement cette envie de se regrouper avec d’autres développeurs ayant les mêmes appétences ou le même rôle qu’eux.
-Il arrive que dans son équipe, un développeur soit le seul ayant un profil de développeur web par exemple. Vers qui pourra-t’il se tourner s’il a besoin d’aide et que ses collègues ne sont pas en mesure de l’aider ? Comment peut-on confronter ses idées à d’autres experts du même domaine ? StackOverflow est-il la seule voie ?
+Il arrive que dans son équipe, un développeur soit le seul ayant un profil de développeur web par exemple. Vers qui pourrait-il se tourner s’il a besoin d’aide et que ses collègues ne sont pas en mesure de l’aider ? Comment peut-on confronter ses idées à d’autres experts du même domaine ? StackOverflow est-il la seule voie ?
 
 Créer des communautés de pratiques dans l’entreprise améliore la solidarité entre équipes et apporte de la cohérence dans le système d’information en augmentant l’intelligence collective dans le domaine de chaque communauté et en incitant à la réutilisation de composants communs.
 En contrepartie, cela implique une certaine organisation à mettre en place.
 
 Les exemples de communautés ne manquent pas, et il est préférable de laisser les développeurs créer les communautés dont ils ont besoin.
-Ainsi, on pourra en créer autour des technologies comme Java, .NET, le développement *front-end*, le dévelopement mobile, NodeJS ou encore autour des pratiques comme *Crafts(wo)manship*, API ou enfin autour des rôles tels que leaders techniques, Scrum Masters, etc.
+Ainsi, on pourra en créer autour des technologies comme Java, .NET, le développement *front-end*, le développement mobile, NodeJS ou encore autour des pratiques comme *Crafts(wo)manship*, API ou enfin autour des rôles tels que leaders techniques, Scrum Masters, etc.
 Toute initiative de création de communauté doit être encouragée, la seule chose qui importe étant qu’elle soit utile aux développeurs et qu’elle soit vivante !
 
 La mise en place de ces communautés nécessite un cadre, une vision et des valeurs pour qu’elles s’inscrivent dans le plan d’évolution de l’entreprise afin d’y contribuer pleinement.
@@ -253,7 +253,7 @@ Ce kit consiste en une application blanche prête à être intégrée dans le sy
 L’open-source est un fondamental dans le développement logiciel.
 Les développeurs y sont particulièrement attachés, leur travail a toujours été grandement facilité par l’incroyable richesse des solutions open-source, certains d’entre eux y participent même très activement.
 Si les entreprises basent nombre de leurs projets sur des solutions issues de cette communauté, le voyage inverse, qui consiste pour ces entreprises à y contribuer en retour, est souvent moins fréquent.
-Pourquoi ? Les principaux freins à cette contribution sont d’abord liés à des considération de sécurité : il y a toujours une certaine frilosité à vouloir sortir du code, et il devient parfois nécessaire de mettre en place des mécanismes pour s’assurer qu’il n’y a aucune fuite de données critiques.
+Pourquoi ? Les principaux freins à cette contribution sont d’abord liés à des considérations de sécurité : il y a toujours une certaine frilosité à vouloir sortir du code, et il devient parfois nécessaire de mettre en place des mécanismes pour s’assurer qu’il n’y a aucune fuite de données critiques.
 Mais ce sont également des contraintes légales qui sont parfois opposées à ces contributions : à qui revient la propriété intellectuelle de la contribution ? Comment gérer le cas d’une équipe composée en partie de prestataires appartenant donc à une autre société ?
 
 Malgré ces obstacles, la participation d’une entreprise à l’open-source est très bénéfique.
@@ -272,7 +272,7 @@ Vouloir recruter un contributeur à l’open-source puis lui refuser le droit de
 
 S’il est compliqué dans un premier temps de contribuer à l’open-source, une alternative devrait toutefois être tentée, celle de l’*inner-source*.
 Il s’agit d’appliquer les pratiques et la notion du partage de l’open-source, mais au sein de l’entreprise, le code restant alors cloisonné au sein du système d’information de celle-ci.
-Différents outils peuvent être utilisés dans ce but : Github Entreprise, des repositories privés sur Github.com, GitLab, etc.
+Différents outils peuvent être utilisés dans ce but : Github Entreprise, des dépôts privés sur Github.com, GitLab, etc.
 L’important est de partager le code produit par son équipe au sein de toute l’entreprise.
 Même si le public touché est bien moindre qu’au travers de l’open-source, les bénéfices d’apprentissage cités précédemment restent valides.
 C’est également un excellent moyen d’éviter la redondance de développement, puisqu’on évitera ainsi plus facilement de créer une fonctionnalité qui aura pu être développée précédemment par une autre équipe.
