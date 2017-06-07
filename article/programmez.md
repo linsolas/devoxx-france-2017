@@ -52,19 +52,25 @@ Une dernière chose, et non des moindres, il est important que les membres de l�
 Pour en finir sur le recrutement, un point crucial à respecter est la transparence et la franchise sur la société et l’équipe qu’il viendrait à rejoindre. Si, après quelques semaines ou quelques mois passés avec vous, il s’aperçoit d’une quelconque supercherie, cela risque de le décevoir, de le démotiver. Il existe alors un risque important qu’il quitte le navire, ce qui nous ferait tomber dans le travers dont on évoquait au début du chapitre, à savoir qu’un mauvais recrutement est extrêmement coûteux pour l’entreprise.
 
 
-## Proposer une carrière aux développeurs
+## Proposer un vrai plan de carrière
 
-Il arrive que les développeurs s’ennuient et finissent par venir travailler simplement pour remplir le frigo. Ce n’est souhaitable ni pour eux ni pour l’entreprise. Il convient de leur offrir la possibilité de construire leur avenir afin de pouvoir les fidéliser au sein de la société. Nombreux sont les développeurs qui se sentent désengagés, déresponsabilisés dans leur travail, alors qu’ils pourraient être épanouis dans leur carrière — ce qui aurait également l’avantage non négligeable d’améliorer leur productivité.
+Il arrive que les développeurs s’ennuient et finissent par venir travailler simplement pour remplir le frigo.
+Ce n’est souhaitable ni pour eux ni pour l’entreprise.
+Il convient de leur offrir la possibilité de construire leur avenir afin de les fidéliser au sein de la société.
+Nombreux sont les développeurs qui se sentent désengagés, déresponsabilisés dans leur travail, alors qu’ils pourraient être épanouis dans leur carrière — ce qui aurait également l’avantage non négligeable d’améliorer leur productivité.
 
-Ainsi, pour fidéliser le développeur dans l’entreprise, il faut lui proposer une expérience durable dans laquelle il va pouvoir évoluer dans le temps. Il est fini le temps où le métier de développeur était considéré comme une passerelle avant le métier de manager ou chef de projets. Aujourd’hui, de multiples alternatives existent.
+Pour fidéliser le développeur dans l’entreprise, il faut lui proposer une expérience durable dans laquelle il va pouvoir évoluer dans le temps.
+Il n’est plus question de considérer le métier de développeur comme une passerelle avant le métier de manager ou chef de projets.
+Aujourd’hui, de multiples alternatives existent.
 
-* Faire évoluer sur son niveau d’expertise technique, avec ses multiples paliers tels que novice, junior, sénior et enfin expert.
+* Faire évoluer son niveau d’expertise technique, avec ses multiples paliers tels que novice, junior, sénior et enfin expert.
 * Profiter de sa capacité d’influence et de leadership, par exemple pour occuper des postes d’évangélistes.
 * Parfaire sa maîtrise des technologies complémentaires, telles que le développement web, *back-end* (avec Java, .Net, etc.), mobile, etc.
 * Développer sa maîtrise des domaines métiers de l’entreprise.
 * S’orienter vers des rôles d’architectes techniques ou fonctionnels.
 
-Toutes ces évolutions du profil de développeur peuvent être clairement identifiées et valorisées dans l’entreprise, ce qui permet aux développeurs d’avoir une vision long terme de leur carrière. Cela sera également utile pour l’entreprise afin de voir dans quels domaines et technologies il y a une carence ou une abondance de compétences parmi ses effectifs.
+Toutes ces évolutions du profil de développeur peuvent être clairement identifiées et valorisées dans l’entreprise, ce qui donne aux développeurs une vision long terme de leur carrière.
+Cela est également utile pour l’entreprise afin de voir dans quels domaines et technologies il y a une carence ou une abondance de compétences au sein de ses effectifs.
 
 L’une des manières les plus sûres pour obtenir l’attention des développeurs est de leur proposer de vivre des expériences extraordinaires. Il faut que leur quotidien soit varié, en alternant des projets stratégiques avec des projets innovants, ponctués parfois des projets plus classiques. Varier les plaisirs et casser la routine permettra aux développeurs de se sentir valorisés, et ainsi de les motiver davantage.
 
@@ -76,7 +82,10 @@ Pour rester employable, un développeur doit apprendre sans cesse et suivre l’
 * Soit l’entreprise investit sur la formation des développeurs. Cela représente bien entendu un coût — certains diront plutôt un investissement, mais aura en contrepartie l’avantage de créer un cercle vertueux où l’entreprise, les développeurs ainsi que les clients et utilisateurs s’y retrouveront au vu de l’amélioration notable de la qualité des productions.
 * Soit l’entreprise n’investit pas dans la formation de ses développeurs. Ce choix stratégique va nécessairement impliquer à moyen terme une difficulté accrue à conserver les meilleurs éléments au sein des effectifs, et à rendre le recrutement encore plus difficile.
 
-De leur côté, les développeurs doivent apprendre à apprendre, ce qui n’est pas aussi facile qu’il n’y parait. Une manière intéressante et efficace de le faire est d’apprendre à enseigner. Partager sa passion est souvent une caractéristique reconnue d’un bon développeur, mais cela a aussi de nombreux autres atouts. Hubert Sablonnière (@hsablonniere), un développeur web et orateur apprécié disait que de « donner des cours et des présentations a changé ma vie professionnelle. C’est un terrain d’auto-apprentissage inépuisable qui stimule les connaissances et savoir-faire liés à la technique mais aussi aux relations humaines. »
+De leur côté, les développeurs doivent apprendre à apprendre, ce qui n’est pas aussi facile qu’il n’y parait.
+Une manière intéressante et efficace de le faire est d’apprendre à enseigner.
+Partager sa passion est souvent une caractéristique reconnue d’un bon développeur, mais cela a aussi de nombreux autres atouts.
+Hubert Sablonnière (@hsablonniere sur Twitter), un développeur web et orateur apprécié, disait que de « donner des cours et des présentations a changé ma vie professionnelle. C’est un terrain d’auto-apprentissage inépuisable qui stimule les connaissances et savoir-faire liés à la technique mais aussi aux relations humaines. »
 Quand les développeurs émettent ce souhait, il est primordial de les encourager à donner des cours, des présentations, des *Brown Bag Lunches*, tout en valorisant ce travail.
 
 
@@ -326,8 +335,6 @@ La mise en place de ces différents éléments ne résoudra sans doute pas tous 
 
 
 
-[1] https://www.joelonsoftware.com/2000/08/09/the-joel-test-12-steps-to-better-code/ et https://fr.wikipedia.org/wiki/Test_de_Jo%C3%ABl
-[2] https://www.thoughtworks.com/radar
-[3] lire Programmez! #175 de juin 2014
-
-Citation de Richard Branson: https://twitter.com/richardbranson/status/449220072176107520
+* [1] https://fr.wikipedia.org/wiki/Test_de_Joël
+* [2] https://www.thoughtworks.com/radar
+* [3] lire Programmez! #175 de juin 2014
