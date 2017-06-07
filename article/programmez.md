@@ -224,27 +224,27 @@ Les équipes y gagnent en autonomie et en flexibilité mais il faut s’assurer 
 
 ## Créer des communautés
 
-Une fois que l’on a décloisonné l’entreprise, il reste encore un besoin primordial à combler chez le développeur : pouvoir se dialoguer avec ses pairs pour trouver de l’aide, aider les autres et contribuer aux besoins communs de sa communauté.
+Une fois que l’on a décloisonné l’entreprise, il reste encore un besoin primordial à combler chez le développeur : pouvoir dialoguer avec ses pairs pour trouver de l’aide, aider les autres et contribuer aux besoins communs de sa communauté.
 Un peu à l’image d’une famille sur laquelle on peut compter, les développeurs ont généralement cette envie de se regrouper avec d’autres développeurs ayant les mêmes appétences ou le même rôle qu’eux.
 Il arrive que dans son équipe, un développeur soit le seul ayant un profil de développeur web par exemple. Vers qui pourra-t’il se tourner s’il a besoin d’aide et que ses collègues ne sont pas en mesure de l’aider ? Comment peut-on confronter ses idées à d’autres experts du même domaine ? StackOverflow est-il la seule voie ?
 
-Créer des communautés de pratiques dans l’entreprise va permettre d’améliorer la solidarité entre équipes et va apporter de la cohérence dans le système d’information en augmentant l’intelligence collective dans le domaine de chaque communauté et en incitant à la réutilisation de composants communs.
+Créer des communautés de pratiques dans l’entreprise améliore la solidarité entre équipes et apporte de la cohérence dans le système d’information en augmentant l’intelligence collective dans le domaine de chaque communauté et en incitant à la réutilisation de composants communs.
 En contrepartie, cela implique une certaine organisation à mettre en place.
 
 Les exemples de communautés ne manquent pas, et il est préférable de laisser les développeurs créer les communautés dont ils ont besoin.
-Ainsi, on pourra créer des communautés technologiques comme Java, .NET, le développement *front-end*, dévelopement mobile, NodeJS ou encore des communautés de pratiques comme *Crafts(wo)manship*, API ou enfin des communautés de rôles comme leaders techniques, Scrum Masters, etc.
+Ainsi, on pourra en créer autour des technologies comme Java, .NET, le développement *front-end*, le dévelopement mobile, NodeJS ou encore autour des pratiques comme *Crafts(wo)manship*, API ou enfin autour des rôles tels que leaders techniques, Scrum Masters, etc.
 Toute initiative de création de communauté doit être encouragée, la seule chose qui importe étant qu’elle soit utile aux développeurs et qu’elle soit vivante !
 
 La mise en place de ces communautés nécessite un cadre, une vision et des valeurs pour qu’elles s’inscrivent dans le plan d’évolution de l’entreprise afin d’y contribuer pleinement.
 Il faut en premier lieu identifier des volontaires et des leaders pour démarrer et animer les communautés.
-Pour vivre ces communautés vont avoir besoin de temps et d’espace pour échanger, se retrouver, collaborer.
+Pour faire vivre ces dernières, ils vont avoir besoin de temps et d’espace pour échanger, se retrouver, collaborer.
 Dans ce but, les participants pourront disposer de quelques heures par mois pour suivre une communauté, voire davantage afin d’y contribuer activement.
-Il est vain de demander aux participants de contribuer à ces communautés sur leur temps libre, uniquement pendant la pause déjeuner, le soir ou les week-ends.
+Il serait vain de leur demander d’y contribuer sur leur temps libre, uniquement pendant la pause déjeuner, le soir ou les week-ends.
 Des « BOF » (« *Bird of a Feather* »), des points de rencontres réguliers entre membres d’une même communauté pourront être organisés pour partager des présentations, débattre de sujets stratégiques, prendre des décisions, définir des bonnes pratiques ou toute autre tâche nécessaire à la vie du groupe.
-Pour être efficace, il faut mettre à disposition des outils collaboratifs tels que Github, Confluence, Slack ou encore JIRA pour aider les communautés à construire, à partager et à s’organiser.
+Dans un but d'efficacité, on pourra leur mettre à disposition des outils collaboratifs tels que Github, Confluence, Slack ou encore JIRA pour aider les communautés à construire, à partager et à s’organiser.
 
-Un exemple concret : actuellement, la communauté NodeJS d’AXA est en cours de réalisation d’un kit de démarrage qui aidera les futures équipes en charge de créer de nouveaux projets avec ce type de technologie.
-Ce kit permet d’avoir une application blanche prête à être intégrée dans le système d’information de l’entreprise, comprenant les bonnes pratiques de développement, pré-configurée pour être déployée dans le cloud d’AXA, et comprenant des composants transverses de *log*, de diagnostic, de surveillance, et ainsi de suite.
+Un exemple concret : actuellement, la communauté NodeJS d’AXA réalise un kit de démarrage qui aidera les équipes en charge de créer de nouveaux projets avec ce type de technologie.
+Ce kit consiste en une application blanche prête à être intégrée dans le système d’information de l’entreprise, comprenant les bonnes pratiques de développement, pré-configurée pour être déployée dans le cloud d’AXA et comprenant des composants transverses de *log*, de diagnostic, de surveillance, et ainsi de suite.
 À terme, cela va faciliter le déploiement de NodeJS et permettre d’augmenter le nombre de projets qui utilisent cette plateforme.
 
 
