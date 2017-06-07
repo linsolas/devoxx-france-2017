@@ -60,7 +60,7 @@ Il convient de leur offrir la possibilité de construire leur avenir afin de les
 Nombreux sont les développeurs qui se sentent désengagés, déresponsabilisés dans leur travail, alors qu’ils pourraient être épanouis dans leur carrière — ce qui aurait également l’avantage non négligeable d’améliorer leur productivité.
 
 Pour fidéliser le développeur dans l’entreprise, il faut lui proposer une expérience durable dans laquelle il va pouvoir évoluer dans le temps.
-Il n’est plus question de considérer le métier de développeur comme une passerelle avant le métier de manager ou chef de projets.
+Il n’est plus question de considérer le métier de développeur comme une passerelle avant le métier de manager ou chef de projet.
 Aujourd’hui, de multiples alternatives existent.
 
 * Faire évoluer son niveau d’expertise technique, avec ses multiples paliers tels que novice, junior, sénior et enfin expert.
@@ -241,7 +241,7 @@ Pour faire vivre ces dernières, ils vont avoir besoin de temps et d’espace po
 Dans ce but, les participants pourront disposer de quelques heures par mois pour suivre une communauté, voire davantage afin d’y contribuer activement.
 Il serait vain de leur demander d’y contribuer sur leur temps libre, uniquement pendant la pause déjeuner, le soir ou les week-ends.
 Des « BOF » (« *Bird of a Feather* »), des points de rencontres réguliers entre membres d’une même communauté pourront être organisés pour partager des présentations, débattre de sujets stratégiques, prendre des décisions, définir des bonnes pratiques ou toute autre tâche nécessaire à la vie du groupe.
-Dans un but d'efficacité, on pourra leur mettre à disposition des outils collaboratifs tels que Github, Confluence, Slack ou encore JIRA pour aider les communautés à construire, à partager et à s’organiser.
+Dans un but d’efficacité, on pourra leur mettre à disposition des outils collaboratifs tels que Github, Confluence, Slack ou encore JIRA pour aider les communautés à construire, à partager et à s’organiser.
 
 Un exemple concret : actuellement, la communauté NodeJS d’AXA réalise un kit de démarrage qui aidera les équipes en charge de créer de nouveaux projets avec ce type de technologie.
 Ce kit consiste en une application blanche prête à être intégrée dans le système d’information de l’entreprise, comprenant les bonnes pratiques de développement, pré-configurée pour être déployée dans le cloud d’AXA et comprenant des composants transverses de *log*, de diagnostic, de surveillance, et ainsi de suite.
@@ -252,42 +252,43 @@ Ce kit consiste en une application blanche prête à être intégrée dans le sy
 
 L’open-source est un fondamental dans le développement logiciel.
 Les développeurs y sont particulièrement attachés, leur travail a toujours été grandement facilité par l’incroyable richesse des solutions open-source, certains d’entre eux y participent même très activement.
-Si les entreprises basent nombre de leurs projets sur des solutions issues de ces communautés, le voyage inverse, qui consiste pour ces entreprises à y contribuer en retour, est souvent moins fréquent.
-Pourquoi ? Les principaux freins à cette contribution sont d’abord liés à des considération de sécurité : il y a toujours une certaine frilosité à vouloir sortir du code, et il devient parfois nécessaire de mettre en place des mécanismes pour s’assurer qu’il n’y a aucune fuite de données critiques. Mais ce sont également des contraintes légales qui sont parfois opposées à ces contributions : à qui revient la propriété intellectuelle de la contribution ? Comment gérer le cas d’une équipe composée en partie de prestataire et donc d’une autre société ?
+Si les entreprises basent nombre de leurs projets sur des solutions issues de cette communauté, le voyage inverse, qui consiste pour ces entreprises à y contribuer en retour, est souvent moins fréquent.
+Pourquoi ? Les principaux freins à cette contribution sont d’abord liés à des considération de sécurité : il y a toujours une certaine frilosité à vouloir sortir du code, et il devient parfois nécessaire de mettre en place des mécanismes pour s’assurer qu’il n’y a aucune fuite de données critiques.
+Mais ce sont également des contraintes légales qui sont parfois opposées à ces contributions : à qui revient la propriété intellectuelle de la contribution ? Comment gérer le cas d’une équipe composée en partie de prestataires appartenant donc à une autre société ?
 
 Malgré ces obstacles, la participation d’une entreprise à l’open-source est très bénéfique.
-C’est tout d’abord un formidable vecteur d’apprentissage.
+C’est avant tout un formidable vecteur d’apprentissage.
 En étudiant le code développé par d’autres personnes, on apprend de nouvelles approches, de nouvelles techniques.
-En montrant le code que l’on produit à d’autres, on apprend également par les contributions, les corrections et les commentaires qui sont faits à son endroit.
+En montrant le code que l’on produit à d’autres, on apprend également par les retours, les corrections et les commentaires qui sont faits à son endroit.
 
-C’est aussi un bon moyen de faire évoluer ses produits, grâce aux contributions externes.
-Si cet aspect revêt un caractère éminemment positif, cela peut également devenir chronophage : il faut prendre du temps pour analyser les *Pull Requests* (les contributions faites par des personnes extérieures à l’équipe), mais également pour en assurer le support.
-Fort heureusement, il existe un certain nombre de mécanismes automatisés pour faire un premier tri dans les contributions, comme des robots qui vont scanner le code pour s’assurer du bon respect des conventions de codage, de l’écriture des tests, et ainsi de suite.
+C’est aussi un bon moyen de faire évoluer ses produits grâce aux contributions externes.
+Si cet aspect revêt un caractère éminemment positif, cela peut s’avérer chronophage : il faut prendre du temps pour analyser les *Pull Requests* (les contributions faites par des personnes extérieures à l’équipe), mais également pour en assurer le support.
+Fort heureusement, il existe de nombreux mécanismes automatisés pour faire un premier tri parmi ces contributions, comme ces robots dédiés à scanner le code afin de s’assurer du bon respect des conventions de codage, de l’écriture des tests, et ainsi de suite.
 
-C’est enfin une piste de recrutement.
-Si une entreprise participe activement au développement d’une solution open-source, elle va nécessairement attirer l’attention des personnes ayant recours à cette solution, et potentiellement ces dernières pourraient être intéressées à rejoindre la compagnie.
+C’est enfin une piste de recrutement à ne pas négliger.
+Si une entreprise participe activement au développement d’une solution open-source, elle va nécessairement attirer l’attention des personnes ayant recours à cette solution, et potentiellement les intéresser à rejoindre la compagnie.
 À l’inverse, une société peut détecter des contributeurs importants sur les solutions open-source stratégiques pour elle et tenter de les recruter. Bien entendu, dans pareilles circonstances, le candidat en question sera très vigilant sur la façon dont la société contribue à l’open-source.
-Vouloir recruter un contributeur à l’open-source puis lui refuser le droit de continuer ces contributions une fois au sein de l’entreprise n’aurait en effet aucun sens, et le recrutement sans doute voué à l’échec !
+Vouloir recruter un contributeur à l’open-source puis lui refuser le droit de continuer ses activités une fois au sein de l’entreprise n’aurait en effet aucun sens, et le recrutement évidemment voué à l’échec !
 
 S’il est compliqué dans un premier temps de contribuer à l’open-source, une alternative devrait toutefois être tentée, celle de l’*inner-source*.
 Il s’agit d’appliquer les pratiques et la notion du partage de l’open-source, mais au sein de l’entreprise, le code restant alors cloisonné au sein du système d’information de celle-ci.
 Différents outils peuvent être utilisés dans ce but : Github Entreprise, des repositories privés sur Github.com, GitLab, etc.
 L’important est de partager le code produit par son équipe au sein de toute l’entreprise.
 Même si le public touché est bien moindre qu’au travers de l’open-source, les bénéfices d’apprentissage cités précédemment restent valides.
-C’est également un excellent moyen d’éviter la redondance de développement, puisqu’on évitera ainsi plus facile de créer une fonctionnalité qui aura pu être développée précédemment par une autre équipe.
+C’est également un excellent moyen d’éviter la redondance de développement, puisqu’on évitera ainsi plus facilement de créer une fonctionnalité qui aura pu être développée précédemment par une autre équipe.
 
 
 ## Participer à des événements
 
 La notion de partage est extrêmement forte dans le monde du développement informatique.
 Il suffit de voir le nombre de conférences qui existent pour s’en convaincre : rien que sur la région parisienne, ce sont des dizaines de conférences, de rencontres, de réunions ouvertes qui ont lieu chaque semaine.
-Les entreprises ont leurs rôles à jouer à ce niveau-là aussi, aussi bien pour leur profit que pour celui de leurs collaborateurs.
+Les entreprises ont leur rôle à jouer à ce niveau-là, aussi bien pour leur profit que pour celui de leurs collaborateurs.
 
-Le *Brown Bag Lunch* — ou plus simplement *BBL* — représente sans aucun doute le moyen le plus accessible d’apporter la connaissance au sein d’une société [3].
+Le *Brown Bag Lunch* — ou plus simplement *BBL* — représente le moyen le plus accessible d’apporter la connaissance au sein d’une société [3].
 Le concept est très simple et peut se résumer ainsi : on invite un(e) expert(e) le temps du déjeuner pour venir réaliser une présentation technique dans son domaine.
 Le terme de *brown bag* fait à ce propos référence au fameux sac en papier marron que l’on utilise pour transporter son déjeuner sur son lieu de travail.
 Pour l’hôte — et donc la société, les avantages sont multiples : cela représente une veille technologique très accessible, très variée tant les sujets proposés lors des BBL sont vastes et cela permet à ses collaborateurs de découvrir de nouveaux langages, outils ou méthodes de développement.
-Pour l’expert(e), aussi appelé(e) *bagger*, c’est l’opportunité de se faire connaître, de rôder une présentation — utile en amont d’une conférence pour la répéter — ou encore d’exercer ses talents d’orateur, ce qui est souvent plus facile à faire en petit comité d’une dizaine de personnes que lors d’une conférence devant trois cents participants.
+Pour l’expert(e), aussi appelé(e) *bagger*, c’est l’opportunité de se faire connaître, de rôder une présentation — utile pour la répéter en amont d’une conférence  — ou encore d’exercer ses talents d’orateur, ce qui est plus facile à faire en petit comité d’une dizaine de personnes que face à un auditoire de trois cents participants.
 Si vous êtes intéressés par ce type d’événements, il suffit de vous rendre sur le site recensant toutes les personnes disposées à présenter des sujets sur ce format de BBL, http://www.brownbaglunch.fr. Ce ne sont pas moins de 250 femmes et hommes sur tout le territoire français qui s’y sont déjà inscrits !
 
 Un autre moyen pour les entreprises d’avoir une part active au sein des communautés est l’hébergement de meetups.
@@ -302,35 +303,37 @@ Sur la place parisienne, il y a plus de cent meetups dédiés à la technologie 
 
 
 Les hackathons sont très en vogue auprès des entreprises.
-Ce sont chaque année des dizaines d’événements de ce type qui sont mis sur pied à destination de développeurs, d’entrepreneurs ou d’innovateurs.
+Chaque année des dizaines d’événements de ce type sont mis sur pied à destination des développeurs, des entrepreneurs et des innovateurs.
 Un hackathon est un concours de développement collaboratif qui met en concurrence une dizaine d’équipes en moyenne pendant un, deux ou trois jours.
-Les entreprises qui mettent en place ce type d’événements donnent généralement un thème, ou certaines contraintes aux candidats, par exemple le fait d’utiliser les APIs publiques de la société.
+Les entreprises qui mettent en place ce type d’événements donnent généralement un thème ou certaines contraintes aux candidats, par exemple le fait d’utiliser les *API* publiques de la société.
 Au terme du hackathon, les équipes présentent leurs réalisations à un jury, qui finit par élire les projets gagnants.
 
 Si les hackathons ont clairement un intérêt pour les entreprises, il est très important que ces dernières offrent une véritable compensation aux participants.
 Considérer les hackathons comme de la main d’œuvre pratiquement gratuite risque de créer l’effet inverse de celui escompté, et ainsi de mettre la société dans une situation délicate.
 Pour éviter ce fameux effet *bad buzz* il est préférable de prévoir des récompenses de valeur pour les participants, l’idéal serait même d’être en mesure d’incuber une poignée de projets pour leur permettre de concrétiser les projets qu’ils auront ébauchés lors de l’événement.
 
-Un autre type d’événement qui intéresse beaucoup les développeurs sont les conférences internes.
+Un autre type d’événement qui intéresse beaucoup les développeurs est la conférence interne.
 L’entreprise organise un événement — généralement sur une journée — essentiellement à destination de ses collaborateurs.
-C’est l’occasion d’intégrer les nouveaux membres en leur imprégnant les valeurs de l’entreprise, de faire découvrir de nouvelles technologies, de lancer de nouvelles carrières d’orateurs... Bref, beaucoup de bonnes choses, mais qui ont cependant une complexité et un prix non négligeables.
+C’est l’occasion d’intégrer les membres nouvellement recrutés en leur imprégnant les valeurs de l’entreprise, de faire découvrir de nouvelles technologies, de lancer de nouvelles carrières d’orateurs...
+Bref, beaucoup de bonnes choses, mais qui représente cependant une certaine complexité d’organisation et un prix non négligeables.
 
 
-S’il n’est pas toujours facile de monter sa propre conférence interne, une autre approche bien plus accessible consiste à ponsoriser des événements, des conférences.
+S’il n’est pas toujours facile de monter sa propre conférence interne, une dernière approche bien plus accessible consiste à sponsoriser des événements, des conférences.
 Le métier du développement informatique jouit en effet d’une chance rare qui est le grand nombre de conférences sur de nombreux thèmes.
-Devenir le sponsor d’une conférence offre de nombreux atouts aux entreprises. Il s’agit en premier lieu de s’offrir une bonne visibilité voire une amélioration de leur image de marque auprès des développeurs, facilitant ainsi leur recrutement. Cela permet également d’envoyer de nombreux collaborateurs à ces conférences, ce qu’ils apprécient très souvent !
+Devenir le sponsor d’une conférence offre de nombreux atouts aux entreprises. Il s’agit en premier lieu de s’offrir une bonne visibilité voire une amélioration de leur image de marque auprès des développeurs, facilitant ainsi leur recrutement. Cela permet également d’envoyer de nombreux collaborateurs à ces conférences, ce qu’ils apprécient très souvent.
 
 
 ## Conclusion
 
 Nous avons pu voir au travers de cet article de nombreuses pistes pour améliorer le quotidien des développeurs, et ainsi les rendre plus heureux, et par voie de conséquence, plus productifs.
 Si toutes ces pistes ne sont pas applicables chez vous immédiatement, que ce soit par manque de temps, d’argent ou de volonté, il faut en retenir trois des aspects les plus importants.
+
 Tout d’abord, se rendre compte que de petites actions peuvent avoir de grandes conséquences.
 Offrir un environnement stimulant et productif — avec un matériel adapté au développement par exemple — permettra aux développeurs de se sentir en bonnes conditions pour réaliser leur travail, ce qui n’est pas à négliger.
 
 Ensuite, il est absolument indispensable de considérer le développeur en tant que tel.
 Il est loin le temps où ce métier était un tremplin vers le métier de manager ou chef de projet.
-D’autres pistes existent, qui permettent aux personnes qui le souhaitent de rester proches de la techniques, tout en ayant une considération managériale en adéquation.
+D’autres pistes existent, qui permettent aux personnes qui le souhaitent de rester proches de la technique, tout en ayant une considération de sa hiérarchie en adéquation.
 
 Enfin, il est fortement conseillé d’offrir aux développeurs un milieu proche de celui qu’il peut connaître à l’extérieur de la société : participation à l’open-source, communautés regroupant des experts dans les mêmes domaines que lui, et ainsi de suite.
 
