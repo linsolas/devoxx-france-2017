@@ -97,7 +97,8 @@ Ces lieux viennent casser la routine créée par le bureau traditionnel en offra
 On adoptera ainsi les petits espaces intimes pour suivre une conférence téléphonique sans être dérangé, on privilégiera les petites zones confortables pour les meetings en petit comité, et ainsi de suite.
 L’intérêt des espaces de détente est aussi minimisé par les sociétés, alors qu’il s’agit là d’un lieu important, véritable exutoire pour le développeur qui aura passé une matinée entière à dénicher le bug dans son programme ! C’est aussi un lieu idéal pour souder les équipes, où chacun pourra mieux découvrir ses partenaires professionnels.
 
-Si cette configuration des lieux est souvent la signature des géants du web ou des startups, les grandes entreprises commencent elles-aussi à s’y mettre, y voyant clairement un investissement incontournable et un atout séduction auprès de potentiels candidats à recruter. À titre d’exemple, Société Générale a ouvert en 2016 ses nouveaux locaux à Val de Fontenay en respectant scrupuleusement cet état d’esprit.
+Si cette configuration des lieux est souvent la signature des géants du web ou des startups, les grandes entreprises commencent elles-aussi à s’y mettre, y voyant clairement un investissement incontournable et un atout séduction auprès de potentiels candidats à recruter.
+À titre d’exemple, Société Générale a ouvert en 2016 ses nouveaux locaux à Val de Fontenay — « Les Dunes » — en respectant scrupuleusement cet état d’esprit.
 
 
 ![Les Dunes, nouveaux locaux de Société Générale](les-dunes.jpg "Les Dunes, nouveaux locaux de Société Générale")
@@ -106,18 +107,19 @@ Si cette configuration des lieux est souvent la signature des géants du web ou 
 
 
 L’espace de travail est lui aussi souvent mal considéré. Il ne suffit plus d’une simple chaise et un coin de table pour travailler.
-Les développeurs pouvant passer près de dix heures par jour à leur poste, il devient dès lors primordial de leur assurer un confort certain, et par voie de conséquence, de soigner leur santé !
-À cet égard, on pourra opter pour le « bureau debout », offrant la possibilité de travailler aussi bien assis que debout et ainsi de changer régulièrement de posture de travail. Il va de soi qu’une véritable chaise bien confortable va de pair avec ce bureau.
+Les développeurs pouvant passer près de dix heures par jour à leur poste, il devient primordial de leur assurer un confort certain, et ainsi de soigner leur santé.
+À cet égard, on pourra opter pour le « bureau debout », offrant la possibilité de travailler aussi bien assis que debout et ainsi de changer régulièrement de posture de travail.
+Il va de soi qu’une chaise de qualité ira de pair avec ce bureau.
 
 Le télétravail est paradoxalement encore mal établi dans les grandes entreprises, alors que le métier du développement informatique s’y prête parfaitement !
-C’est pourtant là un critère de plus en plus important lorsqu’un candidat cherche un nouveau poste, au point où cela représente, pour certains d’entre eux, un critère éliminatoire en cas d’absence de télétravail.
+C’est pourtant là un critère de plus en plus important lorsqu’un candidat cherche un nouveau poste, au point où cela représente, pour certains d’entre eux, un critère éliminatoire dans le cas où le télétravail serait interdit.
 Nous n’allons pas retracer ici les nombreux avantages que procure ce mode de travail, mais ces derniers sont encore plus mis en exergue pour les métiers du développement : travailler chez soi offre un plus grand confort en partie grâce au calme, une meilleure concentration et donc une augmentation de la productivité.
 Bien entendu, cela nécessite de la part du télétravailleur une certaine rigueur organisationnelle.
 Il est primordial d’être en mesure de s’isoler, de créer un environnement spécifique afin de limiter les perturbations extérieures, mais également pour marquer — physiquement et psychologiquement — une véritable frontière entre le milieu professionnel et celui personnel.
 
 Arrêtons-nous maintenant sur une pièce maîtresse et vitale du développeur : la machine.
-Elle est fréquemment source de nombreuses crispations : trop lente, trop limitée, peu adaptée au développement, mal configurée... les critiques ne manquent décidément pas !
-Hormis l’aspect de la sécurité qui est très chère aux grandes sociétés, c’est très souvent le prix qui sert d’excuse afin de s’opposer à un matériel de meilleure qualité.
+Elle est fréquemment source de crispations : trop lente, trop limitée, peu adaptée au développement, mal configurée... les critiques ne manquent décidément pas !
+Hormis l’aspect de la sécurité qui est très chère aux grandes sociétés, c’est très souvent le prix qui sert d’excuse pour ne pas fournir un matériel de meilleure qualité.
 Pourtant un calcul très simple permet de montrer qu’il n’en est rien : si l’on considère qu’un prestataire est facturé 600€ par jour — ce qui correspond à un tarif tout à fait honnête sur la région parisienne, et si ce dernier vient à perdre une heure quotidiennement à cause de son matériel peu performant, alors la perte induite peut avoisiner les 15,000€ par an !
 Admettons-le, même une excellente machine n’atteindra jamais de tels tarifs.
 
@@ -139,14 +141,15 @@ Il ne faut donc pas faire l’économie d’un bon environnement de travail pour
 Un développeur veut pouvoir s’épanouir dans son travail et apprendre en permanence.
 Comment l’amener à cet épanouissement ? Comment lui permettre de s’améliorer continuellement et qu’il puisse prendre conscience qu’il devient meilleur chaque jour ?
 La réponse à ces questions tient en deux mots, le *Software Craftsmanship*, qui pourrait se traduire par le développement artisanal.
+
 L’agilité semblait être la solution à tous les maux du développement logiciel, et s’il est vrai que cela a considérablement améliorer la situation, cela ne suffit plus.
 L’agilité est souvent utilisée pour améliorer l’efficacité des livraisons et le résultat est que l’on se retrouve à livrer plus vite des applications parfois non fonctionnelles, défectibles et difficiles à maintenir.
-Le *Software Craftsmanship* ne se définit pas comme un remplaçant de l’agilité, mais plutôt une extension à celle-ci, en rappelant que les logiciels doivent être bien conçus, et que chaque nouveau développement doit clairement apporter de la valeur au produit final.
+Le *Software Craftsmanship* ne se définit pas comme un remplaçant de l’agilité, mais plutôt comme une extension à celle-ci, en rappelant que les logiciels doivent être bien conçus, et que chaque nouveau développement doit clairement apporter de la valeur au produit final.
 Il rappelle également que les développeurs font partie d’une communauté de professionnels qui savent s’entraider, et que la relation avec le métier n’est pas simplement basée sur le mode client - fournisseur mais doit plutôt s’appuyer sur un partenariat vertueux.
 
 Le *Software Craftsmanship* porte en soi une valeur importante, celle de l’idée que l’on doit être fier du travail réalisé collectivement et de l’apprentissage permanent.
 Concrètement, de nombreuses pratiques peuvent être mises en œuvre, telles que le *TDD* (*Test Driven Development*), le *BDD* (*Behavior Driven Development*), la mise en application des préceptes du *clean code* (code propre) avec ses principes *DRY* (*Don’t Repeat Yourself*), *KISS* (*Keep It Simple, Stupid*) ou encore *SOLID* (acronyme représentant les cinq principes de bases de la programmation orientée objet).
-L’envie ici n’est pas d’ajouter de multiples acronymes barbares sur son CV, mais plutôt de savoir adapter sa façon de travailler pour produire du code plus clair, plus expressif et dont la maintenance en sera facilitée.
+L’envie ici n’est pas d’ajouter de multiples acronymes barbares sur son CV, mais plutôt de savoir adapter sa façon de travailler pour produire du code plus clair, plus expressif et à la maintenance facilitée.
 
 Il faut beaucoup de persévérance pour créer une culture d’entreprise qui soit proche des valeurs et des pratiques du *Software Craftsmanship*.
 Ce processus est long, mais à travers lui vous apprendrez beaucoup, la qualité de vos livrables s’améliorera et il sera alors difficile de revenir en arrière tant les bénéfices sont nombreux !
@@ -155,16 +158,16 @@ Richard Branson, fameux entrepreneur et fondateur de Virgin, a parfaitement rés
 
 ## Travailler mieux, mais pour quoi ?
 
-L’objectif du *Software Craftsmanship* est de produire du code avec une qualité toujours accrue, et cela en partie parce que la responsabilité du développeur est de plus en plus souvent engagée.
+L’objectif du *Software Craftsmanship* est de produire du code avec une qualité toujours accrue, et cela est motivé en partie parce que la responsabilité du développeur est de plus en plus souvent engagée.
 Aujourd’hui, la mise en production se fait souvent par les équipes mêmes qui ont développé le produit, ou à défaut en coordination directe avec eux.
 Sans cela, il ne faut pas espérer les responsabiliser ; en cas de défaut, le développeur pourrait alors se décharger sur les opérateurs qui ont mis en production sa réalisation. Cette approche, mise en exergue par le mouvement *DevOps*, permet ainsi aux développeurs de voir les fonctionnalités dans leur ensemble, de l’idéation à l’utilisation du produit par les utilisateurs finaux.
-Cette approche permet de donner plus de responsabilité aux développeurs, mais également plus de visibilité à leur travail, ce qui ne manquera pas de les rendre fiers de ce qui a pu être accompli pour en arriver là.
+Si cette approche permet de donner plus de responsabilité aux développeurs, elle offre également plus de visibilité à leur travail, ce qui ne manquera pas de les rendre fiers de ce qui a pu être accompli pour en arriver là.
 
 Maintenant que les développeurs réalisent de belles applications qu’ils mettent eux-mêmes en production, il reste un dernier point et non des moindres : savoir donner du sens à leur travail.
 Participer à une énième application de type *CRUD* ou une application sans intérêt risque de lasser les équipes qui y sont associées.
 Il est important de noter à ce propos que la première cause d’échec des startups est justement de créer une application qui ne sert à rien, ou qui n’est utile à personne !
 N’oublions pas non plus l’un des grands attraits de cette profession, à savoir qu’il est possible et aisé de travailler dans des domaines extrêmement variés : du domaine bancaire au domaine scientifique, en passant par les voyages, les services, aucun milieu n’est épargné.
-Ainsi, ne pas réussir à intéresser le développeur au métier sous-jacent c’est prendre le risque de voir ce dernier quitter votre société par lassitude ou fatigue, afin d’aller vivre des aventures passionnantes ailleurs.
+Ne pas réussir à intéresser le développeur au métier sous-jacent, c’est prendre le risque de voir ce dernier quitter votre société par lassitude ou fatigue, afin d’aller vivre des aventures passionnantes ailleurs.
 
 
 ## L’ouverture technologique
@@ -306,7 +309,7 @@ Au terme du hackathon, les équipes présentent leurs réalisations à un jury, 
 
 Si les hackathons ont clairement un intérêt pour les entreprises, il est très important que ces dernières offrent une véritable compensation aux participants.
 Considérer les hackathons comme de la main d’œuvre pratiquement gratuite risque de créer l’effet inverse de celui escompté, et ainsi de mettre la société dans une situation délicate.
-Pour éviter ce fameux effet *bad buzz* il est préférable de prévoir de véritables récompenses pour les participants, l’idéal serait même d’être en mesure d’incuber une poignée de projets pour leur permettre de concrétiser les projets qu’ils auront ébauchés lors de l’événement.
+Pour éviter ce fameux effet *bad buzz* il est préférable de prévoir des récompenses de valeur pour les participants, l’idéal serait même d’être en mesure d’incuber une poignée de projets pour leur permettre de concrétiser les projets qu’ils auront ébauchés lors de l’événement.
 
 Un autre type d’événement qui intéresse beaucoup les développeurs sont les conférences internes.
 L’entreprise organise un événement — généralement sur une journée — essentiellement à destination de ses collaborateurs.
