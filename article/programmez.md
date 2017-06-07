@@ -176,7 +176,7 @@ Réussir à gérer les technologies utilisées dans l’entreprise d’une mani�
 Ils se lassent vite et ont souvent envie de tester les dernières évolutions à la mode.
 
 Afin d’éviter un changement trop fréquent de technologies et pour limiter autant que faire se peut les dérives, des murs ont été érigés par nombre d’entreprises qui gravent dans le marbre ce qui est autorisé sur les projets et ce qui ne l’est pas.
-Les développeurs se trouvent alors en grande difficulté dès que se présente le besoin d’utiliser de nouvelles solutions, et ce problème de communication entraine généralement des frustrations, voire dans certains cas extrêmes des démissions de développeurs.
+Les développeurs se trouvent alors en grande difficulté dès que se présente le besoin d’utiliser de nouvelles solutions, et ce problème de communication entraine généralement des frustrations, voire dans certains cas extrêmes des démissions.
 De telles limitations ne sont pas souhaitables tant l’écosystème du développeur évolue à grande vitesse, car le risque de se retrouver rapidement avec des choix technologiques dépassés est important.
 
 La question se pose alors de savoir comment allier flexibilité et maîtrise des technologies utilisées.
@@ -196,12 +196,12 @@ Le concept derrière ce genre de radar peut être appliqué en fonction de la vi
 Il représente également un bon moyen de communiquer clairement sur la vision et l’usage des différentes technologies.
 
 Bien entendu, ce radar a pour vocation d’évoluer, et pas simplement au bon vouloir de quelques décideurs.
-Lorsqu’un développeur souhaite utiliser une nouvelle technologie, il prend contact avec un représentant de la communauté dédiée (par exemple la communauté web si l’on parle du dernier framework front-end à la mode).
-Le but est ici de préparer une présentation de cette technologie face à un collège de personnes ayant des profils divers et complémentaires au sein de l’IT de la société : architectes, opérateurs, responsables de la sécurité, développeurs ou experts dans un domaine en lien avec le sujet en question.
+Lorsqu’un développeur souhaite utiliser une nouvelle technologie, il prend contact avec un représentant de la communauté dédiée, par exemple la communauté web si l’on parle du dernier framework front-end à la mode.
+Ensemble, ils prépareront une présentation de cette technologie à destination d’un collège de personnes ayant des profils divers et complémentaires au sein de l’IT de la société : architectes, opérateurs, responsables de la sécurité, développeurs ou experts dans un domaine en lien avec le sujet en question.
 
 Le rôle de ce collectif est d’évaluer ce qui lui est présenté, en se posant les bonnes questions.
 Quelles sont ses forces et ses faiblesses ?
-Est-ce que cela présente avant tout des risques ou des opportunités ?
+Est-ce que cela présente des risques ou des opportunités ?
 Quelle est l’expérience de la communauté avec cette technologie ?
 Quels sont les coûts induits ?
 Et ainsi de suite.
@@ -210,7 +210,7 @@ Si la technologie passe cette étape, elle peut être validée pour une seconde 
 Une fois ce dernier terminé — ou suffisamment avancé, un retour d’expérience est partagé avec ce même collège afin de dresser un bilan et de définir la prochaine évolution de cette technologie au sein du radar : soit elle est mise de côté car inadaptée ou présentant trop de risques, soit on la considère comme étant assez intéressante pour qu’elle puisse être utilisée sur d’autres projets.
 
 Là encore, cette validation n’est pas figée dans le marbre.
-Elle sera remise en question régulièrement, soit pour être déployée encore plus largement au sein de l’entreprise, soit pour commencer à la déprécier.
+Elle sera remise en question régulièrement, soit pour être déployée encore plus largement au sein de l’entreprise, soit pour être petit à petit dépréciée.
 
 Cette méthode du radar technologique permet donc non seulement de communiquer largement et clairement sur les technologies utilisées dans l’entreprise, mais elle offre également la possibilité aux développeurs d’avoir une emprise sur celui-ci en y contribuant directement.
 
