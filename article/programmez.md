@@ -321,7 +321,7 @@ S’il n’est pas toujours facile de monter sa propre conférence interne, une 
 Le métier du développement informatique jouit en effet d’une chance rare qui est le grand nombre de conférences sur de nombreux thèmes.
 Devenir le sponsor d’une conférence offre de nombreux atouts aux entreprises. Il s’agit en premier lieu de s’offrir une bonne visibilité voire une amélioration de leur image de marque auprès des développeurs, facilitant ainsi leur recrutement. Cela permet également d’envoyer de nombreux collaborateurs à ces conférences, ce qu’ils apprécient très souvent.
 
-![Stand AXA à Devoxx France 2017](stand-axa-devoxx.png "Stand AXA à Devoxx France 2017")
+![Stand AXA à Devoxx France 2017](stand-axa-devoxx2.png "Stand AXA à Devoxx France 2017")
 
 *Le stand AXA, sponsor platinium de Devoxx France 2017*
 
