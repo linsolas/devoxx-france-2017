@@ -291,16 +291,15 @@ Pour l’hôte — et donc la société, les avantages sont multiples : cela rep
 Pour l’expert(e), aussi appelé(e) *bagger*, c’est l’opportunité de se faire connaître, de rôder une présentation — utile pour la répéter en amont d’une conférence  — ou encore d’exercer ses talents d’orateur, ce qui est plus facile à faire en petit comité d’une dizaine de personnes que face à un auditoire de trois cents participants.
 Si vous êtes intéressés par ce type d’événements, il suffit de vous rendre sur le site recensant toutes les personnes disposées à présenter des sujets sur ce format de BBL, http://www.brownbaglunch.fr. Ce ne sont pas moins de 250 femmes et hommes sur tout le territoire français qui s’y sont déjà inscrits !
 
+![Meetup Docker hébergé chez Société Générale](meetup-docker.png "Meetup Docker hébergé chez Société Générale")
+
+*Meetup Docker hébergé chez Société Générale*
+
 Un autre moyen pour les entreprises d’avoir une part active au sein des communautés est l’hébergement de meetups.
 Un meetup, qui doit son nom au site Internet éponyme, est le rassemblement récurrent de passionnés autour d’un sujet.
 Si les meetups eux-mêmes sont gérés par des communautés dédiées, ce sont les entreprises qui les hébergent.
 Petites startups ou grosses entreprises, c’est un moyen simple de s’offrir de la visibilité auprès d’un ensemble de personnes ayant un attrait commun.
 Sur la place parisienne, il y a plus de cent meetups dédiés à la technologie qui rassemblent au moins mille inscrits chacun. De quoi largement trouver son bonheur !
-
-![Meetup Docker hébergé chez Société Générale](meetup-docker.png "Meetup Docker hébergé chez Société Générale")
-
-*Meetup Docker hébergé chez Société Générale*
-
 
 Les hackathons sont très en vogue auprès des entreprises.
 Chaque année des dizaines d’événements de ce type sont mis sur pied à destination des développeurs, des entrepreneurs et des innovateurs.
@@ -322,6 +321,9 @@ S’il n’est pas toujours facile de monter sa propre conférence interne, une 
 Le métier du développement informatique jouit en effet d’une chance rare qui est le grand nombre de conférences sur de nombreux thèmes.
 Devenir le sponsor d’une conférence offre de nombreux atouts aux entreprises. Il s’agit en premier lieu de s’offrir une bonne visibilité voire une amélioration de leur image de marque auprès des développeurs, facilitant ainsi leur recrutement. Cela permet également d’envoyer de nombreux collaborateurs à ces conférences, ce qu’ils apprécient très souvent.
 
+![Stand AXA à Devoxx France 2017](stand-axa-devoxx.png "Stand AXA à Devoxx France 2017")
+
+*Stand AXA à Devoxx France 2017*
 
 ## Conclusion
 
@@ -339,7 +341,9 @@ Enfin, il est fortement conseillé d’offrir aux développeurs un milieu proche
 
 La mise en place de ces différents éléments ne résoudra sans doute pas tous les problèmes, mais cela contribuera énormément au bien-être des développeurs, qui se sentiront bien plus attachés à leur entreprise.
 
+![Sur scène à Devoxx France 2017](on-stage-devoxx.jpg "Sur scène à Devoxx France 2017")
 
+*Romain et Cyril sur scène à Devoxx France 2017*
 
 * [1] https://fr.wikipedia.org/wiki/Test_de_Joël
 * [2] https://www.thoughtworks.com/radar
