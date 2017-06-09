@@ -18,74 +18,85 @@ Romain Linsolas travaille chez Société Générale comme leader technique d’u
 ## Introduction
 
 Reconnaissons-le, le développeur jouit d’une situation très enviable : il est courtisé de toutes parts. Le nombre d’offres d’emploi dans le monde du développement peut faire rougir de nombreux autres secteurs d’activité.
-De l’autre côté du miroir — des entreprises donc — il devient ainsi compliqué de réussir à recruter les bonnes personnes, puis de les conserver au sein de leurs effectifs. Nous allons évoquer ici quelques pistes permettant aux entreprises de proposer un environnement agréable aux développeurs.
+De l’autre côté du miroir — des entreprises donc — il devient ainsi compliqué de réussir à recruter les bonnes personnes, puis de les conserver au sein de leurs effectifs. Voici quelques pistes pour les entreprises qui souhaitent recruter et garder les meilleurs développeurs.
 
 
 ## Investir dès le recrutement
 
-Le recrutement est la première image que l’entreprise donne au candidat, il est donc primordial que celle-ci soit bonne, sans quoi ce dernier vous ignorera tout simplement et passera à autre chose.
+C’est au cours du recrutement que l’entreprise donne une première impression au candidat, il est donc primordial que celle-ci soit bonne, sans quoi ce dernier vous ignorera tout simplement et passera à autre chose.
 Il apparait qu’un mauvais recrutement est la deuxième cause d’échec d’un projet — la première étant son inutilité — alors autant prendre ce sujet avec le sérieux qu’il mérite.
-La question se pose alors de savoir adapter le processus de recrutement aux besoins des développeurs. En voici quelques pistes.
+Il s’agit donc de savoir adapter le processus de recrutement aux besoins des développeurs. En voici quelques incontournables.
 
-* Il faut partager la vision et les objectifs de l’entreprise à moyen et long termes afin que le candidat puisse être en mesure de comprendre le contexte de l’entreprise, ainsi que de voir se dessiner les grands enjeux à venir. Il est nécessaire de partager les valeurs premières de l’entreprise, celles auxquelles on doit se raccrocher quand on doute, celles qui portent l’état d’esprit des collaborateurs au quotidien. Il est vital que le candidat se retrouve dans ces valeurs et consente y adhérer.
-* Il faut décrire le cadre de travail et la façon dont s’organisent les équipes entre elles : quelle est l’ambiance de travail, quelles méthodes sont appliquées, quel est le fonctionnement classique des projets, et ainsi de suite. Le candidat doit être en capacité d’imaginer son travail au quotidien dans l’entreprise.
-* Le sujet du salaire doit être abordé de manière ouverte. Il existe un marché dont les statistiques sont publiées régulièrement. Le salaire proposé doit être en adéquation avec ce marché et avec la mission. Cela semble évident, pourtant le sujet est généralement évoqué tardivement, et souvent de façon peu directe.
-* Pour intéresser le développeur, rien de mieux que de parler du code, des pratiques mises en place, des outils, des langages et des technologies les plus répandus ou à l’étude. Il faut s’assurer que les souhaits de la personne sont en phase avec les pratiques de l’entreprise. Si l’entreprise pratique massivement les revues de code et les pratiques agiles, assurez-vous que les candidats acceptent ce genre de pratiques qui peuvent être déroutantes pour certaines personnes.
-* Les *soft skills* sont un autre point sur lequel il apparait important d’insister lors de l’entretien. Au-delà des compétences techniques, de bonnes qualités humaines sont tout simplement indispensables. Concrètement, un développeur passera peu de temps à écrire du code, il sera bien souvent occupé à échanger et à collaborer avec d’autres personnes. Il devient alors critique de s’assurer au cours des entretiens que le candidat dispose bien de ces aptitudes.
-* On pourra agrémenter le processus de recrutement avec un test technique ou du *pair programming* — c’est-à-dire de développer avec l’assistance d’une personne déjà en place au sein de l’équipe — afin d’avoir une mesure du niveau de maitrise technique du candidat. Ces épreuves sont parfois redoutées par des personnes un peu anxieuses, mais sont généralement appréciées par les candidats, ravis d’être évalués par un pair sur des cas concrets.
+* Partager la vision et les objectifs de l’entreprise à moyen et long termes permet au candidat de comprendre le contexte de l’entreprise et les grands enjeux à venir. Il est tout aussi nécessaire de partager les valeurs premières de l’entreprise, celles auxquelles on doit se raccrocher quand on doute, celles qui portent l’état d’esprit des collaborateurs au quotidien. Il est vital que le candidat se retrouve dans ces valeurs et consente y adhérer.
+* Décrire le cadre de travail et la façon dont s’organisent les équipes entre elles : quelle est l’ambiance de travail, quelles méthodes sont appliquées, quel est le fonctionnement classique des projets. Le candidat doit être en capacité d’imaginer son travail au quotidien dans l’entreprise.
+* Aborder le sujet du salaire de manière ouverte. Il existe un marché dont les statistiques sont publiées régulièrement. Le salaire proposé doit être en adéquation avec ce marché et avec la mission. Cela semble évident, pourtant le sujet est généralement évoqué tardivement, et souvent de façon peu directe.
+* Pour intéresser le développeur, rien de mieux que de parler du code, des outils, des langages et des technologies les plus répandus ou à l’étude. Les souhaits du candidat doivent correspondre aux pratiques de l’entreprise. Si l’entreprise pratique massivement les revues de code et les pratiques agiles, assurez-vous que les candidats acceptent ce genre de pratiques qui peuvent être déroutantes pour certaines personnes.
+* Les *soft skills* sont un autre point sur lequel il apparait important d’insister lors de l’entretien. Au-delà des compétences techniques, de bonnes qualités humaines sont tout simplement indispensables. Concrètement, un développeur passera peu de temps à écrire du code, il sera bien souvent occupé à échanger et à collaborer avec d’autres personnes. D’où l’importance de s’assurer au cours des entretiens que le candidat dispose bien de ces aptitudes.
+* On pourra agrémenter le processus de recrutement avec un test technique ou du *pair programming* — c’est-à-dire de développer avec l’assistance d’une personne de l’équipe — afin d’avoir une mesure du niveau de maitrise technique du candidat. Ces épreuves sont parfois redoutées, mais sont généralement appréciées par les candidats, ravis d’être évalués par un pair sur des cas concrets.
 
-On le devine au vu de cette liste, il apparait important d’impliquer les développeurs directement dans le processus de recrutement, ceci afin de les engager et de les responsabiliser. Après tout, ce sont bien eux qui vont travailler avec les nouvelles recrues, alors autant s’assurer directement de leur compatibilité professionnelle. Rencontrer des développeurs durant ce processus est toujours bien perçu par les candidats, mais cela ne va pas sans inconvénients. Cela impose par exemple aux développeurs de l’équipe de passer du temps à réaliser ces entretiens, à en faire un suivi, et ainsi de suite. On peut le voir comme du temps perdu — car non imputé sur le projet pour lequel il travaille — mais sur le long terme, l’entreprise est tout de même gagnante, un bon recrutement étant un véritable investissement sur l’avenir.
+Il est donc important d’impliquer les développeurs directement dans le processus de recrutement, afin de les engager et de les responsabiliser.
+Après tout, ce sont eux qui vont travailler avec les nouvelles recrues, autant s’assurer directement de leur compatibilité professionnelle.
+Rencontrer des développeurs durant ce processus est toujours bien perçu par les candidats, mais cela ne va pas sans inconvénients.
+Cela impose par exemple aux développeurs de l’équipe de passer du temps à réaliser ces entretiens, à en faire un suivi.
+On peut le voir comme du temps perdu — car non imputé sur le projet pour lequel il travaille — mais sur le long terme, l’entreprise est gagnante : un bon recrutement étant un véritable investissement sur l’avenir.
 
-On l’a évoqué, le marché est aujourd’hui très favorable aux développeurs, ces derniers sont de fait très sollicités par les entreprises en mal de talents. Si certaines d’entre elles vont jouer la carte de l’originalité pour sortir du lot, il faut faire attention à ne pas tomber dans les travers des offres farfelues, voire risibles, où l’on cherche des profils tout simplement impossibles. « Je recherche un ninja du digital en mode rock-star DevSecOps et évangéliste avec 10 d’expérience sur Kotlin pour un grand groupe international à l’esprit startup et à taille humaine ». Non seulement ce genre d’offre ne trouvera jamais preneur, mais elle aura surtout le mérite d’irriter le potentiel candidat et de vous décrédibiliser complètement. À proscrire absolument !
+On l’a évoqué, le marché est aujourd’hui très favorable aux développeurs.
+Ces derniers sont de fait très sollicités par les entreprises en mal de talents.
+Si certaines d’entre elles vont jouer la carte de l’originalité pour sortir du lot, il ne faut pas tomber dans les travers des offres farfelues, voire risibles, où l’on cherche des profils tout simplement impossibles. « Je recherche un ninja du digital en mode rock-star DevSecOps et évangéliste avec 10 d’expérience sur Kotlin pour un grand groupe international à l’esprit startup et à taille humaine ».
+Non seulement ce genre d’offre ne trouvera jamais preneur, mais elle aura surtout le mérite d’irriter le potentiel candidat et de vous décrédibiliser complètement. À proscrire absolument !
 
-Une autre chose qu’il est préférable d’éviter consiste à faire coder un exercice ou un algorithme sur un tableau blanc en ayant la même rigueur qu’un compilateur. Non seulement cela ne mène à rien mais cela risque aussi de faire fuir votre candidat. Le tableau blanc reste une bonne idée s’il est utilisé pour démontrer la façon dont le candidat réfléchit et amène sa solution, éventuellement avec l’aide de pseudo-code.
-Si votre souhait est de voir le candidat à l’œuvre avec du véritable code, il faudra se tourner vers des solutions telles que Codingame, actuellement utilisée chez AXA France et Société Générale.
+Éviter aussi de faire coder un exercice ou un algorithme sur un tableau blanc en ayant la même rigueur qu’un compilateur. Non seulement cela ne mène à rien mais cela risque aussi de faire fuir votre candidat. Le tableau blanc reste une bonne idée s’il est utilisé pour démontrer la façon dont le candidat réfléchit et amène sa solution, éventuellement avec l’aide de pseudo-code.
+Si votre souhait est de voir le candidat à l’œuvre avec du véritable code, il est préférable de se tourner vers des solutions telles que Codingame, actuellement utilisée chez AXA France et Société Générale.
 
-![Codingame, une plateforme utile pour tester le niveau des candidats](codingame.png)
+Et pourquoi ne pas proposer au candidat de s’immerger directement dans l’équipe pendant quelques heures, de l’impliquer dans une séance de revue de code ou de *pair programming*. Arriver à faire passer ses premiers tests unitaires au vert avec le candidat, c’est une excellente manière de démarrer une collaboration efficace.
 
-*Codingame, une plateforme utile pour tester le niveau des candidats*
+Enfin, la qualité des rapports humains entre les membres de l’équipe est essentielle.
+Avoir dans son équipe une fameuse *rock star* du JavaScript, mais qui a un caractère invivable risque de poser plus de problèmes que d’apporter des solutions au sein de l’équipe.
+Proposer d’aller boire un verre peut être une manière informelle de s’en assurer, et de mettre à l’aise le candidat.
 
-Quand cela est possible, on peut proposer au candidat de s’immerger directement dans l’équipe pendant quelques heures, de l’impliquer dans une séance de revue de code ou de *pair programming*. Arriver à faire passer ses premiers tests unitaires au vert avec le candidat, c’est une excellente manière de démarrer une collaboration efficace.
-
-Une dernière chose, et non des moindres, il est important que les membres de l’équipe s’entendent bien avec le candidat sur un plan humain. Avoir dans son équipe une fameuse *rock star* du JavaScript, mais qui a un caractère invivable risque de poser plus de problèmes que de solution au sein de l’équipe. Proposer d’aller boire un verre peut être une manière informelle de s’en assurer, et cela aura aussi le mérite de mettre à l’aise le candidat.
-
-Pour en finir sur le recrutement, un point crucial à respecter est la transparence et la franchise sur la société et l’équipe qu’il viendrait à rejoindre. Si, après quelques semaines ou quelques mois passés avec vous, il s’aperçoit d’une quelconque supercherie, cela risque de le décevoir, de le démotiver. Il existe alors un risque important qu’il quitte le navire, ce qui nous ferait tomber dans le travers dont on évoquait au début du chapitre, à savoir qu’un mauvais recrutement est extrêmement coûteux pour l’entreprise.
+Dernier point crucial sur le recrutement : la transparence et la franchise sur l’entreprise et l’équipe qu’il pourrait rejoindre.
+Si, après quelques semaines ou quelques mois, il s’aperçoit d’une quelconque supercherie, il sera déçu, démotivé et il y a de fortes chances qu’il quitte le navire.
+Et comme évoqué au début du chapitre, un mauvais recrutement est extrêmement coûteux pour l’entreprise.
 
 
 ## Proposer un vrai plan de carrière
 
 Il arrive que les développeurs s’ennuient et finissent par venir travailler simplement pour remplir le frigo.
 Ce n’est souhaitable ni pour eux ni pour l’entreprise.
-Il convient de leur offrir la possibilité de construire leur avenir afin de les fidéliser au sein de la société.
+Il convient de leur offrir la possibilité de construire leur avenir afin de les fidéliser au sein de l’entreprise.
 Nombreux sont les développeurs qui se sentent désengagés, déresponsabilisés dans leur travail, alors qu’ils pourraient être épanouis dans leur carrière — ce qui aurait également l’avantage non négligeable d’améliorer leur productivité.
 
 Pour fidéliser le développeur dans l’entreprise, il faut lui proposer une expérience durable dans laquelle il va pouvoir évoluer dans le temps.
 Il n’est plus question de considérer le métier de développeur comme une passerelle avant le métier de manager ou chef de projet.
 Aujourd’hui, de multiples alternatives existent.
 
-* Faire évoluer son niveau d’expertise technique, avec ses multiples paliers tels que novice, junior, sénior et enfin expert.
+* Faire évoluer son niveau d’expertise technique, avec de multiples paliers tels que novice, junior, sénior et enfin expert.
 * Profiter de sa capacité d’influence et de leadership, par exemple pour occuper des postes d’évangélistes.
 * Parfaire sa maîtrise des technologies complémentaires, telles que le développement web, *back-end* (avec Java, .Net, etc.), mobile, etc.
 * Développer sa maîtrise des domaines métiers de l’entreprise.
 * S’orienter vers des rôles d’architectes techniques ou fonctionnels.
 
 Toutes ces évolutions du profil de développeur peuvent être clairement identifiées et valorisées dans l’entreprise, ce qui donne aux développeurs une vision long terme de leur carrière.
-Cela est également utile pour l’entreprise afin de voir dans quels domaines et technologies il y a une carence ou une abondance de compétences au sein de ses effectifs.
+Cela permet aussi à l’entreprise de voir dans quels domaines et technologies il y a une carence ou une abondance de compétences au sein de ses effectifs.
 
-L’une des manières les plus sûres pour obtenir l’attention des développeurs est de leur proposer de vivre des expériences extraordinaires. Il faut que leur quotidien soit varié, en alternant des projets stratégiques avec des projets innovants, ponctués parfois des projets plus classiques. Varier les plaisirs et casser la routine permettra aux développeurs de se sentir valorisés, et ainsi de les motiver davantage.
+L’une des manières les plus sûres pour obtenir l’attention des développeurs est de leur proposer de vivre des expériences extraordinaires.
+Il faut que leur quotidien soit varié, en alternant des projets stratégiques avec des projets innovants, ponctués parfois des projets plus classiques.
+Varier les plaisirs et casser la routine permettra aux développeurs de se sentir valorisés, et davantage motivés.
 
 Un autre aspect à ne pas négliger est la formation, l’apprentissage. Pour paraphraser Damien Cavaillès — co-fondateur de JeChercheUnDev.fr : « Développeurs, apprendre est notre métier ».
-Pour rester employable, un développeur doit apprendre sans cesse et suivre l’évolutions des technologies. Si l’on veut garder les développeurs et en attirer d’autres, il faut leur proposer une carrière où ils auront l’assurance d’être en mesure d’apprendre continuellement, de s’améliorer. Laisser assez de temps aux développeurs pour qu’ils puissent produire tout en apprenant devient alors un critère important à leurs yeux, sans quoi ils iront apprendre ailleurs, ou le feront en cachette sur le temps imputé aux projets sur lesquels ils travaillent. Dans de telles conditions, personne n’en sort gagnant !
+Pour rester employable, un développeur doit apprendre sans cesse et suivre l’évolution des technologies.
+Si l’on veut garder les développeurs et en attirer d’autres, il faut leur proposer une carrière où ils auront l’assurance d’être en mesure d’apprendre continuellement, de s’améliorer. Laisser du temps aux développeurs pour qu’ils puissent produire tout en apprenant est important à leurs yeux, sans quoi ils iront apprendre ailleurs, ou le feront en cachette sur le temps imputé aux projets sur lesquels ils travaillent.
+Dans de telles conditions, personne n’en sort gagnant !
 
 À bien y regarder, il n’y a que deux possibilités.
 
-* Soit l’entreprise investit sur la formation des développeurs. Cela représente bien entendu un coût — certains diront plutôt un investissement, mais aura en contrepartie l’avantage de créer un cercle vertueux où l’entreprise, les développeurs ainsi que les clients et utilisateurs s’y retrouveront au vu de l’amélioration notable de la qualité des productions.
+* Soit l’entreprise investit sur la formation des développeurs. Cela représente un coût — certains diront plutôt un investissement, mais présentera l’avantage de créer un cercle vertueux où l’entreprise, les développeurs ainsi que les clients et utilisateurs s’y retrouveront au vu de l’amélioration notable de la qualité des productions.
 * Soit l’entreprise n’investit pas dans la formation de ses développeurs. Ce choix stratégique va nécessairement impliquer à moyen terme une difficulté accrue à conserver les meilleurs éléments au sein des effectifs, et à rendre le recrutement encore plus difficile.
 
 De leur côté, les développeurs doivent apprendre à apprendre, ce qui n’est pas aussi facile qu’il n’y parait.
 Une manière intéressante et efficace de le faire est d’apprendre à enseigner.
 Partager sa passion est souvent une caractéristique reconnue d’un bon développeur, mais cela a aussi de nombreux autres atouts.
-Hubert Sablonnière (@hsablonniere sur Twitter), un développeur web et orateur apprécié, disait que de « donner des cours et des présentations a changé ma vie professionnelle. C’est un terrain d’auto-apprentissage inépuisable qui stimule les connaissances et savoir-faire liés à la technique mais aussi aux relations humaines. »
+Hubert Sablonnière (@hsablonniere sur Twitter), un développeur web et orateur apprécié, a déclaré que de « donner des cours et des présentations a changé ma vie professionnelle. C’est un terrain d’auto-apprentissage inépuisable qui stimule les connaissances et savoir-faire liés à la technique mais aussi aux relations humaines. »
 Quand les développeurs émettent ce souhait, il est primordial de les encourager à donner des cours, des présentations, des *Brown Bag Lunches*, tout en valorisant ce travail.
 
 
@@ -94,11 +105,11 @@ Quand les développeurs émettent ce souhait, il est primordial de les encourage
 La carrière du développeur étant désormais entre de bonnes mains, il faut maintenant s’affairer à lui proposer un environnement de travail qui soit propice à la concentration et à l’efficacité.
 L’open-space, très présent dans les entreprises, n’est clairement pas adapté à ces contraintes : bruyant, source de déconcentration et de stress, généralement dépourvu d’âme, on lui préfèrera les bureaux flexibles.
 Ces lieux viennent casser la routine créée par le bureau traditionnel en offrant des espaces adaptés aux besoins du moment.
-On adoptera ainsi les petits espaces intimes pour suivre une conférence téléphonique sans être dérangé, on privilégiera les petites zones confortables pour les meetings en petit comité, et ainsi de suite.
+On adoptera ainsi les petits espaces intimes pour suivre une conférence téléphonique sans être dérangé. On privilégiera les petites zones confortables pour les meetings en petit comité.
 L’intérêt des espaces de détente est aussi minimisé par les sociétés, alors qu’il s’agit là d’un lieu important, véritable exutoire pour le développeur qui aura passé une matinée entière à dénicher le bug dans son programme ! C’est aussi un lieu idéal pour souder les équipes, où chacun pourra mieux découvrir ses partenaires professionnels.
 
 Si cette configuration des lieux est souvent la signature des géants du web ou des startups, les grandes entreprises commencent elles-aussi à s’y mettre, y voyant clairement un investissement incontournable et un atout séduction auprès de potentiels candidats à recruter.
-À titre d’exemple, Société Générale a ouvert en 2016 ses nouveaux locaux à Val de Fontenay — « Les Dunes » — en respectant scrupuleusement cet état d’esprit.
+À titre d’exemple, Société Générale a ouvert en 2016 ses nouveaux locaux à Val de Fontenay — « Les Dunes » — dans cet état d’esprit.
 
 
 ![Les Dunes, nouveaux locaux de Société Générale](les-dunes.jpg "Les Dunes, nouveaux locaux de Société Générale")
@@ -107,23 +118,23 @@ Si cette configuration des lieux est souvent la signature des géants du web ou 
 
 
 L’espace de travail est lui aussi souvent mal considéré. Il ne suffit plus d’une simple chaise et un coin de table pour travailler.
-Les développeurs pouvant passer près de dix heures par jour à leur poste, il devient primordial de leur assurer un confort certain, et ainsi de soigner leur santé.
-À cet égard, on pourra opter pour le « bureau debout », offrant la possibilité de travailler aussi bien assis que debout et ainsi de changer régulièrement de posture de travail.
+Les développeurs pouvant passer près de dix heures par jour à leur poste, il devient primordial de leur assurer un confort certain, et de veiller à leur santé.
+À cet égard, on pourra opter pour le « bureau debout », offrant la possibilité de travailler aussi bien assis que debout et de changer régulièrement de posture de travail.
 Il va de soi qu’une chaise de qualité ira de pair avec ce bureau.
 
-Le télétravail est paradoxalement encore mal établi dans les grandes entreprises, alors que le métier du développement informatique s’y prête parfaitement !
-C’est pourtant là un critère de plus en plus important lorsqu’un candidat cherche un nouveau poste, au point où cela représente, pour certains d’entre eux, un critère éliminatoire dans le cas où le télétravail serait interdit.
+Le télétravail est encore mal établi dans la plupart des grandes entreprises, alors que le métier du développement informatique s’y prête parfaitement !
+C’est pourtant un critère de plus en plus important lorsqu’un candidat cherche un nouveau poste, et pour certains d’entre eux, un critère éliminatoire.
 Nous n’allons pas retracer ici les nombreux avantages que procure ce mode de travail, mais ces derniers sont encore plus mis en exergue pour les métiers du développement : travailler chez soi offre un plus grand confort en partie grâce au calme, une meilleure concentration et donc une augmentation de la productivité.
 Bien entendu, cela nécessite de la part du télétravailleur une certaine rigueur organisationnelle.
 Il est primordial d’être en mesure de s’isoler, de créer un environnement spécifique afin de limiter les perturbations extérieures, mais également pour marquer — physiquement et psychologiquement — une véritable frontière entre le milieu professionnel et celui personnel.
 
 Arrêtons-nous maintenant sur une pièce maîtresse et vitale du développeur : la machine.
-Elle est fréquemment source de crispations : trop lente, trop limitée, peu adaptée au développement, mal configurée... les critiques ne manquent décidément pas !
-Hormis l’aspect de la sécurité qui est très chère aux grandes sociétés, c’est très souvent le prix qui sert d’excuse pour ne pas fournir un matériel de meilleure qualité.
+Elle est fréquemment source de crispations : trop lente, trop limitée, peu adaptée au développement, mal configurée... les critiques ne manquent pas !
+Hormis l’aspect de la sécurité qui est cruciale pour les grandes sociétés, c’est très souvent le prix qui sert d’excuse pour ne pas fournir un matériel de meilleure qualité.
 Pourtant un calcul très simple permet de montrer qu’il n’en est rien : si l’on considère qu’un prestataire est facturé 600€ par jour — ce qui correspond à un tarif tout à fait honnête sur la région parisienne, et si ce dernier vient à perdre une heure quotidiennement à cause de son matériel peu performant, alors la perte induite peut avoisiner les 15,000€ par an !
 Admettons-le, même une excellente machine n’atteindra jamais de tels tarifs.
 
-Cette même logique s’applique aux logiciels mis à disposition de ses développeurs.
+Cette même logique s’applique aux logiciels mis à disposition des développeurs.
 Il est de plus en plus contre-productif d’imposer un logiciel unique à toutes ses équipes, on préfèrera opter pour une solution standard, tout en laissant le choix à chacun d’opter pour ses outils privilégiés.
 Après tout, un développeur qui maîtrise parfaitement un outil risquera d’être perdu, et donc moins productif, si on vient à lui en imposer un autre.
 
@@ -144,8 +155,8 @@ La réponse à ces questions tient en deux mots, le *Software Craftsmanship*, qu
 
 L’agilité semblait être la solution à tous les maux du développement logiciel, et s’il est vrai que cela a considérablement amélioré la situation, cela ne suffit plus.
 L’agilité est souvent utilisée pour améliorer l’efficacité des livraisons et le résultat est que l’on se retrouve à livrer plus vite des applications parfois non fonctionnelles, défectibles et difficiles à maintenir.
-Le *Software Craftsmanship* ne se définit pas comme un remplaçant de l’agilité, mais plutôt comme une extension à celle-ci, en rappelant que les logiciels doivent être bien conçus, et que chaque nouveau développement doit clairement apporter de la valeur au produit final.
-Il rappelle également que les développeurs font partie d’une communauté de professionnels qui savent s’entraider, et que la relation avec le métier n’est pas simplement basée sur le mode client - fournisseur mais doit plutôt s’appuyer sur un partenariat vertueux.
+Le *Software Craftsmanship* ne se définit pas comme un remplaçant de l’agilité, mais plutôt comme une extension de celle-ci, en rappelant que les logiciels doivent être bien conçus, et que chaque nouveau développement doit clairement apporter de la valeur au produit final.
+Il rappelle également que les développeurs font partie d’une communauté de professionnels qui s’entraident, et que la relation avec le métier n’est pas simplement basée sur le mode client - fournisseur mais doit s’appuyer sur un partenariat vertueux.
 
 Le *Software Craftsmanship* porte en soi une valeur importante, celle de l’idée que l’on doit être fier du travail réalisé collectivement et de l’apprentissage permanent.
 Concrètement, de nombreuses pratiques peuvent être mises en œuvre, telles que le *TDD* (*Test Driven Development*), le *BDD* (*Behavior Driven Development*), la mise en application des préceptes du *clean code* (code propre) avec ses principes *DRY* (*Don’t Repeat Yourself*), *KISS* (*Keep It Simple, Stupid*) ou encore *SOLID* (acronyme représentant les cinq principes de bases de la programmation orientée objet).
@@ -154,19 +165,19 @@ L’envie ici n’est pas d’ajouter de multiples acronymes barbares sur son CV
 Il faut beaucoup de persévérance pour créer une culture d’entreprise qui soit proche des valeurs et des pratiques du *Software Craftsmanship*.
 Ce processus est long, mais à travers lui vous apprendrez beaucoup, la qualité de vos livrables s’améliorera et il sera alors difficile de revenir en arrière tant les bénéfices sont nombreux !
 
-Richard Branson, fameux entrepreneur et fondateur de Virgin, a parfaitement résumé la situation qui nous intéresse ici, sans pour autant se limiter au monde de l’informatique, en disant ceci : « formez vos collaborateurs afin qu’ils puissent partir, mais traitez-les suffisamment bien pour qu’ils n’aient pas envie de le faire ».
+Richard Branson, fameux entrepreneur et fondateur de Virgin, a parfaitement résumé le challenge des entreprises sans se limiter au monde de l’informatique : « formez vos collaborateurs afin qu’ils puissent partir, mais traitez-les suffisamment bien pour qu’ils n’aient pas envie de le faire ».
 
 ## Travailler mieux, mais pour quoi ?
 
 L’objectif du *Software Craftsmanship* est de produire du code avec une qualité toujours accrue, et cela est motivé en partie parce que la responsabilité du développeur est de plus en plus souvent engagée.
 Aujourd’hui, la mise en production se fait souvent par les équipes mêmes qui ont développé le produit, ou à défaut en coordination directe avec eux.
 Sans cela, il ne faut pas espérer les responsabiliser ; en cas de défaut, le développeur pourrait alors se décharger sur les opérateurs qui ont mis en production sa réalisation. Cette approche, mise en exergue par le mouvement *DevOps*, permet ainsi aux développeurs de voir les fonctionnalités dans leur ensemble, de l’idéation à l’utilisation du produit par les utilisateurs finaux.
-Si cette approche permet de donner plus de responsabilité aux développeurs, elle offre également plus de visibilité à leur travail, ce qui ne manquera pas de les rendre fiers de ce qui a pu être accompli pour en arriver là.
+Si cette approche permet de donner plus de responsabilité aux développeurs, elle offre aussi plus de visibilité à leur travail, ce qui ne manquera pas de les rendre fiers de ce qui a pu être accompli pour en arriver là.
 
-Maintenant que les développeurs réalisent de belles applications qu’ils mettent eux-mêmes en production, il reste un dernier point et non des moindres : savoir donner du sens à leur travail.
-Participer à une énième application de type *CRUD* ou une application sans intérêt risque de lasser les équipes qui y sont associées.
-Il est important de noter à ce propos que la première cause d’échec des startups est justement de créer une application qui ne sert à rien, ou qui n’est utile à personne !
-N’oublions pas non plus l’un des grands attraits de cette profession, à savoir qu’il est possible et aisé de travailler dans des domaines extrêmement variés : du domaine bancaire au domaine scientifique, en passant par les voyages, les services, aucun milieu n’est épargné.
+Si désormais les développeurs réalisent de belles applications qu’ils mettent eux-mêmes en production, il reste un dernier point : savoir donner du sens à leur travail.
+Participer à une énième application de type *CRUD* ou une application sans intérêt risque de lasser les équipes.
+La première cause d’échec des startups est de créer une application qui ne sert à rien, ou qui n’est utile à personne !
+N’oublions pas non plus l’un des grands attraits de cette profession, à savoir qu’il est possible et aisé de travailler dans des domaines extrêmement variés : du domaine bancaire au domaine scientifique, en passant par les voyages, les services, aucun secteur n’y échappe.
 Ne pas réussir à intéresser le développeur au métier sous-jacent, c’est prendre le risque de voir ce dernier quitter votre société par lassitude ou fatigue, afin d’aller vivre des aventures passionnantes ailleurs.
 
 
@@ -179,7 +190,7 @@ Afin d’éviter un changement trop fréquent de technologies et pour limiter au
 Les développeurs se trouvent alors en grande difficulté dès que se présente le besoin d’utiliser de nouvelles solutions, et ce problème de communication entraine généralement des frustrations, voire dans certains cas extrêmes des démissions.
 De telles limitations ne sont pas souhaitables tant l’écosystème du développeur évolue à grande vitesse, car le risque de se retrouver rapidement avec des choix technologiques dépassés est important.
 
-La question se pose alors de savoir comment allier flexibilité et maîtrise des technologies utilisées.
+Mais comment allier flexibilité et maîtrise des technologies utilisées ?
 
 Il existe un concept de radar technologique, rendu populaire par la société Thoughtworks[2] qui vient classer les technologies en quatre catégories que sont les langages de programmation, les outils, les plateformes et enfin les pratiques.
 Chacune de ces catégories est ensuite divisée en quatre anneaux qui représentent un certain niveau de fiabilité et d’intérêt.
@@ -189,15 +200,15 @@ Viennent ensuite les niveaux « *Trail* », « *Assess* » et enfin « *Hold* »
 
 ![La partie langages du radar de Thoughtworks](thoughtworks-radar.png "La partie langages du radar de Thoughtworks")
 
-*La partie langages du radar de Thoughtworks*
+*La partie langages du radar de Thoughtworks (capture du site de &copy;Thoughtworks)*
 
 
 Le concept derrière ce genre de radar peut être appliqué en fonction de la vision d’une entreprise et on peut alors publier la liste des technologies sous cette forme.
 Il représente également un bon moyen de communiquer clairement sur la vision et l’usage des différentes technologies.
 
-Bien entendu, ce radar a pour vocation d’évoluer, et pas simplement au bon vouloir de quelques décideurs.
+Bien entendu, ce radar a pour vocation d’évoluer.
 Lorsqu’un développeur souhaite utiliser une nouvelle technologie, il prend contact avec un représentant de la communauté dédiée, par exemple la communauté web si l’on parle du dernier framework front-end à la mode.
-Ensemble, ils prépareront une présentation de cette technologie à destination d’un collège de personnes ayant des profils divers et complémentaires au sein de l’IT de la société : architectes, opérateurs, responsables de la sécurité, développeurs ou experts dans un domaine en lien avec le sujet en question.
+Ensemble, ils prépareront une présentation de cette technologie à destination d’un collège de personnes ayant des profils divers et complémentaires au sein de l’IT de l’entreprise : architectes, opérateurs, responsables de la sécurité, développeurs ou experts dans un domaine en lien avec le sujet en question.
 
 Le rôle de ce collectif est d’évaluer ce qui lui est présenté, en se posant les bonnes questions.
 Quelles sont ses forces et ses faiblesses ?
@@ -212,7 +223,7 @@ Une fois ce dernier terminé — ou suffisamment avancé, un retour d’expérie
 Là encore, cette validation n’est pas figée dans le marbre.
 Elle sera remise en question régulièrement, soit pour être déployée encore plus largement au sein de l’entreprise, soit pour être petit à petit dépréciée.
 
-Cette méthode du radar technologique permet donc non seulement de communiquer largement et clairement sur les technologies utilisées dans l’entreprise, mais elle offre également la possibilité aux développeurs d’avoir une emprise sur celui-ci en y contribuant directement.
+Cette méthode du radar technologique permet non seulement de communiquer largement et clairement sur les technologies utilisées dans l’entreprise, mais elle offre également la possibilité aux développeurs d’avoir une emprise sur celui-ci en y contribuant directement.
 
 Il existe d’autres principes pour s’ouvrir aux évolutions des technologies.
 Certains projets mettent en place des *feature teams*, mécanisme popularisé par la société Spotify.
@@ -267,7 +278,7 @@ Fort heureusement, il existe de nombreux mécanismes automatisés pour faire un 
 
 C’est enfin une piste de recrutement à ne pas négliger.
 Si une entreprise participe activement au développement d’une solution open-source, elle va nécessairement attirer l’attention des personnes ayant recours à cette solution, et potentiellement les intéresser à rejoindre la compagnie.
-À l’inverse, une société peut détecter des contributeurs importants sur les solutions open-source stratégiques pour elle et tenter de les recruter. Bien entendu, dans pareilles circonstances, le candidat en question sera très vigilant sur la façon dont la société contribue à l’open-source.
+À l’inverse, une société peut détecter des contributeurs importants sur les solutions open-source stratégiques pour elle et tenter de les recruter. Bien entendu, dans pareilles circonstances, le candidat en question sera très vigilant sur la façon dont l’entreprise contribue à l’open-source.
 Vouloir recruter un contributeur à l’open-source puis lui refuser le droit de continuer ses activités une fois au sein de l’entreprise n’aurait en effet aucun sens, et le recrutement évidemment voué à l’échec !
 
 S’il est compliqué dans un premier temps de contribuer à l’open-source, une alternative devrait toutefois être tentée, celle de l’*inner-source*.
@@ -287,13 +298,13 @@ Les entreprises ont leur rôle à jouer à ce niveau-là, aussi bien pour leur p
 Le *Brown Bag Lunch* — ou plus simplement *BBL* — représente le moyen le plus accessible d’apporter la connaissance au sein d’une société [3].
 Le concept est très simple et peut se résumer ainsi : on invite un(e) expert(e) le temps du déjeuner pour venir réaliser une présentation technique dans son domaine.
 Le terme de *brown bag* fait à ce propos référence au fameux sac en papier marron que l’on utilise pour transporter son déjeuner sur son lieu de travail.
-Pour l’hôte — et donc la société, les avantages sont multiples : cela représente une veille technologique très accessible, très variée tant les sujets proposés lors des BBL sont vastes et cela permet à ses collaborateurs de découvrir de nouveaux langages, outils ou méthodes de développement.
-Pour l’expert(e), aussi appelé(e) *bagger*, c’est l’opportunité de se faire connaître, de rôder une présentation — utile pour la répéter en amont d’une conférence  — ou encore d’exercer ses talents d’orateur, ce qui est plus facile à faire en petit comité d’une dizaine de personnes que face à un auditoire de trois cents participants.
+Pour l’hôte — et donc l’entreprise, les avantages sont multiples : cela représente une veille technologique très accessible, très variée tant les sujets proposés lors des BBL sont vastes et cela permet à ses collaborateurs de découvrir de nouveaux langages, outils ou méthodes de développement.
+Pour l’expert(e), aussi appelé(e) *bagger*, c’est l’opportunité de se faire connaître, de rôder une présentation — utile pour la répéter en amont d’une conférence — ou encore d’exercer ses talents d’orateur, ce qui est plus facile à faire en petit comité d’une dizaine de personnes que face à un auditoire de trois cents participants.
 Si vous êtes intéressés par ce type d’événements, il suffit de vous rendre sur le site recensant toutes les personnes disposées à présenter des sujets sur ce format de BBL, http://www.brownbaglunch.fr. Ce ne sont pas moins de 250 femmes et hommes sur tout le territoire français qui s’y sont déjà inscrits !
 
 ![Meetup Docker hébergé chez Société Générale](meetup-docker.png "Meetup Docker hébergé chez Société Générale")
 
-*Meetup Docker hébergé chez Société Générale*
+*Meetup Docker hébergé chez Société Générale (crédit photo Adrien Blind, @AdrienBlind)*
 
 Un autre moyen pour les entreprises d’avoir une part active au sein des communautés est l’hébergement de meetups.
 Un meetup, qui doit son nom au site Internet éponyme, est le rassemblement récurrent de passionnés autour d’un sujet.
@@ -304,11 +315,11 @@ Sur la place parisienne, il y a plus de cent meetups dédiés à la technologie 
 Les hackathons sont très en vogue auprès des entreprises.
 Chaque année des dizaines d’événements de ce type sont mis sur pied à destination des développeurs, des entrepreneurs et des innovateurs.
 Un hackathon est un concours de développement collaboratif qui met en concurrence une dizaine d’équipes en moyenne pendant un, deux ou trois jours.
-Les entreprises qui mettent en place ce type d’événements donnent généralement un thème ou certaines contraintes aux candidats, par exemple le fait d’utiliser les *API* publiques de la société.
+Les entreprises qui mettent en place ce type d’événements donnent généralement un thème ou certaines contraintes aux candidats, par exemple le fait d’utiliser les *API* publiques de l’entreprise.
 Au terme du hackathon, les équipes présentent leurs réalisations à un jury, qui finit par élire les projets gagnants.
 
 Si les hackathons ont clairement un intérêt pour les entreprises, il est très important que ces dernières offrent une véritable compensation aux participants.
-Considérer les hackathons comme de la main d’œuvre pratiquement gratuite risque de créer l’effet inverse de celui escompté, et ainsi de mettre la société dans une situation délicate.
+Considérer les hackathons comme de la main d’œuvre pratiquement gratuite risque de créer l’effet inverse de celui escompté, et ainsi de mettre l’entreprise dans une situation délicate.
 Pour éviter ce fameux effet *bad buzz* il est préférable de prévoir des récompenses de valeur pour les participants, l’idéal serait même d’être en mesure d’incuber une poignée de projets pour leur permettre de concrétiser les projets qu’ils auront ébauchés lors de l’événement.
 
 Un autre type d’événement qui intéresse beaucoup les développeurs est la conférence interne.
@@ -327,23 +338,23 @@ Devenir le sponsor d’une conférence offre de nombreux atouts aux entreprises.
 
 ## Conclusion
 
-Nous avons pu voir au travers de cet article de nombreuses pistes pour améliorer le quotidien des développeurs, et ainsi les rendre plus heureux, et par voie de conséquence, plus productifs.
+Nous avons présenté de nombreuses pistes pour améliorer le quotidien des développeurs, et ainsi les rendre plus heureux, et plus productifs.
 Si toutes ces pistes ne sont pas applicables chez vous immédiatement, que ce soit par manque de temps, d’argent ou de volonté, il faut en retenir trois des aspects les plus importants.
 
 Tout d’abord, se rendre compte que de petites actions peuvent avoir de grandes conséquences.
-Offrir un environnement stimulant et productif — avec un matériel adapté au développement par exemple — permettra aux développeurs de se sentir en bonnes conditions pour réaliser leur travail, ce qui n’est pas à négliger.
+Offrir un environnement stimulant et productif — avec un matériel adapté au développement par exemple — permettra aux développeurs de se sentir dans de bonnes conditions pour réaliser leur travail.
 
-Ensuite, il est absolument indispensable de considérer le développeur en tant que tel.
+Ensuite, il est indispensable de considérer le développeur en tant que tel.
 Il est loin le temps où ce métier était un tremplin vers le métier de manager ou chef de projet.
-D’autres pistes existent, qui permettent aux personnes qui le souhaitent de rester proches de la technique, tout en ayant une considération de sa hiérarchie en adéquation.
+D’autres pistes existent, qui permettent aux personnes qui le souhaitent de rester proches de la technique, tout en bénéficiant de la considération de sa hiérarchie.
 
-Enfin, il est fortement conseillé d’offrir aux développeurs un milieu proche de celui qu’il peut connaître à l’extérieur de la société : participation à l’open-source, communautés regroupant des experts dans les mêmes domaines que lui, et ainsi de suite.
+Enfin, il est fortement conseillé d’offrir aux développeurs un milieu proche de celui qu’il peut connaître à l’extérieur de l’entreprise : participation à l’open-source, communautés regroupant des experts dans les mêmes domaines que lui.
 
 La mise en place de ces différents éléments ne résoudra sans doute pas tous les problèmes, mais cela contribuera énormément au bien-être des développeurs, qui se sentiront bien plus attachés à leur entreprise.
 
 ![Sur scène à Devoxx France 2017](on-stage-devoxx.jpg "Sur scène à Devoxx France 2017")
 
-*Romain et Cyril sur scène à Devoxx France 2017*
+*Romain et Cyril sur scène à Devoxx France 2017 (crédit photo &copy;Flickr, Devoxx France)*
 
 * [1] https://fr.wikipedia.org/wiki/Test_de_Joël
 * [2] https://www.thoughtworks.com/radar
