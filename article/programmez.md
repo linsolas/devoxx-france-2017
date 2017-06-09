@@ -299,12 +299,12 @@ Le *Brown Bag Lunch* — ou plus simplement *BBL* — représente le moyen le pl
 Le concept est très simple et peut se résumer ainsi : on invite un(e) expert(e) le temps du déjeuner pour venir réaliser une présentation technique dans son domaine.
 Le terme de *brown bag* fait à ce propos référence au fameux sac en papier marron que l’on utilise pour transporter son déjeuner sur son lieu de travail.
 Pour l’hôte — et donc l’entreprise, les avantages sont multiples : cela représente une veille technologique très accessible, très variée tant les sujets proposés lors des BBL sont vastes et cela permet à ses collaborateurs de découvrir de nouveaux langages, outils ou méthodes de développement.
-Pour l’expert(e), aussi appelé(e) *bagger*, c’est l’opportunité de se faire connaître, de rôder une présentation — utile pour la répéter en amont d’une conférence  — ou encore d’exercer ses talents d’orateur, ce qui est plus facile à faire en petit comité d’une dizaine de personnes que face à un auditoire de trois cents participants.
+Pour l’expert(e), aussi appelé(e) *bagger*, c’est l’opportunité de se faire connaître, de rôder une présentation — utile pour la répéter en amont d’une conférence — ou encore d’exercer ses talents d’orateur, ce qui est plus facile à faire en petit comité d’une dizaine de personnes que face à un auditoire de trois cents participants.
 Si vous êtes intéressés par ce type d’événements, il suffit de vous rendre sur le site recensant toutes les personnes disposées à présenter des sujets sur ce format de BBL, http://www.brownbaglunch.fr. Ce ne sont pas moins de 250 femmes et hommes sur tout le territoire français qui s’y sont déjà inscrits !
 
 ![Meetup Docker hébergé chez Société Générale](meetup-docker.png "Meetup Docker hébergé chez Société Générale")
 
-*Meetup Docker hébergé chez Société Générale (photo @AdrienBlind)*
+*Meetup Docker hébergé chez Société Générale (crédit photo Adrien Blind, @AdrienBlind)*
 
 Un autre moyen pour les entreprises d’avoir une part active au sein des communautés est l’hébergement de meetups.
 Un meetup, qui doit son nom au site Internet éponyme, est le rassemblement récurrent de passionnés autour d’un sujet.
