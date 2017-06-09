@@ -200,7 +200,7 @@ Viennent ensuite les niveaux « *Trail* », « *Assess* » et enfin « *Hold* »
 
 ![La partie langages du radar de Thoughtworks](thoughtworks-radar.png "La partie langages du radar de Thoughtworks")
 
-*La partie langages du radar de Thoughtworks (capture du site)*
+*La partie langages du radar de Thoughtworks (capture du site de &copy;Thoughtworks)*
 
 
 Le concept derrière ce genre de radar peut être appliqué en fonction de la vision d’une entreprise et on peut alors publier la liste des technologies sous cette forme.
