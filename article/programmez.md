@@ -354,7 +354,7 @@ La mise en place de ces différents éléments ne résoudra sans doute pas tous 
 
 ![Sur scène à Devoxx France 2017](on-stage-devoxx.jpg "Sur scène à Devoxx France 2017")
 
-*Romain et Cyril sur scène à Devoxx France 2017*
+*Romain et Cyril sur scène à Devoxx France 2017 (crédit photo &copy;Flickr, Devoxx France)*
 
 * [1] https://fr.wikipedia.org/wiki/Test_de_Joël
 * [2] https://www.thoughtworks.com/radar
