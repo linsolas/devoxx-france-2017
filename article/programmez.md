@@ -334,7 +334,7 @@ Devenir le sponsor d’une conférence offre de nombreux atouts aux entreprises.
 
 ![Stand AXA à Devoxx France 2017](stand-axa-devoxx2.png "Stand AXA à Devoxx France 2017")
 
-*Le stand AXA, sponsor platinium de Devoxx France 2017*
+*Le stand AXA, sponsor platinium de Devoxx France 2017 (crédit photo &copy;AXA)*
 
 ## Conclusion
 
