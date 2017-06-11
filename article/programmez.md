@@ -38,7 +38,7 @@ Il est donc important d’impliquer les développeurs directement dans le proces
 Après tout, ce sont eux qui vont travailler avec les nouvelles recrues, autant s’assurer directement de leur compatibilité professionnelle.
 Rencontrer des développeurs durant ce processus est toujours bien perçu par les candidats, mais cela ne va pas sans inconvénients.
 Cela impose par exemple aux développeurs de l’équipe de passer du temps à réaliser ces entretiens, à en faire un suivi.
-On peut le voir comme du temps perdu — car non imputéF sur le projet pour lequel il travaille — mais sur le long terme, l’entreprise est gagnante : un bon recrutement étant un véritable investissement sur l’avenir.
+On peut le voir comme du temps perdu — car non imputé sur le projet pour lequel il travaille — mais sur le long terme, l’entreprise est gagnante : un bon recrutement étant un véritable investissement sur l’avenir.
 
 On l’a évoqué, le marché est aujourd’hui très favorable aux développeurs.
 Ces derniers sont de fait très sollicités par les entreprises en mal de talents.
