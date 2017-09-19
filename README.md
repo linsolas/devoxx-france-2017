@@ -18,13 +18,16 @@ Quelques photos de l'événement :
 
 Sessions jouées :
 
-Evénement            | Lieu  | Date
----------------------|-------|------------
-BBL Société Générale | Paris | 2017-04-04
-Devoxx France        | Paris | 2017-04-06
-BBL Ippon            | Paris | 2017-05-29
-Chti JUG             | Lille | 2017-06-01
-Decathlon Tech Day   | Lille | 2017-06-02
-BBL Mappy            | Paris | 2017-07-03
-BBL Société Générale | Paris | 2017-07-12
-BBL AXA              | Paris | 2017-09-22
+Evénement            | Lieu             | Date
+---------------------|------------------|------------
+BBL Société Générale | Paris            | 2017-04-04
+Devoxx France        | Paris            | 2017-04-06
+BBL Ippon            | Paris            | 2017-05-29
+Chti JUG             | Lille            | 2017-06-01
+Decathlon Tech Day   | Lille            | 2017-06-02
+BBL Mappy            | Paris            | 2017-07-03
+BBL Société Générale | Paris            | 2017-07-12
+BBL AXA              | Paris            | 2017-09-22
+BBL Les Furêts       | Paris            | 2017-09-28
+BBL Michelin         | Clermont-Ferrand | 2017-10-12
+Lava JUG             | Clermont-Ferrand | 2017-10-12
