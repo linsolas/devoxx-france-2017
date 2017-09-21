@@ -31,3 +31,8 @@ BBL AXA              | Paris            | 2017-09-22
 BBL Les Furêts       | Paris            | 2017-09-28
 BBL Michelin         | Clermont-Ferrand | 2017-10-12
 Lava JUG             | Clermont-Ferrand | 2017-10-12
+
+* Article dans Programmez:
+  * [#210 Septembre 2017](https://www.programmez.com/magazine/programmez-210-pdf)
+  * [#211 Octobre 2017](https://www.programmez.com/magazine/programmez-211-pdf)
+  
